@@ -1,0 +1,36 @@
+"CÓDIGO DE LA SERIE",DCBIRAPLRAB.A,DCBIRAPLRAE.A,DCBIRAPLRAB_D091CR.A,DCBIRAPLRAE_D091CR.A,DCBIRAPLRAB_D092SR.A,DCBIRAPLRAE_D092SR.A,DCBIRAPLRAB_D0931.A,DCBIRAPLRAE_D0931.A,DCBIRAPLRAB_D0933.A,DCBIRAPLRAE_D0933.A,DCBIRAPLRAB_TS250.A,DCBIRAPLRAE_TS250.A,DCBIRAPLRAB_T50A250.A,DCBIRAPLRAE_T50A250.A,DCBIRAPLRAB_TI50.A,DCBIRAPLRAE_TI50.A
+"NÚMERO SECUENCIAL",2416554,2416555,2416556,2416557,2416558,2416559,2416560,2416561,2416562,2416563,2416564,2416565,2416566,2416567,2416568,2416569
+"ALIAS DE LA SERIE","BE_15_16.1","BE_15_16.2","BE_15_16.3","BE_15_16.4","BE_15_16.5","BE_15_16.6","BE_15_16.7","BE_15_16.8","BE_15_16.9","BE_15_16.10","BE_15_16.11","BE_15_16.12","BE_15_16.13","BE_15_16.14","BE_15_16.15","BE_15_16.16"
+"DESCRIPCIÓN DE LA SERIE","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Total. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Total. Año actual","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Energía con refino CNAE-09. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Energía con refino CNAE-09. Año actual","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Industria sin refino CNAE-09. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Industria sin refino CNAE-09. Año actual","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Comercio y hostelería CNAE-09. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Comercio y hostelería CNAE-09. Año actual","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Información y comunicaciones CNAE-09. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Información y comunicaciones CNAE-09. Año actual","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Empresas grandes. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Empresas grandes. Año actual","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Empresas medianas. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Empresas medianas. Año actual","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Empresas pequeñas. Año anterior","CBI. R.4 Diferencia rentabilidad - coste financiero (R.1 - R-2). Empresas pequeñas. Año actual"
+"DESCRIPCIÓN DE LAS UNIDADES","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje"
+"FRECUENCIA","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL"
+"1997",-0.80,1.30,-0.30,0.80,0.20,2.90,-0.70,1.90,1.20,3.70,-0.30,1.60,0.90,3.30,-6.10,-3.10
+"1998",1.30,3.20,0.80,2.50,3.00,5.20,1.70,4.30,3.50,6.20,1.60,3.40,3.50,4.80,-2.90,-0.30
+"1999",3.30,3.50,2.50,3.20,5.20,5.80,4.30,6.10,6.20,3.20,3.50,3.30,4.90,6.00,0.30,1.90
+"2000",3.60,2.80,3.30,3.00,6.10,5.50,6.40,4.60,5.60,2.60,3.40,2.70,6.20,4.40,2.20,1.20
+"2001",3.00,2.80,3.60,3.70,5.80,3.50,4.60,4.40,4.30,6.40,2.80,2.80,5.30,4.30,1.60,0.30
+"2002",2.80,3.60,4.60,6.00,3.60,3.20,4.30,4.40,6.20,8.70,2.80,3.80,4.50,4.40,0.60,0.60
+"2003",3.50,3.70,5.80,4.20,3.50,4.10,4.30,4.50,8.30,11.50,3.80,4.00,4.60,5.00,0.80,1.20
+"2004",3.70,4.20,4.10,3.80,4.40,5.60,4.70,4.70,12.70,16.10,4.00,4.60,5.10,5.30,1.40,1.50
+"2005",3.80,3.90,3.80,4.10,5.20,5.00,4.10,3.60,15.30,14.00,4.50,5.00,4.70,4.10,1.10,1.20
+"2006",4.00,3.80,4.10,4.90,5.20,4.40,3.70,3.20,12.30,11.80,5.00,4.90,4.10,3.60,1.40,1.00
+"2007",3.90,2.90,4.90,3.00,4.70,4.50,3.50,2.40,11.50,14.60,4.90,4.00,3.90,2.50,1.20,0.20
+"2008",2.90,1.60,2.80,2.40,4.30,1.40,3.50,0.80,13.70,16.50,3.70,2.70,3.20,-0.30,0.50,-1.80
+"2009",1.30,1.00,2.70,2.70,1.00,-0.30,0.50,0.30,16.80,15.20,2.60,2.40,0.10,-0.40,-1.90,-2.60
+"2010",0.90,1.30,2.40,2.10,-0.30,1.30,0.50,1.30,16.00,15.60,2.10,2.50,-0.10,0.10,-2.40,-2.00
+"2011",1.20,0.50,2.10,1.20,1.50,1.20,1.70,1.00,14.60,12.20,2.30,1.60,0.30,-0.40,-1.70,-2.60
+"2012",0.70,0.00,1.10,1.60,1.50,0.90,1.30,0.10,11.90,9.60,1.70,1.10,-0.20,-0.60,-2.20,-2.80
+"2013",0.20,0.40,1.70,1.60,1.60,1.50,0.50,1.40,9.80,8.90,1.20,1.30,-0.40,0.10,-2.60,-2.10
+"2014",0.50,0.90,1.70,0.70,1.50,2.30,1.30,1.90,9.20,6.80,1.30,1.60,0.50,1.40,-2.00,-1.20
+"2015",0.90,1.50,0.60,1.30,2.30,4.40,2.20,3.80,8.10,7.80,1.60,1.90,1.70,3.00,-1.10,-0.20
+"2016",1.60,2.30,1.50,2.30,4.60,5.70,4.10,5.50,7.00,8.30,2.10,2.80,3.20,4.10,0.00,0.60
+"2017",2.50,2.90,2.40,2.40,6.00,6.20,5.70,6.10,8.90,9.90,2.90,3.40,4.70,4.70,0.80,1.30
+"2018",3.00,3.20,2.50,2.40,6.40,5.90,6.30,6.70,9.40,9.00,3.30,3.60,5.10,4.80,1.40,1.40
+"2019",3.30,3.60,2.50,3.70,6.10,5.40,6.90,5.90,9.00,9.20,3.70,4.20,5.10,4.60,1.70,1.60
+"2020",3.70,1.90,3.90,3.40,5.50,3.20,6.10,2.20,9.20,4.60,4.20,2.20,4.80,3.20,1.60,0.60
+"2021",1.90,2.20,4.50,4.50,3.50,4.90,2.30,4.90,4.40,3.60,2.20,2.10,3.70,4.70,0.80,1.90
+"2022",2.20,2.90,4.50,6.20,5.30,6.20,5.50,6.70,4.30,5.30,2.10,2.90,5.30,5.70,2.10,2.40
+"2023",2.90,2.70,6.30,6.20,6.30,5.20,6.70,5.50,4.50,4.50,2.90,2.70,6.20,5.80,2.60,2.10
+"2024",2.70,2.60,7.00,5.50,5.30,4.70,5.80,6.00,4.90,5.60,2.70,2.60,6.50,6.30,2.30,2.20
+"FUENTE","","","","","","","","","","","","","","","",""
+"NOTAS","","","","","","","","","","","","","","","",""

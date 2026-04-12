@@ -1,0 +1,8084 @@
+pais,año,indice_quiebras_eurostat
+Belgium,2015,100.0
+Belgium,2016,83.9
+Belgium,2017,87.8
+Belgium,2018,82.1
+Belgium,2019,91.1
+Belgium,2020,59.8
+Belgium,2021,56.9
+Belgium,2022,85.2
+Belgium,2023,93.9
+Bulgaria,2015,100.0
+Bulgaria,2016,81.3
+Bulgaria,2017,92.0
+Bulgaria,2018,72.2
+Bulgaria,2019,77.6
+Bulgaria,2020,72.2
+Bulgaria,2021,58.2
+Bulgaria,2022,85.3
+Bulgaria,2023,54.8
+Cyprus,2015,100.0
+Cyprus,2016,23.5
+Cyprus,2017,23.5
+Cyprus,2018,5.9
+Cyprus,2019,35.3
+Cyprus,2020,29.4
+Cyprus,2021,23.5
+Cyprus,2022,0.0
+Cyprus,2023,11.8
+Germany,2015,100.0
+Germany,2016,91.2
+Germany,2017,91.6
+Germany,2018,80.0
+Germany,2019,84.1
+Germany,2020,77.7
+Germany,2021,55.7
+Germany,2022,62.1
+Germany,2023,74.5
+Denmark,2015,100.0
+Denmark,2016,117.1
+Denmark,2017,115.4
+Denmark,2018,125.2
+Denmark,2019,158.9
+Denmark,2020,105.7
+Denmark,2021,142.7
+Denmark,2022,142.7
+Denmark,2023,135.8
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,89.5
+Euro area - 19 countries  (2015-2022),2017,88.7
+Euro area - 19 countries  (2015-2022),2018,98.7
+Euro area - 19 countries  (2015-2022),2019,104.6
+Euro area - 19 countries  (2015-2022),2020,78.9
+Euro area - 19 countries  (2015-2022),2021,70.1
+Euro area - 19 countries  (2015-2022),2022,76.0
+Euro area - 19 countries  (2015-2022),2023,87.8
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,92.7
+Euro area – 20 countries (2023-2025),2017,90.6
+Euro area – 20 countries (2023-2025),2018,99.6
+Euro area – 20 countries (2023-2025),2019,105.0
+Euro area – 20 countries (2023-2025),2020,79.1
+Euro area – 20 countries (2023-2025),2021,70.6
+Euro area – 20 countries (2023-2025),2022,76.7
+Euro area – 20 countries (2023-2025),2023,88.0
+Estonia,2015,100.0
+Estonia,2016,122.7
+Estonia,2017,104.5
+Estonia,2018,77.3
+Estonia,2019,100.0
+Estonia,2020,140.9
+Estonia,2021,59.1
+Estonia,2022,95.5
+Estonia,2023,159.1
+Spain,2015,100.0
+Spain,2016,79.2
+Spain,2017,86.4
+Spain,2018,85.8
+Spain,2019,95.5
+Spain,2020,79.2
+Spain,2021,109.7
+Spain,2022,142.8
+Spain,2023,133.4
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,88.6
+European Union - 27 countries (from 2020),2017,84.9
+European Union - 27 countries (from 2020),2018,93.6
+European Union - 27 countries (from 2020),2019,97.9
+European Union - 27 countries (from 2020),2020,75.6
+European Union - 27 countries (from 2020),2021,68.6
+European Union - 27 countries (from 2020),2022,72.1
+European Union - 27 countries (from 2020),2023,82.8
+France,2015,100.0
+France,2016,90.5
+France,2017,85.4
+France,2018,85.9
+France,2019,75.3
+France,2020,46.2
+France,2021,39.8
+France,2022,65.8
+France,2023,86.0
+Croatia,2015,100.0
+Croatia,2016,333.4
+Croatia,2017,228.1
+Croatia,2018,169.4
+Croatia,2019,137.6
+Croatia,2020,88.9
+Croatia,2021,107.7
+Croatia,2022,129.7
+Croatia,2023,101.6
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,44.4
+Hungary,2022,81.7
+Hungary,2023,143.1
+Iceland,2015,100.0
+Iceland,2016,145.0
+Iceland,2017,107.5
+Iceland,2018,195.0
+Iceland,2019,157.5
+Iceland,2020,115.0
+Iceland,2021,122.5
+Iceland,2022,80.0
+Iceland,2023,112.5
+Italy,2015,100.0
+Italy,2016,92.9
+Italy,2017,76.9
+Italy,2018,70.8
+Italy,2019,73.8
+Italy,2020,51.3
+Italy,2021,51.5
+Italy,2022,40.1
+Italy,2023,47.1
+Lithuania,2015,100.0
+Lithuania,2016,132.5
+Lithuania,2017,144.7
+Lithuania,2018,89.3
+Lithuania,2019,82.0
+Lithuania,2020,55.8
+Lithuania,2021,44.2
+Lithuania,2022,47.6
+Lithuania,2023,54.9
+Luxembourg,2015,100.0
+Luxembourg,2016,69.6
+Luxembourg,2017,43.5
+Luxembourg,2018,87.0
+Luxembourg,2019,52.2
+Luxembourg,2020,82.6
+Luxembourg,2021,56.5
+Luxembourg,2022,65.2
+Luxembourg,2023,43.5
+Latvia,2015,100.0
+Latvia,2016,89.8
+Latvia,2017,75.5
+Latvia,2018,91.8
+Latvia,2019,89.8
+Latvia,2020,45.9
+Latvia,2021,31.6
+Latvia,2022,38.8
+Latvia,2023,28.6
+Malta,2015,100.0
+Malta,2016,50.0
+Malta,2017,0.0
+Malta,2018,0.0
+Malta,2019,50.0
+Malta,2020,100.0
+Malta,2021,0.0
+Malta,2022,0.0
+Malta,2023,0.0
+Netherlands,2015,100.0
+Netherlands,2016,91.8
+Netherlands,2017,68.4
+Netherlands,2018,68.4
+Netherlands,2019,68.9
+Netherlands,2020,56.4
+Netherlands,2021,28.6
+Netherlands,2022,40.0
+Netherlands,2023,65.6
+Norway,2015,100.0
+Norway,2016,104.4
+Norway,2017,94.5
+Norway,2018,102.2
+Norway,2019,100.0
+Norway,2020,92.3
+Norway,2021,71.6
+Norway,2022,87.4
+Norway,2023,103.3
+Poland,2015,100.0
+Poland,2016,78.2
+Poland,2017,61.7
+Poland,2018,74.6
+Poland,2019,70.5
+Poland,2020,64.2
+Poland,2021,49.7
+Poland,2022,46.6
+Poland,2023,54.4
+Portugal,2015,100.0
+Portugal,2016,75.7
+Portugal,2017,72.6
+Portugal,2018,71.7
+Portugal,2019,79.4
+Portugal,2020,76.8
+Portugal,2021,55.4
+Portugal,2022,43.7
+Portugal,2023,64.6
+Romania,2015,100.0
+Romania,2016,42.2
+Romania,2017,40.6
+Romania,2018,54.9
+Romania,2019,65.3
+Romania,2020,57.9
+Romania,2021,94.4
+Romania,2022,32.0
+Romania,2023,30.6
+Slovenia,2015,100.0
+Slovenia,2016,111.5
+Slovenia,2017,121.6
+Slovenia,2018,116.2
+Slovenia,2019,85.1
+Slovenia,2020,77.0
+Slovenia,2021,78.4
+Slovenia,2022,52.7
+Slovenia,2023,66.9
+Slovakia,2015,100.0
+Slovakia,2016,84.5
+Slovakia,2017,186.2
+Slovakia,2018,524.1
+Slovakia,2019,625.9
+Slovakia,2020,431.0
+Slovakia,2021,339.7
+Slovakia,2022,287.9
+Slovakia,2023,332.8
+Austria,2019,176.7
+Austria,2020,105.7
+Austria,2021,100.0
+Austria,2022,159.1
+Austria,2023,173.9
+Austria,2024,232.4
+Austria,2025,222.7
+Belgium,2015,175.8
+Belgium,2016,147.4
+Belgium,2017,154.3
+Belgium,2018,144.3
+Belgium,2019,160.2
+Belgium,2020,105.2
+Belgium,2021,100.0
+Belgium,2022,149.8
+Belgium,2023,165.1
+Belgium,2024,172.0
+Belgium,2025,175.1
+Bulgaria,2015,171.8
+Bulgaria,2016,139.7
+Bulgaria,2017,164.9
+Bulgaria,2018,124.1
+Bulgaria,2019,133.3
+Bulgaria,2020,124.1
+Bulgaria,2021,100.0
+Bulgaria,2022,146.6
+Bulgaria,2023,94.3
+Bulgaria,2024,91.4
+Bulgaria,2025,66.1
+Cyprus,2015,425.0
+Cyprus,2016,100.0
+Cyprus,2017,100.0
+Cyprus,2018,25.0
+Cyprus,2019,150.0
+Cyprus,2020,125.0
+Cyprus,2021,100.0
+Cyprus,2022,0.0
+Cyprus,2023,50.0
+Cyprus,2024,25.0
+Cyprus,2025,25.0
+Czechia,2021,100.0
+Czechia,2022,111.4
+Czechia,2023,118.9
+Czechia,2024,133.7
+Czechia,2025,157.0
+Germany,2015,179.4
+Germany,2016,163.6
+Germany,2017,164.4
+Germany,2018,143.6
+Germany,2019,151.0
+Germany,2020,139.4
+Germany,2021,100.0
+Germany,2022,111.4
+Germany,2023,134.7
+Germany,2024,170.3
+Germany,2025,189.5
+Denmark,2015,70.2
+Denmark,2016,82.4
+Denmark,2017,81.2
+Denmark,2018,88.4
+Denmark,2019,111.6
+Denmark,2020,74.6
+Denmark,2021,100.0
+Denmark,2022,100.3
+Denmark,2023,96.0
+Denmark,2024,78.6
+Denmark,2025,82.9
+Euro area - 19 countries  (2015-2022),2015,188.1
+Euro area - 19 countries  (2015-2022),2016,170.2
+Euro area - 19 countries  (2015-2022),2017,158.1
+Euro area - 19 countries  (2015-2022),2018,154.1
+Euro area - 19 countries  (2015-2022),2019,155.7
+Euro area - 19 countries  (2015-2022),2020,117.0
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,111.5
+Euro area - 19 countries  (2015-2022),2023,138.5
+Euro area – 20 countries (2023-2025),2015,186.7
+Euro area – 20 countries (2023-2025),2016,172.3
+Euro area – 20 countries (2023-2025),2017,158.6
+Euro area – 20 countries (2023-2025),2018,153.9
+Euro area – 20 countries (2023-2025),2019,155.2
+Euro area – 20 countries (2023-2025),2020,116.6
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,116.0
+Euro area – 20 countries (2023-2025),2023,145.6
+Euro area – 20 countries (2023-2025),2024,166.1
+Euro area – 20 countries (2023-2025),2025,175.5
+Euro area – 21 countries (from 2026),2015,186.4
+Euro area – 21 countries (from 2026),2016,171.6
+Euro area – 21 countries (from 2026),2017,158.8
+Euro area – 21 countries (from 2026),2018,153.3
+Euro area – 21 countries (from 2026),2019,154.7
+Euro area – 21 countries (from 2026),2020,116.7
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,116.6
+Euro area – 21 countries (from 2026),2023,144.6
+Euro area – 21 countries (from 2026),2024,164.7
+Euro area – 21 countries (from 2026),2025,173.4
+Estonia,2015,169.2
+Estonia,2016,207.7
+Estonia,2017,176.9
+Estonia,2018,130.8
+Estonia,2019,169.2
+Estonia,2020,238.5
+Estonia,2021,100.0
+Estonia,2022,161.5
+Estonia,2023,269.2
+Estonia,2024,261.5
+Estonia,2025,184.6
+Greece,2021,
+Greece,2022,
+Greece,2023,271.4
+Greece,2024,207.1
+Greece,2025,414.3
+Spain,2015,91.1
+Spain,2016,72.2
+Spain,2017,78.7
+Spain,2018,78.2
+Spain,2019,87.0
+Spain,2020,72.2
+Spain,2021,100.0
+Spain,2022,130.1
+Spain,2023,127.1
+Spain,2024,140.5
+Spain,2025,142.1
+European Union - 27 countries (from 2020),2015,184.1
+European Union - 27 countries (from 2020),2016,162.7
+European Union - 27 countries (from 2020),2017,148.1
+European Union - 27 countries (from 2020),2018,147.0
+European Union - 27 countries (from 2020),2019,147.6
+European Union - 27 countries (from 2020),2020,113.7
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,112.3
+European Union - 27 countries (from 2020),2023,138.5
+European Union - 27 countries (from 2020),2024,153.0
+European Union - 27 countries (from 2020),2025,162.5
+Finland,2020,87.3
+Finland,2021,100.0
+Finland,2022,105.0
+Finland,2023,114.0
+Finland,2024,125.8
+Finland,2025,133.0
+France,2015,251.2
+France,2016,227.4
+France,2017,214.4
+France,2018,215.8
+France,2019,189.2
+France,2020,115.9
+France,2021,100.0
+France,2022,164.6
+France,2023,216.2
+France,2024,234.6
+France,2025,242.5
+Croatia,2015,92.9
+Croatia,2016,309.7
+Croatia,2017,211.9
+Croatia,2018,157.3
+Croatia,2019,127.8
+Croatia,2020,82.5
+Croatia,2021,100.0
+Croatia,2022,120.5
+Croatia,2023,94.4
+Croatia,2024,109.3
+Croatia,2025,88.1
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,184.0
+Hungary,2023,322.3
+Hungary,2024,257.5
+Hungary,2025,234.8
+Iceland,2015,83.3
+Iceland,2016,120.8
+Iceland,2017,89.6
+Iceland,2018,162.5
+Iceland,2019,131.3
+Iceland,2020,95.8
+Iceland,2021,100.0
+Iceland,2022,66.7
+Iceland,2023,97.9
+Iceland,2024,102.1
+Iceland,2025,85.4
+Italy,2015,194.3
+Italy,2016,180.5
+Italy,2017,149.4
+Italy,2018,137.5
+Italy,2019,143.4
+Italy,2020,99.7
+Italy,2021,100.0
+Italy,2022,77.9
+Italy,2023,91.6
+Italy,2024,106.9
+Italy,2025,110.2
+Lithuania,2015,226.4
+Lithuania,2016,300.0
+Lithuania,2017,327.5
+Lithuania,2018,202.2
+Lithuania,2019,185.7
+Lithuania,2020,126.4
+Lithuania,2021,100.0
+Lithuania,2022,107.7
+Lithuania,2023,124.2
+Lithuania,2024,147.3
+Lithuania,2025,134.1
+Luxembourg,2015,176.9
+Luxembourg,2016,123.1
+Luxembourg,2017,76.9
+Luxembourg,2018,153.8
+Luxembourg,2019,92.3
+Luxembourg,2020,146.2
+Luxembourg,2021,100.0
+Luxembourg,2022,115.4
+Luxembourg,2023,76.9
+Luxembourg,2024,100.0
+Luxembourg,2025,130.8
+Latvia,2015,312.5
+Latvia,2016,281.3
+Latvia,2017,234.4
+Latvia,2018,281.3
+Latvia,2019,275.0
+Latvia,2020,140.6
+Latvia,2021,100.0
+Latvia,2022,118.8
+Latvia,2023,87.5
+Latvia,2024,140.6
+Latvia,2025,118.8
+Montenegro,2021,100.0
+Montenegro,2022,107.9
+Montenegro,2023,71.1
+Montenegro,2024,76.3
+Montenegro,2025,
+North Macedonia,2020,73.5
+North Macedonia,2021,100.0
+North Macedonia,2022,97.1
+North Macedonia,2023,123.5
+North Macedonia,2024,123.5
+North Macedonia,2025,120.6
+Malta,2015,200.0
+Malta,2016,100.0
+Malta,2017,0.0
+Malta,2018,0.0
+Malta,2019,100.0
+Malta,2020,200.0
+Malta,2021,100.0
+Malta,2022,0.0
+Malta,2023,0.0
+Malta,2024,0.0
+Malta,2025,0.0
+Netherlands,2015,350.0
+Netherlands,2016,321.3
+Netherlands,2017,239.3
+Netherlands,2018,239.3
+Netherlands,2019,241.0
+Netherlands,2020,197.5
+Netherlands,2021,100.0
+Netherlands,2022,140.2
+Netherlands,2023,228.7
+Netherlands,2024,316.4
+Netherlands,2025,258.2
+Norway,2015,139.7
+Norway,2016,145.8
+Norway,2017,132.1
+Norway,2018,142.7
+Norway,2019,139.7
+Norway,2020,129.0
+Norway,2021,100.0
+Norway,2022,122.1
+Norway,2023,144.3
+Norway,2024,146.6
+Norway,2025,131.3
+Poland,2015,201.0
+Poland,2016,157.3
+Poland,2017,124.0
+Poland,2018,150.0
+Poland,2019,141.7
+Poland,2020,129.2
+Poland,2021,100.0
+Poland,2022,93.8
+Poland,2023,109.4
+Poland,2024,106.3
+Poland,2025,122.9
+Portugal,2015,180.3
+Portugal,2016,136.6
+Portugal,2017,131.0
+Portugal,2018,129.2
+Portugal,2019,143.2
+Portugal,2020,138.6
+Portugal,2021,100.0
+Portugal,2022,78.9
+Portugal,2023,116.5
+Portugal,2024,141.5
+Portugal,2025,107.9
+Romania,2015,105.9
+Romania,2016,44.7
+Romania,2017,43.0
+Romania,2018,58.2
+Romania,2019,69.1
+Romania,2020,61.3
+Romania,2021,100.0
+Romania,2022,33.9
+Romania,2023,32.4
+Romania,2024,33.4
+Romania,2025,35.2
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,104.2
+Sweden,2023,116.4
+Sweden,2024,160.6
+Sweden,2025,159.7
+Slovenia,2015,127.6
+Slovenia,2016,142.2
+Slovenia,2017,155.2
+Slovenia,2018,148.3
+Slovenia,2019,108.6
+Slovenia,2020,98.3
+Slovenia,2021,100.0
+Slovenia,2022,67.2
+Slovenia,2023,85.3
+Slovenia,2024,93.1
+Slovenia,2025,102.6
+Slovakia,2015,29.4
+Slovakia,2016,24.9
+Slovakia,2017,54.8
+Slovakia,2018,154.3
+Slovakia,2019,184.3
+Slovakia,2020,126.9
+Slovakia,2021,100.0
+Slovakia,2022,84.8
+Slovakia,2023,98.0
+Slovakia,2024,111.7
+Slovakia,2025,126.9
+Ukraine,2021,100.0
+Ukraine,2022,57.9
+Ukraine,2023,105.3
+Ukraine,2024,95.5
+Ukraine,2025,109.0
+Kosovo*,2021,100.0
+Kosovo*,2022,102.7
+Kosovo*,2023,112.1
+Kosovo*,2024,118.8
+Kosovo*,2025,105.4
+Austria,2020,-40.2
+Austria,2021,-5.4
+Austria,2022,59.1
+Austria,2023,9.3
+Austria,2024,33.6
+Austria,2025,-4.2
+Belgium,2015,-17.7
+Belgium,2016,-16.2
+Belgium,2017,4.7
+Belgium,2018,-6.5
+Belgium,2019,11.0
+Belgium,2020,-34.3
+Belgium,2021,-4.9
+Belgium,2022,49.8
+Belgium,2023,10.2
+Belgium,2024,4.2
+Belgium,2025,1.8
+Bulgaria,2015,2.4
+Bulgaria,2016,-18.7
+Bulgaria,2017,18.0
+Bulgaria,2018,-24.7
+Bulgaria,2019,7.4
+Bulgaria,2020,-6.9
+Bulgaria,2021,-19.4
+Bulgaria,2022,46.6
+Bulgaria,2023,-35.7
+Bulgaria,2024,-3.1
+Bulgaria,2025,-27.7
+Cyprus,2016,-76.5
+Cyprus,2017,0.0
+Cyprus,2018,-75.0
+Cyprus,2019,500.0
+Cyprus,2020,-16.7
+Cyprus,2021,-20.0
+Cyprus,2024,-50.0
+Cyprus,2025,0.0
+Czechia,2022,11.4
+Czechia,2023,6.7
+Czechia,2024,12.4
+Czechia,2025,17.4
+Germany,2015,-4.4
+Germany,2016,-8.8
+Germany,2017,0.5
+Germany,2018,-12.7
+Germany,2019,5.2
+Germany,2020,-7.7
+Germany,2021,-28.3
+Germany,2022,11.4
+Germany,2023,20.9
+Germany,2024,26.4
+Germany,2025,11.3
+Denmark,2015,3.8
+Denmark,2016,17.4
+Denmark,2017,-1.5
+Denmark,2018,8.9
+Denmark,2019,26.2
+Denmark,2020,-33.2
+Denmark,2021,34.0
+Denmark,2022,0.3
+Denmark,2023,-4.3
+Denmark,2024,-18.1
+Denmark,2025,5.5
+Euro area - 19 countries  (2015-2022),2015,-9.3
+Euro area - 19 countries  (2015-2022),2016,-9.5
+Euro area - 19 countries  (2015-2022),2017,-7.1
+Euro area - 19 countries  (2015-2022),2018,-2.5
+Euro area - 19 countries  (2015-2022),2019,1.0
+Euro area - 19 countries  (2015-2022),2020,-24.9
+Euro area - 19 countries  (2015-2022),2021,-14.5
+Euro area - 19 countries  (2015-2022),2022,11.5
+Euro area - 19 countries  (2015-2022),2023,24.2
+Euro area – 20 countries (2023-2025),2015,-9.3
+Euro area – 20 countries (2023-2025),2016,-7.7
+Euro area – 20 countries (2023-2025),2017,-8.0
+Euro area – 20 countries (2023-2025),2018,-3.0
+Euro area – 20 countries (2023-2025),2019,0.8
+Euro area – 20 countries (2023-2025),2020,-24.9
+Euro area – 20 countries (2023-2025),2021,-14.2
+Euro area – 20 countries (2023-2025),2022,16.0
+Euro area – 20 countries (2023-2025),2023,25.5
+Euro area – 20 countries (2023-2025),2024,14.1
+Euro area – 20 countries (2023-2025),2025,5.7
+Euro area – 21 countries (from 2026),2015,-9.1
+Euro area – 21 countries (from 2026),2016,-7.9
+Euro area – 21 countries (from 2026),2017,-7.5
+Euro area – 21 countries (from 2026),2018,-3.5
+Euro area – 21 countries (from 2026),2019,0.9
+Euro area – 21 countries (from 2026),2020,-24.6
+Euro area – 21 countries (from 2026),2021,-14.3
+Euro area – 21 countries (from 2026),2022,16.6
+Euro area – 21 countries (from 2026),2023,24.0
+Euro area – 21 countries (from 2026),2024,13.9
+Euro area – 21 countries (from 2026),2025,5.3
+Estonia,2015,-18.5
+Estonia,2016,22.8
+Estonia,2017,-14.8
+Estonia,2018,-26.1
+Estonia,2019,29.4
+Estonia,2020,41.0
+Estonia,2021,-58.1
+Estonia,2022,61.5
+Estonia,2023,66.7
+Estonia,2024,-2.9
+Estonia,2025,-29.4
+Greece,2022,
+Greece,2023,
+Greece,2024,-23.7
+Greece,2025,100.0
+Spain,2015,-38.8
+Spain,2016,-20.7
+Spain,2017,9.0
+Spain,2018,-0.6
+Spain,2019,11.3
+Spain,2020,-17.0
+Spain,2021,38.5
+Spain,2022,30.1
+Spain,2023,-2.3
+Spain,2024,10.5
+Spain,2025,1.1
+European Union - 27 countries (from 2020),2015,-12.1
+European Union - 27 countries (from 2020),2016,-11.6
+European Union - 27 countries (from 2020),2017,-9.0
+European Union - 27 countries (from 2020),2018,-0.7
+European Union - 27 countries (from 2020),2019,0.4
+European Union - 27 countries (from 2020),2020,-23.0
+European Union - 27 countries (from 2020),2021,-12.0
+European Union - 27 countries (from 2020),2022,12.3
+European Union - 27 countries (from 2020),2023,23.3
+European Union - 27 countries (from 2020),2024,10.5
+European Union - 27 countries (from 2020),2025,6.2
+Finland,2021,14.5
+Finland,2022,5.0
+Finland,2023,8.6
+Finland,2024,10.4
+Finland,2025,5.7
+France,2015,-1.8
+France,2016,-9.5
+France,2017,-5.7
+France,2018,0.7
+France,2019,-12.3
+France,2020,-38.7
+France,2021,-13.7
+France,2022,64.6
+France,2023,31.3
+France,2024,8.5
+France,2025,3.4
+Croatia,2016,233.4
+Croatia,2017,-31.6
+Croatia,2018,-25.8
+Croatia,2019,-18.8
+Croatia,2020,-35.4
+Croatia,2021,21.2
+Croatia,2022,20.5
+Croatia,2023,-21.7
+Croatia,2024,15.8
+Croatia,2025,-19.4
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,84.0
+Hungary,2023,75.2
+Hungary,2024,-20.1
+Hungary,2025,-8.8
+Iceland,2015,-24.5
+Iceland,2016,45.0
+Iceland,2017,-25.8
+Iceland,2018,81.4
+Iceland,2019,-19.2
+Iceland,2020,-27.0
+Iceland,2021,4.4
+Iceland,2022,-33.3
+Iceland,2023,46.8
+Iceland,2024,4.3
+Iceland,2025,-16.4
+Italy,2015,-10.6
+Italy,2016,-7.1
+Italy,2017,-17.2
+Italy,2018,-8.0
+Italy,2019,4.3
+Italy,2020,-30.5
+Italy,2021,0.3
+Italy,2022,-22.1
+Italy,2023,17.6
+Italy,2024,16.7
+Italy,2025,3.1
+Lithuania,2015,11.4
+Lithuania,2016,32.5
+Lithuania,2017,9.2
+Lithuania,2018,-38.3
+Lithuania,2019,-8.2
+Lithuania,2020,-31.9
+Lithuania,2021,-20.9
+Lithuania,2022,7.7
+Lithuania,2023,15.3
+Lithuania,2024,18.6
+Lithuania,2025,-9.0
+Luxembourg,2015,4.6
+Luxembourg,2016,-30.4
+Luxembourg,2017,-37.5
+Luxembourg,2018,100.0
+Luxembourg,2019,-40.0
+Luxembourg,2020,58.4
+Luxembourg,2021,-31.6
+Luxembourg,2022,15.4
+Luxembourg,2023,-33.4
+Luxembourg,2024,30.0
+Luxembourg,2025,30.8
+Latvia,2016,-10.0
+Latvia,2017,-16.7
+Latvia,2018,20.0
+Latvia,2019,-2.2
+Latvia,2020,-48.9
+Latvia,2021,-28.9
+Latvia,2022,18.8
+Latvia,2023,-26.3
+Latvia,2024,60.7
+Latvia,2025,-15.5
+Montenegro,2022,7.9
+Montenegro,2023,-34.1
+Montenegro,2024,7.3
+Montenegro,2025,
+North Macedonia,2021,36.1
+North Macedonia,2022,-2.9
+North Macedonia,2023,27.2
+North Macedonia,2024,0.0
+North Macedonia,2025,-2.3
+Malta,2016,-50.0
+Malta,2020,100.0
+Malta,2021,-50.0
+Netherlands,2015,-28.5
+Netherlands,2016,-8.2
+Netherlands,2017,-25.5
+Netherlands,2018,0.0
+Netherlands,2019,0.7
+Netherlands,2020,-18.0
+Netherlands,2021,-49.4
+Netherlands,2022,40.2
+Netherlands,2023,63.1
+Netherlands,2024,38.3
+Netherlands,2025,-18.4
+Norway,2016,4.4
+Norway,2017,-9.4
+Norway,2018,8.0
+Norway,2019,-2.1
+Norway,2020,-7.7
+Norway,2021,-22.5
+Norway,2022,22.1
+Norway,2023,18.2
+Norway,2024,1.6
+Norway,2025,-10.4
+Poland,2015,-7.2
+Poland,2016,-21.7
+Poland,2017,-21.2
+Poland,2018,21.0
+Poland,2019,-5.5
+Poland,2020,-8.8
+Poland,2021,-22.6
+Poland,2022,-6.2
+Poland,2023,16.6
+Poland,2024,-2.8
+Poland,2025,15.6
+Portugal,2015,160.2
+Portugal,2016,-24.2
+Portugal,2017,-4.1
+Portugal,2018,-1.4
+Portugal,2019,10.8
+Portugal,2020,-3.2
+Portugal,2021,-27.8
+Portugal,2022,-21.1
+Portugal,2023,47.7
+Portugal,2024,21.5
+Portugal,2025,-23.7
+Romania,2016,-57.8
+Romania,2017,-3.8
+Romania,2018,35.3
+Romania,2019,18.7
+Romania,2020,-11.3
+Romania,2021,63.1
+Romania,2022,-66.1
+Romania,2023,-4.4
+Romania,2024,3.1
+Romania,2025,5.4
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,4.2
+Sweden,2023,11.7
+Sweden,2024,38.0
+Sweden,2025,-0.6
+Slovenia,2016,11.4
+Slovenia,2017,9.1
+Slovenia,2018,-4.4
+Slovenia,2019,-26.8
+Slovenia,2020,-9.5
+Slovenia,2021,1.7
+Slovenia,2022,-32.8
+Slovenia,2023,26.9
+Slovenia,2024,9.1
+Slovenia,2025,10.2
+Slovakia,2016,-15.3
+Slovakia,2017,120.1
+Slovakia,2018,181.6
+Slovakia,2019,19.4
+Slovakia,2020,-31.1
+Slovakia,2021,-21.2
+Slovakia,2022,-15.2
+Slovakia,2023,15.6
+Slovakia,2024,14.0
+Slovakia,2025,13.6
+Ukraine,2022,-42.1
+Ukraine,2023,81.9
+Ukraine,2024,-9.3
+Ukraine,2025,14.1
+Kosovo*,2022,2.7
+Kosovo*,2023,9.2
+Kosovo*,2024,6.0
+Kosovo*,2025,-11.3
+Belgium,2015,100.0
+Belgium,2016,94.2
+Belgium,2017,102.7
+Belgium,2018,101.6
+Belgium,2019,108.2
+Belgium,2020,73.5
+Belgium,2021,66.6
+Belgium,2022,94.7
+Belgium,2023,104.9
+Bulgaria,2015,100.0
+Bulgaria,2016,102.2
+Bulgaria,2017,126.7
+Bulgaria,2018,118.0
+Bulgaria,2019,129.3
+Bulgaria,2020,107.9
+Bulgaria,2021,116.0
+Bulgaria,2022,131.9
+Bulgaria,2023,109.3
+Cyprus,2015,100.0
+Cyprus,2016,58.7
+Cyprus,2017,53.3
+Cyprus,2018,38.0
+Cyprus,2019,43.5
+Cyprus,2020,35.9
+Cyprus,2021,32.6
+Cyprus,2022,20.7
+Cyprus,2023,16.3
+Germany,2015,100.0
+Germany,2016,93.1
+Germany,2017,87.0
+Germany,2018,83.5
+Germany,2019,81.1
+Germany,2020,68.6
+Germany,2021,60.5
+Germany,2022,63.2
+Germany,2023,76.2
+Denmark,2015,100.0
+Denmark,2016,156.7
+Denmark,2017,162.1
+Denmark,2018,187.4
+Denmark,2019,228.2
+Denmark,2020,152.3
+Denmark,2021,236.0
+Denmark,2022,221.8
+Denmark,2023,196.7
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,89.2
+Euro area - 19 countries  (2015-2022),2017,85.9
+Euro area - 19 countries  (2015-2022),2018,91.0
+Euro area - 19 countries  (2015-2022),2019,92.4
+Euro area - 19 countries  (2015-2022),2020,69.5
+Euro area - 19 countries  (2015-2022),2021,78.8
+Euro area - 19 countries  (2015-2022),2022,89.5
+Euro area - 19 countries  (2015-2022),2023,99.7
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,92.1
+Euro area – 20 countries (2023-2025),2017,87.9
+Euro area – 20 countries (2023-2025),2018,92.3
+Euro area – 20 countries (2023-2025),2019,93.3
+Euro area – 20 countries (2023-2025),2020,70.1
+Euro area – 20 countries (2023-2025),2021,79.7
+Euro area – 20 countries (2023-2025),2022,90.5
+Euro area – 20 countries (2023-2025),2023,100.2
+Estonia,2015,100.0
+Estonia,2016,107.4
+Estonia,2017,96.3
+Estonia,2018,89.6
+Estonia,2019,103.7
+Estonia,2020,105.9
+Estonia,2021,73.3
+Estonia,2022,67.4
+Estonia,2023,102.2
+Spain,2015,100.0
+Spain,2016,83.1
+Spain,2017,82.7
+Spain,2018,83.8
+Spain,2019,91.0
+Spain,2020,84.4
+Spain,2021,164.7
+Spain,2022,218.6
+Spain,2023,210.8
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,89.6
+European Union - 27 countries (from 2020),2017,85.8
+European Union - 27 countries (from 2020),2018,90.7
+European Union - 27 countries (from 2020),2019,92.1
+European Union - 27 countries (from 2020),2020,70.9
+European Union - 27 countries (from 2020),2021,78.6
+European Union - 27 countries (from 2020),2022,86.7
+European Union - 27 countries (from 2020),2023,98.0
+France,2015,100.0
+France,2016,91.6
+France,2017,85.5
+France,2018,85.0
+France,2019,80.6
+France,2020,49.1
+France,2021,43.1
+France,2022,65.3
+France,2023,89.1
+Croatia,2015,100.0
+Croatia,2016,462.6
+Croatia,2017,337.8
+Croatia,2018,250.8
+Croatia,2019,197.5
+Croatia,2020,146.5
+Croatia,2021,191.6
+Croatia,2022,211.7
+Croatia,2023,164.5
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,44.1
+Hungary,2022,81.6
+Hungary,2023,208.2
+Iceland,2015,100.0
+Iceland,2016,175.6
+Iceland,2017,127.9
+Iceland,2018,174.9
+Iceland,2019,138.3
+Iceland,2020,131.0
+Iceland,2021,159.6
+Iceland,2022,66.7
+Iceland,2023,208.0
+Italy,2015,100.0
+Italy,2016,91.0
+Italy,2017,81.0
+Italy,2018,75.8
+Italy,2019,75.5
+Italy,2020,51.5
+Italy,2021,61.0
+Italy,2022,48.6
+Italy,2023,52.1
+Lithuania,2015,100.0
+Lithuania,2016,125.7
+Lithuania,2017,139.6
+Lithuania,2018,107.3
+Lithuania,2019,78.1
+Lithuania,2020,40.8
+Lithuania,2021,38.3
+Lithuania,2022,53.9
+Lithuania,2023,53.5
+Luxembourg,2015,100.0
+Luxembourg,2016,114.1
+Luxembourg,2017,96.7
+Luxembourg,2018,115.7
+Luxembourg,2019,125.1
+Luxembourg,2020,104.2
+Luxembourg,2021,117.0
+Luxembourg,2022,105.9
+Luxembourg,2023,106.2
+Latvia,2015,100.0
+Latvia,2016,88.8
+Latvia,2017,71.8
+Latvia,2018,73.1
+Latvia,2019,70.2
+Latvia,2020,45.5
+Latvia,2021,30.7
+Latvia,2022,37.0
+Latvia,2023,29.7
+Malta,2015,100.0
+Malta,2016,125.0
+Malta,2017,133.3
+Malta,2018,58.3
+Malta,2019,150.0
+Malta,2020,100.0
+Malta,2021,133.3
+Malta,2022,100.0
+Malta,2023,133.3
+Netherlands,2015,100.0
+Netherlands,2016,83.4
+Netherlands,2017,64.7
+Netherlands,2018,60.6
+Netherlands,2019,63.4
+Netherlands,2020,53.2
+Netherlands,2021,30.2
+Netherlands,2022,35.6
+Netherlands,2023,54.8
+Norway,2015,100.0
+Norway,2016,99.8
+Norway,2017,104.1
+Norway,2018,116.6
+Norway,2019,119.8
+Norway,2020,105.7
+Norway,2021,79.9
+Norway,2022,90.4
+Norway,2023,110.7
+Poland,2015,100.0
+Poland,2016,74.5
+Poland,2017,69.7
+Poland,2018,79.9
+Poland,2019,78.5
+Poland,2020,71.7
+Poland,2021,51.1
+Poland,2022,47.4
+Poland,2023,54.9
+Portugal,2015,100.0
+Portugal,2016,75.7
+Portugal,2017,62.1
+Portugal,2018,54.3
+Portugal,2019,49.7
+Portugal,2020,51.1
+Portugal,2021,44.8
+Portugal,2022,36.7
+Portugal,2023,44.2
+Romania,2015,100.0
+Romania,2016,45.0
+Romania,2017,44.7
+Romania,2018,59.8
+Romania,2019,70.6
+Romania,2020,66.8
+Romania,2021,86.7
+Romania,2022,36.9
+Romania,2023,34.8
+Slovenia,2015,100.0
+Slovenia,2016,107.7
+Slovenia,2017,117.8
+Slovenia,2018,124.7
+Slovenia,2019,116.3
+Slovenia,2020,102.7
+Slovenia,2021,92.7
+Slovenia,2022,85.2
+Slovenia,2023,80.1
+Slovakia,2015,100.0
+Slovakia,2016,78.8
+Slovakia,2017,206.5
+Slovakia,2018,539.7
+Slovakia,2019,605.5
+Slovakia,2020,406.8
+Slovakia,2021,355.1
+Slovakia,2022,262.5
+Slovakia,2023,303.7
+Austria,2019,162.4
+Austria,2020,99.5
+Austria,2021,100.0
+Austria,2022,157.0
+Austria,2023,176.5
+Austria,2024,216.7
+Austria,2025,226.3
+Belgium,2015,150.0
+Belgium,2016,141.3
+Belgium,2017,154.1
+Belgium,2018,152.4
+Belgium,2019,162.3
+Belgium,2020,110.3
+Belgium,2021,100.0
+Belgium,2022,142.0
+Belgium,2023,157.4
+Belgium,2024,170.3
+Belgium,2025,179.9
+Bulgaria,2015,86.2
+Bulgaria,2016,88.1
+Bulgaria,2017,109.2
+Bulgaria,2018,101.7
+Bulgaria,2019,111.4
+Bulgaria,2020,93.0
+Bulgaria,2021,100.0
+Bulgaria,2022,113.7
+Bulgaria,2023,94.2
+Bulgaria,2024,96.6
+Bulgaria,2025,108.2
+Cyprus,2015,306.7
+Cyprus,2016,180.0
+Cyprus,2017,163.3
+Cyprus,2018,116.7
+Cyprus,2019,133.3
+Cyprus,2020,110.0
+Cyprus,2021,100.0
+Cyprus,2022,63.3
+Cyprus,2023,53.3
+Cyprus,2024,63.3
+Cyprus,2025,80.0
+Czechia,2021,100.0
+Czechia,2022,106.7
+Czechia,2023,99.3
+Czechia,2024,112.3
+Czechia,2025,130.8
+Germany,2015,165.3
+Germany,2016,153.9
+Germany,2017,143.8
+Germany,2018,138.1
+Germany,2019,134.1
+Germany,2020,113.3
+Germany,2021,100.0
+Germany,2022,104.5
+Germany,2023,127.4
+Germany,2024,156.6
+Germany,2025,172.5
+Denmark,2015,42.4
+Denmark,2016,66.5
+Denmark,2017,68.7
+Denmark,2018,79.5
+Denmark,2019,96.8
+Denmark,2020,64.5
+Denmark,2021,100.0
+Denmark,2022,93.9
+Denmark,2023,83.2
+Denmark,2024,74.2
+Denmark,2025,77.6
+Euro area - 19 countries  (2015-2022),2015,180.2
+Euro area - 19 countries  (2015-2022),2016,161.1
+Euro area - 19 countries  (2015-2022),2017,146.9
+Euro area - 19 countries  (2015-2022),2018,142.9
+Euro area - 19 countries  (2015-2022),2019,141.0
+Euro area - 19 countries  (2015-2022),2020,103.4
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,113.1
+Euro area - 19 countries  (2015-2022),2023,134.3
+Euro area – 20 countries (2023-2025),2015,179.0
+Euro area – 20 countries (2023-2025),2016,161.9
+Euro area – 20 countries (2023-2025),2017,147.2
+Euro area – 20 countries (2023-2025),2018,142.8
+Euro area – 20 countries (2023-2025),2019,140.6
+Euro area – 20 countries (2023-2025),2020,103.2
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,119.5
+Euro area – 20 countries (2023-2025),2023,151.3
+Euro area – 20 countries (2023-2025),2024,179.3
+Euro area – 20 countries (2023-2025),2025,198.8
+Euro area – 21 countries (from 2026),2015,177.4
+Euro area – 21 countries (from 2026),2016,160.6
+Euro area – 21 countries (from 2026),2017,146.6
+Euro area – 21 countries (from 2026),2018,142.1
+Euro area – 21 countries (from 2026),2019,140.1
+Euro area – 21 countries (from 2026),2020,103.0
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,119.4
+Euro area – 21 countries (from 2026),2023,150.4
+Euro area – 21 countries (from 2026),2024,178.0
+Euro area – 21 countries (from 2026),2025,197.4
+Estonia,2015,136.4
+Estonia,2016,146.5
+Estonia,2017,131.3
+Estonia,2018,122.2
+Estonia,2019,141.4
+Estonia,2020,144.4
+Estonia,2021,100.0
+Estonia,2022,91.9
+Estonia,2023,139.4
+Estonia,2024,154.5
+Estonia,2025,145.5
+Greece,2021,100.0
+Greece,2022,213.5
+Greece,2023,486.5
+Greece,2024,526.9
+Greece,2025,996.2
+Spain,2015,60.7
+Spain,2016,50.4
+Spain,2017,50.2
+Spain,2018,50.9
+Spain,2019,55.2
+Spain,2020,51.2
+Spain,2021,100.0
+Spain,2022,132.7
+Spain,2023,116.7
+Spain,2024,150.4
+Spain,2025,149.5
+European Union - 27 countries (from 2020),2015,176.9
+European Union - 27 countries (from 2020),2016,154.5
+European Union - 27 countries (from 2020),2017,141.3
+European Union - 27 countries (from 2020),2018,139.7
+European Union - 27 countries (from 2020),2019,137.9
+European Union - 27 countries (from 2020),2020,104.5
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,115.7
+European Union - 27 countries (from 2020),2023,149.9
+European Union - 27 countries (from 2020),2024,169.1
+European Union - 27 countries (from 2020),2025,184.4
+Finland,2020,86.3
+Finland,2021,100.0
+Finland,2022,108.5
+Finland,2023,136.2
+Finland,2024,141.1
+Finland,2025,156.2
+France,2015,232.0
+France,2016,212.5
+France,2017,198.3
+France,2018,197.2
+France,2019,187.1
+France,2020,114.0
+France,2021,100.0
+France,2022,151.3
+France,2023,207.7
+France,2024,244.8
+France,2025,252.6
+Croatia,2015,52.2
+Croatia,2016,241.4
+Croatia,2017,176.3
+Croatia,2018,130.9
+Croatia,2019,103.1
+Croatia,2020,76.5
+Croatia,2021,100.0
+Croatia,2022,110.5
+Croatia,2023,85.9
+Croatia,2024,95.3
+Croatia,2025,77.0
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,185.1
+Hungary,2023,472.5
+Hungary,2024,357.7
+Hungary,2025,331.2
+Iceland,2015,63.0
+Iceland,2016,110.0
+Iceland,2017,80.3
+Iceland,2018,109.6
+Iceland,2019,86.8
+Iceland,2020,81.9
+Iceland,2021,100.0
+Iceland,2022,41.9
+Iceland,2023,131.8
+Iceland,2024,91.6
+Iceland,2025,103.5
+Italy,2015,163.9
+Italy,2016,149.1
+Italy,2017,132.8
+Italy,2018,124.2
+Italy,2019,123.6
+Italy,2020,84.4
+Italy,2021,100.0
+Italy,2022,79.7
+Italy,2023,85.3
+Italy,2024,101.5
+Italy,2025,109.4
+Lithuania,2015,261.3
+Lithuania,2016,328.6
+Lithuania,2017,364.8
+Lithuania,2018,280.5
+Lithuania,2019,204.1
+Lithuania,2020,106.5
+Lithuania,2021,100.0
+Lithuania,2022,140.9
+Lithuania,2023,139.9
+Lithuania,2024,147.0
+Lithuania,2025,130.5
+Luxembourg,2015,85.3
+Luxembourg,2016,97.3
+Luxembourg,2017,82.3
+Luxembourg,2018,98.7
+Luxembourg,2019,106.8
+Luxembourg,2020,88.5
+Luxembourg,2021,100.0
+Luxembourg,2022,89.9
+Luxembourg,2023,89.1
+Luxembourg,2024,102.8
+Luxembourg,2025,105.9
+Latvia,2015,326.4
+Latvia,2016,288.7
+Latvia,2017,234.7
+Latvia,2018,237.2
+Latvia,2019,227.2
+Latvia,2020,147.7
+Latvia,2021,100.0
+Latvia,2022,120.5
+Latvia,2023,96.2
+Latvia,2024,110.9
+Latvia,2025,105.0
+Montenegro,2021,100.0
+Montenegro,2022,125.4
+Montenegro,2023,59.0
+Montenegro,2024,63.4
+Montenegro,2025,
+North Macedonia,2020,87.4
+North Macedonia,2021,100.0
+North Macedonia,2022,77.1
+North Macedonia,2023,84.3
+North Macedonia,2024,105.4
+North Macedonia,2025,103.6
+Malta,2015,72.2
+Malta,2016,83.3
+Malta,2017,88.9
+Malta,2018,50.0
+Malta,2019,105.6
+Malta,2020,77.8
+Malta,2021,100.0
+Malta,2022,88.9
+Malta,2023,161.1
+Malta,2024,111.1
+Malta,2025,38.9
+Netherlands,2015,331.4
+Netherlands,2016,276.5
+Netherlands,2017,214.5
+Netherlands,2018,200.7
+Netherlands,2019,210.0
+Netherlands,2020,176.2
+Netherlands,2021,100.0
+Netherlands,2022,117.9
+Netherlands,2023,182.0
+Netherlands,2024,237.2
+Netherlands,2025,202.0
+Norway,2015,125.2
+Norway,2016,124.9
+Norway,2017,130.3
+Norway,2018,146.0
+Norway,2019,150.0
+Norway,2020,132.4
+Norway,2021,100.0
+Norway,2022,113.1
+Norway,2023,138.7
+Norway,2024,144.3
+Norway,2025,141.6
+Poland,2015,195.5
+Poland,2016,145.7
+Poland,2017,136.4
+Poland,2018,156.4
+Poland,2019,153.7
+Poland,2020,140.4
+Poland,2021,100.0
+Poland,2022,92.8
+Poland,2023,107.4
+Poland,2024,104.0
+Poland,2025,104.5
+Portugal,2015,223.0
+Portugal,2016,168.8
+Portugal,2017,138.4
+Portugal,2018,121.2
+Portugal,2019,110.8
+Portugal,2020,114.0
+Portugal,2021,100.0
+Portugal,2022,81.8
+Portugal,2023,98.6
+Portugal,2024,105.6
+Portugal,2025,99.1
+Romania,2015,115.3
+Romania,2016,51.9
+Romania,2017,51.6
+Romania,2018,69.0
+Romania,2019,81.4
+Romania,2020,77.0
+Romania,2021,100.0
+Romania,2022,42.5
+Romania,2023,40.1
+Romania,2024,43.8
+Romania,2025,48.8
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,105.6
+Sweden,2023,127.8
+Sweden,2024,166.2
+Sweden,2025,166.2
+Slovenia,2015,107.8
+Slovenia,2016,116.2
+Slovenia,2017,127.0
+Slovenia,2018,134.5
+Slovenia,2019,125.4
+Slovenia,2020,110.8
+Slovenia,2021,100.0
+Slovenia,2022,91.9
+Slovenia,2023,86.4
+Slovenia,2024,98.8
+Slovenia,2025,105.1
+Slovakia,2015,28.2
+Slovakia,2016,22.2
+Slovakia,2017,58.1
+Slovakia,2018,152.0
+Slovakia,2019,170.5
+Slovakia,2020,114.6
+Slovakia,2021,100.0
+Slovakia,2022,73.9
+Slovakia,2023,85.5
+Slovakia,2024,85.6
+Slovakia,2025,96.3
+Ukraine,2021,100.0
+Ukraine,2022,64.8
+Ukraine,2023,115.3
+Ukraine,2024,110.9
+Ukraine,2025,112.7
+Kosovo*,2021,100.0
+Kosovo*,2022,106.4
+Kosovo*,2023,94.3
+Kosovo*,2024,96.8
+Kosovo*,2025,68.2
+Austria,2020,-38.7
+Austria,2021,0.5
+Austria,2022,57.0
+Austria,2023,12.4
+Austria,2024,22.8
+Austria,2025,4.4
+Belgium,2015,-9.4
+Belgium,2016,-5.8
+Belgium,2017,9.1
+Belgium,2018,-1.1
+Belgium,2019,6.5
+Belgium,2020,-32.0
+Belgium,2021,-9.3
+Belgium,2022,42.0
+Belgium,2023,10.8
+Belgium,2024,8.2
+Belgium,2025,5.6
+Bulgaria,2015,3.2
+Bulgaria,2016,2.2
+Bulgaria,2017,24.0
+Bulgaria,2018,-6.9
+Bulgaria,2019,9.5
+Bulgaria,2020,-16.5
+Bulgaria,2021,7.5
+Bulgaria,2022,13.7
+Bulgaria,2023,-17.2
+Bulgaria,2024,2.5
+Bulgaria,2025,12.0
+Cyprus,2016,-41.3
+Cyprus,2017,-9.3
+Cyprus,2018,-28.5
+Cyprus,2019,14.2
+Cyprus,2020,-17.5
+Cyprus,2021,-9.1
+Cyprus,2022,-36.7
+Cyprus,2023,-15.8
+Cyprus,2024,18.8
+Cyprus,2025,26.4
+Czechia,2022,6.7
+Czechia,2023,-6.9
+Czechia,2024,13.1
+Czechia,2025,16.5
+Germany,2015,-3.2
+Germany,2016,-6.9
+Germany,2017,-6.6
+Germany,2018,-4.0
+Germany,2019,-2.9
+Germany,2020,-15.5
+Germany,2021,-11.7
+Germany,2022,4.5
+Germany,2023,21.9
+Germany,2024,22.9
+Germany,2025,10.2
+Denmark,2015,0.7
+Denmark,2016,56.8
+Denmark,2017,3.3
+Denmark,2018,15.7
+Denmark,2019,21.8
+Denmark,2020,-33.4
+Denmark,2021,55.0
+Denmark,2022,-6.1
+Denmark,2023,-11.4
+Denmark,2024,-10.8
+Denmark,2025,4.6
+Euro area - 19 countries  (2015-2022),2015,-3.6
+Euro area - 19 countries  (2015-2022),2016,-10.6
+Euro area - 19 countries  (2015-2022),2017,-8.8
+Euro area - 19 countries  (2015-2022),2018,-2.7
+Euro area - 19 countries  (2015-2022),2019,-1.3
+Euro area - 19 countries  (2015-2022),2020,-26.7
+Euro area - 19 countries  (2015-2022),2021,-3.3
+Euro area - 19 countries  (2015-2022),2022,13.1
+Euro area - 19 countries  (2015-2022),2023,18.7
+Euro area – 20 countries (2023-2025),2015,-3.6
+Euro area – 20 countries (2023-2025),2016,-9.6
+Euro area – 20 countries (2023-2025),2017,-9.1
+Euro area – 20 countries (2023-2025),2018,-3.0
+Euro area – 20 countries (2023-2025),2019,-1.5
+Euro area – 20 countries (2023-2025),2020,-26.6
+Euro area – 20 countries (2023-2025),2021,-3.1
+Euro area – 20 countries (2023-2025),2022,19.5
+Euro area – 20 countries (2023-2025),2023,26.6
+Euro area – 20 countries (2023-2025),2024,18.5
+Euro area – 20 countries (2023-2025),2025,10.9
+Euro area – 21 countries (from 2026),2015,-3.5
+Euro area – 21 countries (from 2026),2016,-9.5
+Euro area – 21 countries (from 2026),2017,-8.7
+Euro area – 21 countries (from 2026),2018,-3.1
+Euro area – 21 countries (from 2026),2019,-1.4
+Euro area – 21 countries (from 2026),2020,-26.5
+Euro area – 21 countries (from 2026),2021,-2.9
+Euro area – 21 countries (from 2026),2022,19.4
+Euro area – 21 countries (from 2026),2023,26.0
+Euro area – 21 countries (from 2026),2024,18.4
+Euro area – 21 countries (from 2026),2025,10.9
+Estonia,2015,-13.5
+Estonia,2016,7.4
+Estonia,2017,-10.4
+Estonia,2018,-6.9
+Estonia,2019,15.7
+Estonia,2020,2.1
+Estonia,2021,-30.7
+Estonia,2022,-8.1
+Estonia,2023,51.7
+Estonia,2024,10.8
+Estonia,2025,-5.8
+Greece,2022,113.5
+Greece,2023,127.9
+Greece,2024,8.3
+Greece,2025,89.1
+Spain,2015,-26.7
+Spain,2016,-17.0
+Spain,2017,-0.4
+Spain,2018,1.4
+Spain,2019,8.4
+Spain,2020,-7.2
+Spain,2021,95.3
+Spain,2022,32.7
+Spain,2023,-12.1
+Spain,2024,28.9
+Spain,2025,-0.6
+European Union - 27 countries (from 2020),2015,-8.7
+European Union - 27 countries (from 2020),2016,-12.7
+European Union - 27 countries (from 2020),2017,-8.5
+European Union - 27 countries (from 2020),2018,-1.1
+European Union - 27 countries (from 2020),2019,-1.3
+European Union - 27 countries (from 2020),2020,-24.2
+European Union - 27 countries (from 2020),2021,-4.3
+European Union - 27 countries (from 2020),2022,15.7
+European Union - 27 countries (from 2020),2023,29.6
+European Union - 27 countries (from 2020),2024,12.8
+European Union - 27 countries (from 2020),2025,9.0
+Finland,2021,15.9
+Finland,2022,8.5
+Finland,2023,25.5
+Finland,2024,3.6
+Finland,2025,10.7
+France,2015,0.6
+France,2016,-8.4
+France,2017,-6.7
+France,2018,-0.6
+France,2019,-5.1
+France,2020,-39.1
+France,2021,-12.3
+France,2022,51.3
+France,2023,37.3
+France,2024,17.9
+France,2025,3.2
+Croatia,2016,362.5
+Croatia,2017,-27.0
+Croatia,2018,-25.8
+Croatia,2019,-21.2
+Croatia,2020,-25.8
+Croatia,2021,30.7
+Croatia,2022,10.5
+Croatia,2023,-22.3
+Croatia,2024,10.9
+Croatia,2025,-19.2
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,85.1
+Hungary,2023,155.3
+Hungary,2024,-24.3
+Hungary,2025,-7.4
+Iceland,2015,-26.1
+Iceland,2016,74.6
+Iceland,2017,-27.0
+Iceland,2018,36.5
+Iceland,2019,-20.8
+Iceland,2020,-5.6
+Iceland,2021,22.1
+Iceland,2022,-58.1
+Iceland,2023,214.6
+Iceland,2024,-30.5
+Iceland,2025,13.0
+Italy,2015,-4.9
+Italy,2016,-9.0
+Italy,2017,-10.9
+Italy,2018,-6.5
+Italy,2019,-0.5
+Italy,2020,-31.7
+Italy,2021,18.5
+Italy,2022,-20.3
+Italy,2023,7.0
+Italy,2024,19.0
+Italy,2025,7.8
+Lithuania,2015,26.0
+Lithuania,2016,25.8
+Lithuania,2017,11.0
+Lithuania,2018,-23.1
+Lithuania,2019,-27.2
+Lithuania,2020,-47.8
+Lithuania,2021,-6.1
+Lithuania,2022,40.9
+Lithuania,2023,-0.7
+Lithuania,2024,5.1
+Lithuania,2025,-11.2
+Luxembourg,2015,0.0
+Luxembourg,2016,14.1
+Luxembourg,2017,-15.4
+Luxembourg,2018,19.9
+Luxembourg,2019,8.2
+Luxembourg,2020,-17.1
+Luxembourg,2021,13.0
+Luxembourg,2022,-10.1
+Luxembourg,2023,-0.9
+Luxembourg,2024,15.4
+Luxembourg,2025,3.0
+Latvia,2016,-11.6
+Latvia,2017,-18.7
+Latvia,2018,1.1
+Latvia,2019,-4.2
+Latvia,2020,-35.0
+Latvia,2021,-32.3
+Latvia,2022,20.5
+Latvia,2023,-20.2
+Latvia,2024,15.3
+Latvia,2025,-5.3
+Montenegro,2022,25.4
+Montenegro,2023,-53.0
+Montenegro,2024,7.5
+Montenegro,2025,
+North Macedonia,2021,14.4
+North Macedonia,2022,-22.9
+North Macedonia,2023,9.3
+North Macedonia,2024,25.0
+North Macedonia,2025,-1.7
+Malta,2016,15.4
+Malta,2017,6.7
+Malta,2018,-43.8
+Malta,2019,111.2
+Malta,2020,-26.3
+Malta,2021,28.5
+Malta,2022,-11.1
+Malta,2023,81.2
+Malta,2024,-31.0
+Malta,2025,-65.0
+Netherlands,2015,-20.7
+Netherlands,2016,-16.6
+Netherlands,2017,-22.4
+Netherlands,2018,-6.4
+Netherlands,2019,4.6
+Netherlands,2020,-16.1
+Netherlands,2021,-43.2
+Netherlands,2022,17.9
+Netherlands,2023,54.4
+Netherlands,2024,30.3
+Netherlands,2025,-14.8
+Norway,2016,-0.2
+Norway,2017,4.3
+Norway,2018,12.0
+Norway,2019,2.7
+Norway,2020,-11.7
+Norway,2021,-24.5
+Norway,2022,13.1
+Norway,2023,22.6
+Norway,2024,4.0
+Norway,2025,-1.9
+Poland,2015,-10.2
+Poland,2016,-25.5
+Poland,2017,-6.4
+Poland,2018,14.7
+Poland,2019,-1.7
+Poland,2020,-8.7
+Poland,2021,-28.8
+Poland,2022,-7.2
+Poland,2023,15.7
+Poland,2024,-3.2
+Poland,2025,0.5
+Portugal,2015,140.0
+Portugal,2016,-24.3
+Portugal,2017,-18.0
+Portugal,2018,-12.4
+Portugal,2019,-8.6
+Portugal,2020,2.9
+Portugal,2021,-12.3
+Portugal,2022,-18.2
+Portugal,2023,20.5
+Portugal,2024,7.1
+Portugal,2025,-6.2
+Romania,2016,-55.0
+Romania,2017,-0.6
+Romania,2018,33.7
+Romania,2019,18.0
+Romania,2020,-5.4
+Romania,2021,29.9
+Romania,2022,-57.5
+Romania,2023,-5.6
+Romania,2024,9.2
+Romania,2025,11.4
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,5.6
+Sweden,2023,21.0
+Sweden,2024,30.0
+Sweden,2025,0.0
+Slovenia,2016,7.8
+Slovenia,2017,9.3
+Slovenia,2018,5.9
+Slovenia,2019,-6.8
+Slovenia,2020,-11.6
+Slovenia,2021,-9.7
+Slovenia,2022,-8.1
+Slovenia,2023,-6.0
+Slovenia,2024,14.4
+Slovenia,2025,6.4
+Slovakia,2016,-21.3
+Slovakia,2017,161.7
+Slovakia,2018,161.6
+Slovakia,2019,12.2
+Slovakia,2020,-32.8
+Slovakia,2021,-12.7
+Slovakia,2022,-26.1
+Slovakia,2023,15.7
+Slovakia,2024,0.1
+Slovakia,2025,12.5
+Ukraine,2022,-35.2
+Ukraine,2023,77.9
+Ukraine,2024,-3.8
+Ukraine,2025,1.6
+Kosovo*,2022,6.4
+Kosovo*,2023,-11.4
+Kosovo*,2024,2.7
+Kosovo*,2025,-29.5
+Belgium,2015,100.0
+Belgium,2016,88.8
+Belgium,2017,98.6
+Belgium,2018,102.1
+Belgium,2019,110.8
+Belgium,2020,74.4
+Belgium,2021,79.4
+Belgium,2022,109.9
+Belgium,2023,125.5
+Bulgaria,2015,100.0
+Bulgaria,2016,71.1
+Bulgaria,2017,78.2
+Bulgaria,2018,72.9
+Bulgaria,2019,66.9
+Bulgaria,2020,47.5
+Bulgaria,2021,50.7
+Bulgaria,2022,58.8
+Bulgaria,2023,58.5
+Cyprus,2015,100.0
+Cyprus,2016,31.6
+Cyprus,2017,47.4
+Cyprus,2018,36.8
+Cyprus,2019,63.2
+Cyprus,2020,15.8
+Cyprus,2021,5.3
+Cyprus,2022,26.3
+Cyprus,2023,31.6
+Germany,2015,100.0
+Germany,2016,95.4
+Germany,2017,85.2
+Germany,2018,86.1
+Germany,2019,78.6
+Germany,2020,64.6
+Germany,2021,62.6
+Germany,2022,69.7
+Germany,2023,78.6
+Denmark,2015,100.0
+Denmark,2016,144.3
+Denmark,2017,134.4
+Denmark,2018,161.8
+Denmark,2019,184.3
+Denmark,2020,161.0
+Denmark,2021,196.9
+Denmark,2022,208.7
+Denmark,2023,211.2
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,85.4
+Euro area - 19 countries  (2015-2022),2017,83.1
+Euro area - 19 countries  (2015-2022),2018,109.5
+Euro area - 19 countries  (2015-2022),2019,111.9
+Euro area - 19 countries  (2015-2022),2020,76.3
+Euro area - 19 countries  (2015-2022),2021,84.4
+Euro area - 19 countries  (2015-2022),2022,87.0
+Euro area - 19 countries  (2015-2022),2023,97.5
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,87.6
+Euro area – 20 countries (2023-2025),2017,84.3
+Euro area – 20 countries (2023-2025),2018,110.0
+Euro area – 20 countries (2023-2025),2019,112.0
+Euro area – 20 countries (2023-2025),2020,76.4
+Euro area – 20 countries (2023-2025),2021,84.8
+Euro area – 20 countries (2023-2025),2022,87.8
+Euro area – 20 countries (2023-2025),2023,98.0
+Estonia,2015,100.0
+Estonia,2016,129.2
+Estonia,2017,100.0
+Estonia,2018,91.7
+Estonia,2019,108.3
+Estonia,2020,87.5
+Estonia,2021,70.8
+Estonia,2022,66.7
+Estonia,2023,129.2
+Spain,2015,100.0
+Spain,2016,74.5
+Spain,2017,63.5
+Spain,2018,63.3
+Spain,2019,56.1
+Spain,2020,49.6
+Spain,2021,91.8
+Spain,2022,140.9
+Spain,2023,122.7
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,85.1
+European Union - 27 countries (from 2020),2017,81.0
+European Union - 27 countries (from 2020),2018,104.6
+European Union - 27 countries (from 2020),2019,105.3
+European Union - 27 countries (from 2020),2020,73.6
+European Union - 27 countries (from 2020),2021,80.0
+European Union - 27 countries (from 2020),2022,84.1
+European Union - 27 countries (from 2020),2023,96.5
+France,2015,100.0
+France,2016,86.4
+France,2017,76.6
+France,2018,75.0
+France,2019,69.9
+France,2020,38.7
+France,2021,38.2
+France,2022,53.0
+France,2023,74.0
+Croatia,2015,100.0
+Croatia,2016,395.2
+Croatia,2017,266.4
+Croatia,2018,191.4
+Croatia,2019,129.9
+Croatia,2020,93.4
+Croatia,2021,148.1
+Croatia,2022,197.1
+Croatia,2023,168.5
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,73.5
+Hungary,2022,149.9
+Hungary,2023,353.2
+Iceland,2015,100.0
+Iceland,2016,152.1
+Iceland,2017,120.2
+Iceland,2018,147.9
+Iceland,2019,128.6
+Iceland,2020,145.4
+Iceland,2021,134.5
+Iceland,2022,73.9
+Iceland,2023,252.1
+Italy,2015,100.0
+Italy,2016,92.4
+Italy,2017,76.1
+Italy,2018,73.5
+Italy,2019,64.4
+Italy,2020,43.7
+Italy,2021,52.9
+Italy,2022,42.9
+Italy,2023,42.0
+Lithuania,2015,100.0
+Lithuania,2016,108.9
+Lithuania,2017,107.7
+Lithuania,2018,101.2
+Lithuania,2019,82.2
+Lithuania,2020,48.9
+Lithuania,2021,41.8
+Lithuania,2022,72.3
+Lithuania,2023,66.8
+Luxembourg,2015,100.0
+Luxembourg,2016,109.0
+Luxembourg,2017,89.3
+Luxembourg,2018,95.1
+Luxembourg,2019,122.1
+Luxembourg,2020,90.2
+Luxembourg,2021,98.4
+Luxembourg,2022,96.7
+Luxembourg,2023,132.8
+Latvia,2015,100.0
+Latvia,2016,81.1
+Latvia,2017,65.4
+Latvia,2018,61.4
+Latvia,2019,72.4
+Latvia,2020,44.1
+Latvia,2021,29.1
+Latvia,2022,42.5
+Latvia,2023,31.5
+Malta,2015,100.0
+Malta,2016,100.0
+Malta,2017,200.0
+Malta,2018,100.0
+Malta,2019,50.0
+Malta,2020,50.0
+Malta,2021,50.0
+Malta,2022,0.0
+Malta,2023,0.0
+Netherlands,2015,100.0
+Netherlands,2016,67.0
+Netherlands,2017,58.3
+Netherlands,2018,56.2
+Netherlands,2019,63.1
+Netherlands,2020,54.5
+Netherlands,2021,39.4
+Netherlands,2022,42.3
+Netherlands,2023,59.6
+Norway,2015,100.0
+Norway,2016,102.4
+Norway,2017,106.4
+Norway,2018,117.0
+Norway,2019,128.2
+Norway,2020,105.5
+Norway,2021,99.1
+Norway,2022,104.7
+Norway,2023,127.4
+Poland,2015,100.0
+Poland,2016,69.5
+Poland,2017,58.9
+Poland,2018,73.5
+Poland,2019,59.6
+Poland,2020,47.7
+Poland,2021,32.5
+Poland,2022,39.7
+Poland,2023,39.1
+Portugal,2015,100.0
+Portugal,2016,68.3
+Portugal,2017,49.3
+Portugal,2018,42.6
+Portugal,2019,31.6
+Portugal,2020,27.8
+Portugal,2021,29.5
+Portugal,2022,27.9
+Portugal,2023,35.4
+Romania,2015,100.0
+Romania,2016,46.0
+Romania,2017,47.4
+Romania,2018,67.3
+Romania,2019,79.4
+Romania,2020,74.2
+Romania,2021,83.2
+Romania,2022,47.0
+Romania,2023,44.9
+Slovenia,2015,100.0
+Slovenia,2016,114.9
+Slovenia,2017,136.1
+Slovenia,2018,152.5
+Slovenia,2019,113.9
+Slovenia,2020,102.5
+Slovenia,2021,93.1
+Slovenia,2022,96.0
+Slovenia,2023,93.1
+Slovakia,2015,100.0
+Slovakia,2016,78.0
+Slovakia,2017,296.0
+Slovakia,2018,1088.0
+Slovakia,2019,1316.0
+Slovakia,2020,826.0
+Slovakia,2021,826.0
+Slovakia,2022,518.0
+Slovakia,2023,668.0
+Austria,2019,126.6
+Austria,2020,87.8
+Austria,2021,100.0
+Austria,2022,130.4
+Austria,2023,147.6
+Austria,2024,173.2
+Austria,2025,171.9
+Belgium,2015,125.9
+Belgium,2016,111.8
+Belgium,2017,124.2
+Belgium,2018,128.6
+Belgium,2019,139.5
+Belgium,2020,93.7
+Belgium,2021,100.0
+Belgium,2022,138.4
+Belgium,2023,158.0
+Belgium,2024,185.6
+Belgium,2025,197.4
+Bulgaria,2015,197.2
+Bulgaria,2016,140.3
+Bulgaria,2017,152.1
+Bulgaria,2018,143.8
+Bulgaria,2019,131.9
+Bulgaria,2020,93.8
+Bulgaria,2021,100.0
+Bulgaria,2022,116.0
+Bulgaria,2023,115.3
+Bulgaria,2024,77.1
+Bulgaria,2025,50.7
+Cyprus,2015,1900.0
+Cyprus,2016,600.0
+Cyprus,2017,900.0
+Cyprus,2018,700.0
+Cyprus,2019,1200.0
+Cyprus,2020,300.0
+Cyprus,2021,100.0
+Cyprus,2022,500.0
+Cyprus,2023,600.0
+Cyprus,2024,100.0
+Cyprus,2025,200.0
+Czechia,2021,100.0
+Czechia,2022,110.8
+Czechia,2023,101.9
+Czechia,2024,112.9
+Czechia,2025,137.0
+Germany,2015,159.8
+Germany,2016,152.4
+Germany,2017,136.1
+Germany,2018,137.6
+Germany,2019,125.6
+Germany,2020,103.1
+Germany,2021,100.0
+Germany,2022,111.3
+Germany,2023,127.1
+Germany,2024,152.5
+Germany,2025,167.8
+Denmark,2015,50.9
+Denmark,2016,73.5
+Denmark,2017,68.5
+Denmark,2018,82.4
+Denmark,2019,93.9
+Denmark,2020,82.0
+Denmark,2021,100.0
+Denmark,2022,106.0
+Denmark,2023,107.0
+Denmark,2024,95.6
+Denmark,2025,89.2
+Euro area - 19 countries  (2015-2022),2015,193.2
+Euro area - 19 countries  (2015-2022),2016,160.0
+Euro area - 19 countries  (2015-2022),2017,142.5
+Euro area - 19 countries  (2015-2022),2018,142.7
+Euro area - 19 countries  (2015-2022),2019,136.3
+Euro area - 19 countries  (2015-2022),2020,93.5
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,118.3
+Euro area - 19 countries  (2015-2022),2023,134.4
+Euro area – 20 countries (2023-2025),2015,191.9
+Euro area – 20 countries (2023-2025),2016,161.1
+Euro area – 20 countries (2023-2025),2017,142.9
+Euro area – 20 countries (2023-2025),2018,142.6
+Euro area – 20 countries (2023-2025),2019,135.8
+Euro area – 20 countries (2023-2025),2020,93.2
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,120.0
+Euro area – 20 countries (2023-2025),2023,146.3
+Euro area – 20 countries (2023-2025),2024,171.5
+Euro area – 20 countries (2023-2025),2025,184.4
+Euro area – 21 countries (from 2026),2015,192.0
+Euro area – 21 countries (from 2026),2016,160.9
+Euro area – 21 countries (from 2026),2017,143.0
+Euro area – 21 countries (from 2026),2018,142.6
+Euro area – 21 countries (from 2026),2019,135.8
+Euro area – 21 countries (from 2026),2020,93.2
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,119.9
+Euro area – 21 countries (from 2026),2023,146.1
+Euro area – 21 countries (from 2026),2024,170.8
+Euro area – 21 countries (from 2026),2025,183.3
+Estonia,2015,141.2
+Estonia,2016,182.4
+Estonia,2017,141.2
+Estonia,2018,129.4
+Estonia,2019,152.9
+Estonia,2020,123.5
+Estonia,2021,100.0
+Estonia,2022,94.1
+Estonia,2023,182.4
+Estonia,2024,164.7
+Estonia,2025,82.4
+Greece,2021,
+Greece,2022,
+Greece,2023,540.0
+Greece,2024,
+Greece,2025,860.0
+Spain,2015,108.9
+Spain,2016,81.1
+Spain,2017,69.2
+Spain,2018,68.9
+Spain,2019,61.1
+Spain,2020,54.0
+Spain,2021,100.0
+Spain,2022,153.5
+Spain,2023,131.0
+Spain,2024,169.6
+Spain,2025,172.7
+European Union - 27 countries (from 2020),2015,199.9
+European Union - 27 countries (from 2020),2016,160.9
+European Union - 27 countries (from 2020),2017,141.9
+European Union - 27 countries (from 2020),2018,147.9
+European Union - 27 countries (from 2020),2019,137.6
+European Union - 27 countries (from 2020),2020,98.5
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,120.3
+European Union - 27 countries (from 2020),2023,148.7
+European Union - 27 countries (from 2020),2024,165.5
+European Union - 27 countries (from 2020),2025,175.1
+Finland,2020,75.5
+Finland,2021,100.0
+Finland,2022,102.0
+Finland,2023,141.7
+Finland,2024,135.3
+Finland,2025,139.1
+France,2015,261.8
+France,2016,226.3
+France,2017,200.5
+France,2018,196.3
+France,2019,183.1
+France,2020,101.3
+France,2021,100.0
+France,2022,139.0
+France,2023,195.4
+France,2024,245.1
+France,2025,237.5
+Croatia,2015,67.5
+Croatia,2016,266.9
+Croatia,2017,179.9
+Croatia,2018,129.2
+Croatia,2019,87.7
+Croatia,2020,63.1
+Croatia,2021,100.0
+Croatia,2022,133.1
+Croatia,2023,113.8
+Croatia,2024,141.3
+Croatia,2025,126.8
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,203.9
+Hungary,2023,480.5
+Hungary,2024,392.2
+Hungary,2025,390.7
+Iceland,2015,76.1
+Iceland,2016,113.8
+Iceland,2017,89.9
+Iceland,2018,110.7
+Iceland,2019,96.2
+Iceland,2020,108.2
+Iceland,2021,100.0
+Iceland,2022,55.3
+Iceland,2023,189.9
+Iceland,2024,144.7
+Iceland,2025,143.4
+Italy,2015,188.9
+Italy,2016,174.5
+Italy,2017,143.8
+Italy,2018,138.9
+Italy,2019,121.6
+Italy,2020,82.6
+Italy,2021,100.0
+Italy,2022,81.0
+Italy,2023,79.3
+Italy,2024,104.1
+Italy,2025,128.9
+Lithuania,2015,239.0
+Lithuania,2016,260.3
+Lithuania,2017,257.4
+Lithuania,2018,241.9
+Lithuania,2019,196.3
+Lithuania,2020,116.9
+Lithuania,2021,100.0
+Lithuania,2022,172.8
+Lithuania,2023,159.6
+Lithuania,2024,178.7
+Lithuania,2025,169.1
+Luxembourg,2015,101.7
+Luxembourg,2016,110.8
+Luxembourg,2017,90.8
+Luxembourg,2018,95.8
+Luxembourg,2019,124.2
+Luxembourg,2020,91.7
+Luxembourg,2021,100.0
+Luxembourg,2022,97.5
+Luxembourg,2023,133.3
+Luxembourg,2024,166.7
+Luxembourg,2025,138.3
+Latvia,2015,355.6
+Latvia,2016,286.1
+Latvia,2017,230.6
+Latvia,2018,216.7
+Latvia,2019,255.6
+Latvia,2020,155.6
+Latvia,2021,100.0
+Latvia,2022,150.0
+Latvia,2023,111.1
+Latvia,2024,133.3
+Latvia,2025,147.2
+Montenegro,2021,100.0
+Montenegro,2022,127.9
+Montenegro,2023,111.6
+Montenegro,2024,90.7
+Montenegro,2025,
+North Macedonia,2020,65.5
+North Macedonia,2021,100.0
+North Macedonia,2022,69.0
+North Macedonia,2023,51.7
+North Macedonia,2024,72.4
+North Macedonia,2025,89.7
+Malta,2015,200.0
+Malta,2016,200.0
+Malta,2017,400.0
+Malta,2018,200.0
+Malta,2019,100.0
+Malta,2020,100.0
+Malta,2021,100.0
+Malta,2022,0.0
+Malta,2023,0.0
+Malta,2024,0.0
+Malta,2025,0.0
+Netherlands,2015,253.6
+Netherlands,2016,170.0
+Netherlands,2017,147.9
+Netherlands,2018,142.6
+Netherlands,2019,159.9
+Netherlands,2020,138.2
+Netherlands,2021,100.0
+Netherlands,2022,107.3
+Netherlands,2023,151.1
+Netherlands,2024,195.0
+Netherlands,2025,153.9
+Norway,2015,100.9
+Norway,2016,103.3
+Norway,2017,107.4
+Norway,2018,118.0
+Norway,2019,129.3
+Norway,2020,106.5
+Norway,2021,100.0
+Norway,2022,105.6
+Norway,2023,128.6
+Norway,2024,136.2
+Norway,2025,123.0
+Poland,2015,306.1
+Poland,2016,214.3
+Poland,2017,181.6
+Poland,2018,226.5
+Poland,2019,183.7
+Poland,2020,146.9
+Poland,2021,100.0
+Poland,2022,122.4
+Poland,2023,120.4
+Poland,2024,116.3
+Poland,2025,110.2
+Portugal,2015,338.5
+Portugal,2016,231.2
+Portugal,2017,167.0
+Portugal,2018,144.3
+Portugal,2019,106.8
+Portugal,2020,94.1
+Portugal,2021,100.0
+Portugal,2022,94.6
+Portugal,2023,119.9
+Portugal,2024,115.8
+Portugal,2025,108.1
+Romania,2015,120.2
+Romania,2016,55.3
+Romania,2017,57.0
+Romania,2018,80.9
+Romania,2019,95.5
+Romania,2020,89.2
+Romania,2021,100.0
+Romania,2022,56.5
+Romania,2023,53.9
+Romania,2024,64.4
+Romania,2025,68.4
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,102.4
+Sweden,2023,128.6
+Sweden,2024,166.8
+Sweden,2025,160.2
+Slovenia,2015,107.4
+Slovenia,2016,123.4
+Slovenia,2017,146.3
+Slovenia,2018,163.8
+Slovenia,2019,122.3
+Slovenia,2020,110.1
+Slovenia,2021,100.0
+Slovenia,2022,103.2
+Slovenia,2023,100.0
+Slovenia,2024,125.0
+Slovenia,2025,147.9
+Slovakia,2015,12.1
+Slovakia,2016,9.4
+Slovakia,2017,35.8
+Slovakia,2018,131.7
+Slovakia,2019,159.3
+Slovakia,2020,100.0
+Slovakia,2021,100.0
+Slovakia,2022,62.7
+Slovakia,2023,80.9
+Slovakia,2024,75.5
+Slovakia,2025,74.3
+Ukraine,2021,100.0
+Ukraine,2022,55.6
+Ukraine,2023,90.5
+Ukraine,2024,96.8
+Ukraine,2025,84.1
+Kosovo*,2021,100.0
+Kosovo*,2022,99.8
+Kosovo*,2023,109.3
+Kosovo*,2024,97.6
+Kosovo*,2025,73.6
+Austria,2020,-30.6
+Austria,2021,13.9
+Austria,2022,30.4
+Austria,2023,13.2
+Austria,2024,17.3
+Austria,2025,-0.8
+Belgium,2015,-10.1
+Belgium,2016,-11.2
+Belgium,2017,11.1
+Belgium,2018,3.5
+Belgium,2019,8.5
+Belgium,2020,-32.8
+Belgium,2021,6.7
+Belgium,2022,38.4
+Belgium,2023,14.2
+Belgium,2024,17.5
+Belgium,2025,6.4
+Bulgaria,2015,14.5
+Bulgaria,2016,-28.9
+Bulgaria,2017,8.4
+Bulgaria,2018,-5.5
+Bulgaria,2019,-8.3
+Bulgaria,2020,-28.9
+Bulgaria,2021,6.6
+Bulgaria,2022,16.0
+Bulgaria,2023,-0.6
+Bulgaria,2024,-33.1
+Bulgaria,2025,-34.2
+Cyprus,2016,-68.4
+Cyprus,2017,50.0
+Cyprus,2018,-22.2
+Cyprus,2019,71.4
+Cyprus,2020,-75.0
+Cyprus,2021,-66.7
+Cyprus,2022,400.0
+Cyprus,2023,20.0
+Cyprus,2024,-83.3
+Cyprus,2025,100.0
+Czechia,2022,10.8
+Czechia,2023,-8.0
+Czechia,2024,10.8
+Czechia,2025,21.3
+Germany,2015,-2.7
+Germany,2016,-4.6
+Germany,2017,-10.7
+Germany,2018,1.1
+Germany,2019,-8.7
+Germany,2020,-17.9
+Germany,2021,-3.0
+Germany,2022,11.3
+Germany,2023,14.2
+Germany,2024,20.0
+Germany,2025,10.0
+Denmark,2015,16.2
+Denmark,2016,44.4
+Denmark,2017,-6.8
+Denmark,2018,20.3
+Denmark,2019,14.0
+Denmark,2020,-12.7
+Denmark,2021,22.0
+Denmark,2022,6.0
+Denmark,2023,0.9
+Denmark,2024,-10.7
+Denmark,2025,-6.7
+Euro area - 19 countries  (2015-2022),2015,-6.6
+Euro area - 19 countries  (2015-2022),2016,-17.2
+Euro area - 19 countries  (2015-2022),2017,-10.9
+Euro area - 19 countries  (2015-2022),2018,0.1
+Euro area - 19 countries  (2015-2022),2019,-4.5
+Euro area - 19 countries  (2015-2022),2020,-31.4
+Euro area - 19 countries  (2015-2022),2021,7.0
+Euro area - 19 countries  (2015-2022),2022,18.3
+Euro area - 19 countries  (2015-2022),2023,13.6
+Euro area – 20 countries (2023-2025),2015,-6.7
+Euro area – 20 countries (2023-2025),2016,-16.1
+Euro area – 20 countries (2023-2025),2017,-11.3
+Euro area – 20 countries (2023-2025),2018,-0.2
+Euro area – 20 countries (2023-2025),2019,-4.8
+Euro area – 20 countries (2023-2025),2020,-31.4
+Euro area – 20 countries (2023-2025),2021,7.3
+Euro area – 20 countries (2023-2025),2022,20.0
+Euro area – 20 countries (2023-2025),2023,21.9
+Euro area – 20 countries (2023-2025),2024,17.2
+Euro area – 20 countries (2023-2025),2025,7.5
+Euro area – 21 countries (from 2026),2015,-6.5
+Euro area – 21 countries (from 2026),2016,-16.2
+Euro area – 21 countries (from 2026),2017,-11.1
+Euro area – 21 countries (from 2026),2018,-0.3
+Euro area – 21 countries (from 2026),2019,-4.8
+Euro area – 21 countries (from 2026),2020,-31.4
+Euro area – 21 countries (from 2026),2021,7.3
+Euro area – 21 countries (from 2026),2022,19.9
+Euro area – 21 countries (from 2026),2023,21.9
+Euro area – 21 countries (from 2026),2024,16.9
+Euro area – 21 countries (from 2026),2025,7.3
+Estonia,2015,-27.3
+Estonia,2016,29.2
+Estonia,2017,-22.6
+Estonia,2018,-8.4
+Estonia,2019,18.2
+Estonia,2020,-19.2
+Estonia,2021,-19.0
+Estonia,2022,-5.9
+Estonia,2023,93.8
+Estonia,2024,-9.7
+Estonia,2025,-50.0
+Greece,2022,
+Greece,2023,
+Greece,2024,
+Greece,2025,
+Spain,2015,-34.4
+Spain,2016,-25.5
+Spain,2017,-14.7
+Spain,2018,-0.4
+Spain,2019,-11.3
+Spain,2020,-11.6
+Spain,2021,85.2
+Spain,2022,53.5
+Spain,2023,-14.7
+Spain,2024,29.5
+Spain,2025,1.8
+European Union - 27 countries (from 2020),2015,-13.1
+European Union - 27 countries (from 2020),2016,-19.5
+European Union - 27 countries (from 2020),2017,-11.8
+European Union - 27 countries (from 2020),2018,4.2
+European Union - 27 countries (from 2020),2019,-7.0
+European Union - 27 countries (from 2020),2020,-28.4
+European Union - 27 countries (from 2020),2021,1.5
+European Union - 27 countries (from 2020),2022,20.3
+European Union - 27 countries (from 2020),2023,23.6
+European Union - 27 countries (from 2020),2024,11.3
+European Union - 27 countries (from 2020),2025,5.8
+Finland,2021,32.5
+Finland,2022,2.0
+Finland,2023,38.9
+Finland,2024,-4.5
+Finland,2025,2.8
+France,2015,-0.4
+France,2016,-13.6
+France,2017,-11.4
+France,2018,-2.1
+France,2019,-6.7
+France,2020,-44.7
+France,2021,-1.3
+France,2022,39.0
+France,2023,40.6
+France,2024,25.4
+France,2025,-3.1
+Croatia,2016,295.4
+Croatia,2017,-32.6
+Croatia,2018,-28.2
+Croatia,2019,-32.1
+Croatia,2020,-28.1
+Croatia,2021,58.5
+Croatia,2022,33.1
+Croatia,2023,-14.5
+Croatia,2024,24.2
+Croatia,2025,-10.3
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,103.9
+Hungary,2023,135.7
+Hungary,2024,-18.4
+Hungary,2025,-0.4
+Iceland,2015,-17.7
+Iceland,2016,49.5
+Iceland,2017,-21.0
+Iceland,2018,23.1
+Iceland,2019,-13.1
+Iceland,2020,12.5
+Iceland,2021,-7.6
+Iceland,2022,-44.7
+Iceland,2023,243.4
+Iceland,2024,-23.8
+Iceland,2025,-0.9
+Italy,2015,-8.6
+Italy,2016,-7.6
+Italy,2017,-17.6
+Italy,2018,-3.4
+Italy,2019,-12.5
+Italy,2020,-32.1
+Italy,2021,21.1
+Italy,2022,-19.0
+Italy,2023,-2.1
+Italy,2024,31.3
+Italy,2025,23.8
+Lithuania,2015,18.6
+Lithuania,2016,8.9
+Lithuania,2017,-1.1
+Lithuania,2018,-6.0
+Lithuania,2019,-18.9
+Lithuania,2020,-40.4
+Lithuania,2021,-14.5
+Lithuania,2022,72.8
+Lithuania,2023,-7.6
+Lithuania,2024,12.0
+Lithuania,2025,-5.4
+Luxembourg,2015,5.2
+Luxembourg,2016,8.9
+Luxembourg,2017,-18.1
+Luxembourg,2018,5.5
+Luxembourg,2019,29.6
+Luxembourg,2020,-26.2
+Luxembourg,2021,9.1
+Luxembourg,2022,-2.5
+Luxembourg,2023,36.7
+Luxembourg,2024,25.1
+Luxembourg,2025,-17.0
+Latvia,2016,-19.5
+Latvia,2017,-19.4
+Latvia,2018,-6.0
+Latvia,2019,18.0
+Latvia,2020,-39.1
+Latvia,2021,-35.7
+Latvia,2022,50.0
+Latvia,2023,-25.9
+Latvia,2024,20.0
+Latvia,2025,10.4
+Montenegro,2022,27.9
+Montenegro,2023,-12.7
+Montenegro,2024,-18.7
+Montenegro,2025,
+North Macedonia,2021,52.7
+North Macedonia,2022,-31.0
+North Macedonia,2023,-25.1
+North Macedonia,2024,40.0
+North Macedonia,2025,23.9
+Malta,2016,0.0
+Malta,2017,100.0
+Malta,2018,-50.0
+Malta,2019,-50.0
+Malta,2020,0.0
+Malta,2021,0.0
+Netherlands,2015,-18.6
+Netherlands,2016,-33.0
+Netherlands,2017,-13.0
+Netherlands,2018,-3.6
+Netherlands,2019,12.1
+Netherlands,2020,-13.6
+Netherlands,2021,-27.6
+Netherlands,2022,7.3
+Netherlands,2023,40.8
+Netherlands,2024,29.1
+Netherlands,2025,-21.1
+Norway,2016,2.4
+Norway,2017,4.0
+Norway,2018,9.9
+Norway,2019,9.6
+Norway,2020,-17.6
+Norway,2021,-6.1
+Norway,2022,5.6
+Norway,2023,21.8
+Norway,2024,5.9
+Norway,2025,-9.7
+Poland,2015,-22.7
+Poland,2016,-30.0
+Poland,2017,-15.3
+Poland,2018,24.7
+Poland,2019,-18.9
+Poland,2020,-20.0
+Poland,2021,-31.9
+Poland,2022,22.4
+Poland,2023,-1.6
+Poland,2024,-3.4
+Poland,2025,-5.2
+Portugal,2015,106.0
+Portugal,2016,-31.7
+Portugal,2017,-27.8
+Portugal,2018,-13.6
+Portugal,2019,-26.0
+Portugal,2020,-11.9
+Portugal,2021,6.3
+Portugal,2022,-5.4
+Portugal,2023,26.7
+Portugal,2024,-3.4
+Portugal,2025,-6.6
+Romania,2016,-54.0
+Romania,2017,3.1
+Romania,2018,41.9
+Romania,2019,18.0
+Romania,2020,-6.6
+Romania,2021,12.1
+Romania,2022,-43.5
+Romania,2023,-4.6
+Romania,2024,19.5
+Romania,2025,6.2
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,2.4
+Sweden,2023,25.6
+Sweden,2024,29.7
+Sweden,2025,-4.0
+Slovenia,2016,14.9
+Slovenia,2017,18.6
+Slovenia,2018,12.0
+Slovenia,2019,-25.3
+Slovenia,2020,-10.0
+Slovenia,2021,-9.2
+Slovenia,2022,3.2
+Slovenia,2023,-3.1
+Slovenia,2024,25.0
+Slovenia,2025,18.3
+Slovakia,2016,-22.3
+Slovakia,2017,280.9
+Slovakia,2018,267.9
+Slovakia,2019,21.0
+Slovakia,2020,-37.2
+Slovakia,2021,0.0
+Slovakia,2022,-37.3
+Slovakia,2023,29.0
+Slovakia,2024,-6.7
+Slovakia,2025,-1.6
+Ukraine,2022,-44.4
+Ukraine,2023,62.8
+Ukraine,2024,7.0
+Ukraine,2025,-13.1
+Kosovo*,2022,-0.2
+Kosovo*,2023,9.5
+Kosovo*,2024,-10.7
+Kosovo*,2025,-24.6
+Belgium,2015,100.0
+Belgium,2016,95.0
+Belgium,2017,101.5
+Belgium,2018,95.4
+Belgium,2019,98.8
+Belgium,2020,65.3
+Belgium,2021,56.0
+Belgium,2022,80.8
+Belgium,2023,83.8
+Bulgaria,2015,100.0
+Bulgaria,2016,140.8
+Bulgaria,2017,186.8
+Bulgaria,2018,180.3
+Bulgaria,2019,205.0
+Bulgaria,2020,177.2
+Bulgaria,2021,194.0
+Bulgaria,2022,214.1
+Bulgaria,2023,180.7
+Cyprus,2015,100.0
+Cyprus,2016,63.0
+Cyprus,2017,48.1
+Cyprus,2018,18.5
+Cyprus,2019,33.3
+Cyprus,2020,37.0
+Cyprus,2021,40.7
+Cyprus,2022,0.0
+Cyprus,2023,11.1
+Germany,2015,100.0
+Germany,2016,88.2
+Germany,2017,84.6
+Germany,2018,76.7
+Germany,2019,73.9
+Germany,2020,57.5
+Germany,2021,49.5
+Germany,2022,52.3
+Germany,2023,64.9
+Denmark,2015,100.0
+Denmark,2016,146.1
+Denmark,2017,153.1
+Denmark,2018,158.7
+Denmark,2019,183.9
+Denmark,2020,115.3
+Denmark,2021,151.0
+Denmark,2022,157.0
+Denmark,2023,142.1
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,87.0
+Euro area - 19 countries  (2015-2022),2017,86.1
+Euro area - 19 countries  (2015-2022),2018,86.8
+Euro area - 19 countries  (2015-2022),2019,88.4
+Euro area - 19 countries  (2015-2022),2020,61.1
+Euro area - 19 countries  (2015-2022),2021,70.1
+Euro area - 19 countries  (2015-2022),2022,84.4
+Euro area - 19 countries  (2015-2022),2023,95.2
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,90.0
+Euro area – 20 countries (2023-2025),2017,87.9
+Euro area – 20 countries (2023-2025),2018,87.9
+Euro area – 20 countries (2023-2025),2019,89.1
+Euro area – 20 countries (2023-2025),2020,61.5
+Euro area – 20 countries (2023-2025),2021,70.7
+Euro area – 20 countries (2023-2025),2022,84.9
+Euro area – 20 countries (2023-2025),2023,95.4
+Estonia,2015,100.0
+Estonia,2016,123.1
+Estonia,2017,146.2
+Estonia,2018,119.2
+Estonia,2019,111.5
+Estonia,2020,84.6
+Estonia,2021,80.8
+Estonia,2022,50.0
+Estonia,2023,84.6
+Spain,2015,100.0
+Spain,2016,81.2
+Spain,2017,83.1
+Spain,2018,88.8
+Spain,2019,104.2
+Spain,2020,79.7
+Spain,2021,143.8
+Spain,2022,209.9
+Spain,2023,222.5
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,88.3
+European Union - 27 countries (from 2020),2017,86.7
+European Union - 27 countries (from 2020),2018,87.1
+European Union - 27 countries (from 2020),2019,90.8
+European Union - 27 countries (from 2020),2020,66.1
+European Union - 27 countries (from 2020),2021,71.4
+European Union - 27 countries (from 2020),2022,80.7
+European Union - 27 countries (from 2020),2023,92.2
+France,2015,100.0
+France,2016,91.0
+France,2017,87.7
+France,2018,84.3
+France,2019,81.1
+France,2020,49.5
+France,2021,43.1
+France,2022,66.7
+France,2023,87.6
+Croatia,2015,100.0
+Croatia,2016,443.9
+Croatia,2017,306.1
+Croatia,2018,217.5
+Croatia,2019,169.3
+Croatia,2020,116.6
+Croatia,2021,144.5
+Croatia,2022,144.0
+Croatia,2023,111.7
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,39.8
+Hungary,2022,75.0
+Hungary,2023,208.8
+Iceland,2015,100.0
+Iceland,2016,193.3
+Iceland,2017,129.8
+Iceland,2018,166.3
+Iceland,2019,134.6
+Iceland,2020,116.3
+Iceland,2021,164.4
+Iceland,2022,52.9
+Iceland,2023,183.7
+Italy,2015,100.0
+Italy,2016,87.3
+Italy,2017,80.4
+Italy,2018,72.8
+Italy,2019,74.6
+Italy,2020,48.0
+Italy,2021,58.6
+Italy,2022,45.7
+Italy,2023,47.9
+Lithuania,2015,100.0
+Lithuania,2016,135.0
+Lithuania,2017,162.8
+Lithuania,2018,119.6
+Lithuania,2019,75.9
+Lithuania,2020,30.9
+Lithuania,2021,30.4
+Lithuania,2022,39.1
+Lithuania,2023,44.8
+Luxembourg,2015,100.0
+Luxembourg,2016,126.1
+Luxembourg,2017,95.7
+Luxembourg,2018,123.9
+Luxembourg,2019,122.9
+Luxembourg,2020,109.0
+Luxembourg,2021,127.7
+Luxembourg,2022,102.7
+Luxembourg,2023,94.7
+Latvia,2015,100.0
+Latvia,2016,93.8
+Latvia,2017,75.2
+Latvia,2018,71.1
+Latvia,2019,63.6
+Latvia,2020,40.1
+Latvia,2021,26.9
+Latvia,2022,29.8
+Latvia,2023,23.1
+Malta,2015,100.0
+Malta,2016,0.0
+Malta,2017,100.0
+Malta,2018,0.0
+Malta,2019,75.0
+Malta,2020,25.0
+Malta,2021,50.0
+Malta,2022,0.0
+Malta,2023,75.0
+Netherlands,2015,100.0
+Netherlands,2016,86.8
+Netherlands,2017,65.7
+Netherlands,2018,61.6
+Netherlands,2019,65.9
+Netherlands,2020,52.4
+Netherlands,2021,25.8
+Netherlands,2022,33.3
+Netherlands,2023,52.8
+Norway,2015,100.0
+Norway,2016,93.9
+Norway,2017,96.0
+Norway,2018,113.9
+Norway,2019,111.9
+Norway,2020,88.8
+Norway,2021,55.7
+Norway,2022,68.9
+Norway,2023,85.0
+Poland,2015,100.0
+Poland,2016,81.0
+Poland,2017,73.9
+Poland,2018,76.1
+Poland,2019,91.3
+Poland,2020,79.9
+Poland,2021,50.0
+Poland,2022,40.8
+Poland,2023,51.1
+Portugal,2015,100.0
+Portugal,2016,76.2
+Portugal,2017,60.6
+Portugal,2018,51.1
+Portugal,2019,45.4
+Portugal,2020,43.4
+Portugal,2021,39.3
+Portugal,2022,31.4
+Portugal,2023,35.4
+Romania,2015,100.0
+Romania,2016,44.5
+Romania,2017,41.8
+Romania,2018,55.1
+Romania,2019,61.8
+Romania,2020,56.5
+Romania,2021,73.0
+Romania,2022,28.2
+Romania,2023,27.1
+Slovenia,2015,100.0
+Slovenia,2016,110.6
+Slovenia,2017,130.5
+Slovenia,2018,128.3
+Slovenia,2019,115.5
+Slovenia,2020,120.4
+Slovenia,2021,104.4
+Slovenia,2022,90.7
+Slovenia,2023,74.8
+Slovakia,2015,100.0
+Slovakia,2016,68.9
+Slovakia,2017,177.4
+Slovakia,2018,386.8
+Slovakia,2019,374.5
+Slovakia,2020,217.9
+Slovakia,2021,162.3
+Slovakia,2022,137.7
+Slovakia,2023,141.5
+Austria,2019,185.1
+Austria,2020,104.2
+Austria,2021,100.0
+Austria,2022,173.9
+Austria,2023,194.1
+Austria,2024,235.2
+Austria,2025,236.8
+Belgium,2015,178.6
+Belgium,2016,169.8
+Belgium,2017,181.3
+Belgium,2018,170.5
+Belgium,2019,176.6
+Belgium,2020,116.7
+Belgium,2021,100.0
+Belgium,2022,144.4
+Belgium,2023,149.6
+Belgium,2024,167.0
+Belgium,2025,168.1
+Bulgaria,2015,51.6
+Bulgaria,2016,72.6
+Bulgaria,2017,100.8
+Bulgaria,2018,92.9
+Bulgaria,2019,105.7
+Bulgaria,2020,91.3
+Bulgaria,2021,100.0
+Bulgaria,2022,110.4
+Bulgaria,2023,93.1
+Bulgaria,2024,102.7
+Bulgaria,2025,123.8
+Cyprus,2015,245.5
+Cyprus,2016,154.5
+Cyprus,2017,118.2
+Cyprus,2018,45.5
+Cyprus,2019,81.8
+Cyprus,2020,90.9
+Cyprus,2021,100.0
+Cyprus,2022,0.0
+Cyprus,2023,36.4
+Cyprus,2024,36.4
+Cyprus,2025,72.7
+Czechia,2021,100.0
+Czechia,2022,97.7
+Czechia,2023,83.8
+Czechia,2024,84.6
+Czechia,2025,94.5
+Germany,2015,201.9
+Germany,2016,178.0
+Germany,2017,170.9
+Germany,2018,154.8
+Germany,2019,149.2
+Germany,2020,116.2
+Germany,2021,100.0
+Germany,2022,105.5
+Germany,2023,132.4
+Germany,2024,160.6
+Germany,2025,180.3
+Denmark,2015,66.2
+Denmark,2016,96.8
+Denmark,2017,101.4
+Denmark,2018,105.1
+Denmark,2019,121.8
+Denmark,2020,76.3
+Denmark,2021,100.0
+Denmark,2022,103.8
+Denmark,2023,93.9
+Denmark,2024,77.7
+Denmark,2025,77.3
+Euro area - 19 countries  (2015-2022),2015,190.1
+Euro area - 19 countries  (2015-2022),2016,167.7
+Euro area - 19 countries  (2015-2022),2017,157.8
+Euro area - 19 countries  (2015-2022),2018,148.7
+Euro area - 19 countries  (2015-2022),2019,147.8
+Euro area - 19 countries  (2015-2022),2020,102.1
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,112.2
+Euro area - 19 countries  (2015-2022),2023,128.2
+Euro area – 20 countries (2023-2025),2015,189.1
+Euro area – 20 countries (2023-2025),2016,168.9
+Euro area – 20 countries (2023-2025),2017,158.3
+Euro area – 20 countries (2023-2025),2018,148.7
+Euro area – 20 countries (2023-2025),2019,147.5
+Euro area – 20 countries (2023-2025),2020,101.9
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,119.6
+Euro area – 20 countries (2023-2025),2023,148.7
+Euro area – 20 countries (2023-2025),2024,175.5
+Euro area – 20 countries (2023-2025),2025,187.5
+Euro area – 21 countries (from 2026),2015,184.6
+Euro area – 21 countries (from 2026),2016,165.8
+Euro area – 21 countries (from 2026),2017,156.5
+Euro area – 21 countries (from 2026),2018,146.9
+Euro area – 21 countries (from 2026),2019,146.2
+Euro area – 21 countries (from 2026),2020,101.6
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,119.3
+Euro area – 21 countries (from 2026),2023,147.0
+Euro area – 21 countries (from 2026),2024,173.3
+Euro area – 21 countries (from 2026),2025,185.5
+Estonia,2015,123.8
+Estonia,2016,152.4
+Estonia,2017,181.0
+Estonia,2018,147.6
+Estonia,2019,138.1
+Estonia,2020,104.8
+Estonia,2021,100.0
+Estonia,2022,61.9
+Estonia,2023,104.8
+Estonia,2024,119.0
+Estonia,2025,190.5
+Greece,2021,
+Greece,2022,182.4
+Greece,2023,382.4
+Greece,2024,476.5
+Greece,2025,741.2
+Spain,2015,69.5
+Spain,2016,56.5
+Spain,2017,57.8
+Spain,2018,61.7
+Spain,2019,72.4
+Spain,2020,55.4
+Spain,2021,100.0
+Spain,2022,145.9
+Spain,2023,140.3
+Spain,2024,177.6
+Spain,2025,169.4
+European Union - 27 countries (from 2020),2015,184.2
+European Union - 27 countries (from 2020),2016,159.9
+European Union - 27 countries (from 2020),2017,150.0
+European Union - 27 countries (from 2020),2018,143.0
+European Union - 27 countries (from 2020),2019,145.9
+European Union - 27 countries (from 2020),2020,105.7
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,112.8
+European Union - 27 countries (from 2020),2023,144.2
+European Union - 27 countries (from 2020),2024,160.9
+European Union - 27 countries (from 2020),2025,169.7
+Finland,2020,93.7
+Finland,2021,100.0
+Finland,2022,108.0
+Finland,2023,131.9
+Finland,2024,131.9
+Finland,2025,142.8
+France,2015,232.0
+France,2016,211.0
+France,2017,203.5
+France,2018,195.7
+France,2019,188.1
+France,2020,114.7
+France,2021,100.0
+France,2022,154.6
+France,2023,203.8
+France,2024,233.5
+France,2025,233.8
+Croatia,2015,69.2
+Croatia,2016,307.3
+Croatia,2017,211.9
+Croatia,2018,150.5
+Croatia,2019,117.2
+Croatia,2020,80.7
+Croatia,2021,100.0
+Croatia,2022,99.7
+Croatia,2023,77.3
+Croatia,2024,77.7
+Croatia,2025,56.9
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,188.4
+Hungary,2023,524.8
+Hungary,2024,380.9
+Hungary,2025,322.0
+Iceland,2015,61.4
+Iceland,2016,118.7
+Iceland,2017,78.9
+Iceland,2018,102.3
+Iceland,2019,81.9
+Iceland,2020,70.8
+Iceland,2021,100.0
+Iceland,2022,32.2
+Iceland,2023,113.5
+Iceland,2024,82.5
+Iceland,2025,88.9
+Italy,2015,170.6
+Italy,2016,148.9
+Italy,2017,137.2
+Italy,2018,124.3
+Italy,2019,127.3
+Italy,2020,81.9
+Italy,2021,100.0
+Italy,2022,77.9
+Italy,2023,81.8
+Italy,2024,98.1
+Italy,2025,94.0
+Lithuania,2015,328.5
+Lithuania,2016,443.5
+Lithuania,2017,534.9
+Lithuania,2018,393.0
+Lithuania,2019,249.5
+Lithuania,2020,101.6
+Lithuania,2021,100.0
+Lithuania,2022,128.5
+Lithuania,2023,147.3
+Lithuania,2024,130.1
+Lithuania,2025,118.8
+Luxembourg,2015,78.4
+Luxembourg,2016,98.3
+Luxembourg,2017,74.7
+Luxembourg,2018,97.5
+Luxembourg,2019,95.9
+Luxembourg,2020,85.1
+Luxembourg,2021,100.0
+Luxembourg,2022,80.5
+Luxembourg,2023,73.9
+Luxembourg,2024,71.0
+Luxembourg,2025,81.3
+Latvia,2015,375.4
+Latvia,2016,350.8
+Latvia,2017,286.2
+Latvia,2018,264.6
+Latvia,2019,236.9
+Latvia,2020,149.2
+Latvia,2021,100.0
+Latvia,2022,113.8
+Latvia,2023,86.2
+Latvia,2024,98.5
+Latvia,2025,84.6
+Montenegro,2021,100.0
+Montenegro,2022,130.0
+Montenegro,2023,41.8
+Montenegro,2024,50.6
+Montenegro,2025,
+North Macedonia,2020,96.3
+North Macedonia,2021,100.0
+North Macedonia,2022,77.8
+North Macedonia,2023,86.4
+North Macedonia,2024,112.3
+North Macedonia,2025,109.9
+Malta,2015,200.0
+Malta,2016,0.0
+Malta,2017,200.0
+Malta,2018,0.0
+Malta,2019,150.0
+Malta,2020,50.0
+Malta,2021,100.0
+Malta,2022,0.0
+Malta,2023,200.0
+Malta,2024,100.0
+Malta,2025,0.0
+Netherlands,2015,388.2
+Netherlands,2016,336.9
+Netherlands,2017,255.0
+Netherlands,2018,239.3
+Netherlands,2019,255.9
+Netherlands,2020,203.3
+Netherlands,2021,100.0
+Netherlands,2022,129.3
+Netherlands,2023,205.7
+Netherlands,2024,245.0
+Netherlands,2025,213.3
+Norway,2015,179.4
+Norway,2016,168.5
+Norway,2017,172.2
+Norway,2018,204.3
+Norway,2019,200.8
+Norway,2020,159.3
+Norway,2021,100.0
+Norway,2022,123.7
+Norway,2023,152.5
+Norway,2024,161.5
+Norway,2025,141.6
+Poland,2015,200.0
+Poland,2016,162.0
+Poland,2017,147.8
+Poland,2018,152.2
+Poland,2019,182.6
+Poland,2020,159.8
+Poland,2021,100.0
+Poland,2022,81.5
+Poland,2023,102.2
+Poland,2024,97.8
+Poland,2025,101.1
+Portugal,2015,254.7
+Portugal,2016,194.0
+Portugal,2017,154.2
+Portugal,2018,130.2
+Portugal,2019,115.7
+Portugal,2020,110.6
+Portugal,2021,100.0
+Portugal,2022,79.9
+Portugal,2023,90.3
+Portugal,2024,86.7
+Portugal,2025,88.4
+Romania,2015,137.1
+Romania,2016,61.0
+Romania,2017,57.3
+Romania,2018,75.6
+Romania,2019,84.7
+Romania,2020,77.4
+Romania,2021,100.0
+Romania,2022,38.7
+Romania,2023,37.1
+Romania,2024,37.0
+Romania,2025,40.6
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,116.7
+Sweden,2023,137.1
+Sweden,2024,162.1
+Sweden,2025,164.8
+Slovenia,2015,95.8
+Slovenia,2016,105.9
+Slovenia,2017,125.0
+Slovenia,2018,122.9
+Slovenia,2019,110.6
+Slovenia,2020,115.3
+Slovenia,2021,100.0
+Slovenia,2022,86.9
+Slovenia,2023,71.6
+Slovenia,2024,84.3
+Slovenia,2025,74.6
+Slovakia,2015,61.6
+Slovakia,2016,42.4
+Slovakia,2017,109.3
+Slovakia,2018,238.4
+Slovakia,2019,230.8
+Slovakia,2020,134.3
+Slovakia,2021,100.0
+Slovakia,2022,84.9
+Slovakia,2023,87.2
+Slovakia,2024,76.7
+Slovakia,2025,89.5
+Ukraine,2021,100.0
+Ukraine,2022,72.8
+Ukraine,2023,125.4
+Ukraine,2024,114.0
+Ukraine,2025,120.2
+Kosovo*,2021,100.0
+Kosovo*,2022,81.1
+Kosovo*,2023,77.5
+Kosovo*,2024,93.7
+Kosovo*,2025,78.4
+Austria,2020,-43.7
+Austria,2021,-4.0
+Austria,2022,73.9
+Austria,2023,11.6
+Austria,2024,21.2
+Austria,2025,0.7
+Belgium,2015,-9.7
+Belgium,2016,-4.9
+Belgium,2017,6.8
+Belgium,2018,-6.0
+Belgium,2019,3.6
+Belgium,2020,-33.9
+Belgium,2021,-14.3
+Belgium,2022,44.4
+Belgium,2023,3.6
+Belgium,2024,11.6
+Belgium,2025,0.7
+Bulgaria,2015,7.9
+Bulgaria,2016,40.7
+Bulgaria,2017,38.8
+Bulgaria,2018,-7.8
+Bulgaria,2019,13.8
+Bulgaria,2020,-13.6
+Bulgaria,2021,9.5
+Bulgaria,2022,10.4
+Bulgaria,2023,-15.7
+Bulgaria,2024,10.3
+Bulgaria,2025,20.5
+Cyprus,2016,-37.1
+Cyprus,2017,-23.5
+Cyprus,2018,-61.5
+Cyprus,2019,79.8
+Cyprus,2020,11.1
+Cyprus,2021,10.0
+Cyprus,2024,0.0
+Cyprus,2025,99.7
+Czechia,2022,-2.3
+Czechia,2023,-14.2
+Czechia,2024,1.0
+Czechia,2025,11.7
+Germany,2015,-5.7
+Germany,2016,-11.8
+Germany,2017,-4.0
+Germany,2018,-9.4
+Germany,2019,-3.6
+Germany,2020,-22.1
+Germany,2021,-13.9
+Germany,2022,5.5
+Germany,2023,25.5
+Germany,2024,21.3
+Germany,2025,12.3
+Denmark,2015,9.6
+Denmark,2016,46.2
+Denmark,2017,4.8
+Denmark,2018,3.6
+Denmark,2019,15.9
+Denmark,2020,-37.4
+Denmark,2021,31.1
+Denmark,2022,3.8
+Denmark,2023,-9.5
+Denmark,2024,-17.3
+Denmark,2025,-0.5
+Euro area - 19 countries  (2015-2022),2015,-3.8
+Euro area - 19 countries  (2015-2022),2016,-11.8
+Euro area - 19 countries  (2015-2022),2017,-5.9
+Euro area - 19 countries  (2015-2022),2018,-5.8
+Euro area - 19 countries  (2015-2022),2019,-0.6
+Euro area - 19 countries  (2015-2022),2020,-30.9
+Euro area - 19 countries  (2015-2022),2021,-2.1
+Euro area - 19 countries  (2015-2022),2022,12.2
+Euro area - 19 countries  (2015-2022),2023,14.3
+Euro area – 20 countries (2023-2025),2015,-3.8
+Euro area – 20 countries (2023-2025),2016,-10.7
+Euro area – 20 countries (2023-2025),2017,-6.3
+Euro area – 20 countries (2023-2025),2018,-6.1
+Euro area – 20 countries (2023-2025),2019,-0.8
+Euro area – 20 countries (2023-2025),2020,-30.9
+Euro area – 20 countries (2023-2025),2021,-1.9
+Euro area – 20 countries (2023-2025),2022,19.6
+Euro area – 20 countries (2023-2025),2023,24.3
+Euro area – 20 countries (2023-2025),2024,18.0
+Euro area – 20 countries (2023-2025),2025,6.8
+Euro area – 21 countries (from 2026),2015,-3.7
+Euro area – 21 countries (from 2026),2016,-10.2
+Euro area – 21 countries (from 2026),2017,-5.6
+Euro area – 21 countries (from 2026),2018,-6.1
+Euro area – 21 countries (from 2026),2019,-0.5
+Euro area – 21 countries (from 2026),2020,-30.5
+Euro area – 21 countries (from 2026),2021,-1.6
+Euro area – 21 countries (from 2026),2022,19.3
+Euro area – 21 countries (from 2026),2023,23.2
+Euro area – 21 countries (from 2026),2024,17.9
+Euro area – 21 countries (from 2026),2025,7.0
+Estonia,2015,-31.6
+Estonia,2016,23.1
+Estonia,2017,18.8
+Estonia,2018,-18.5
+Estonia,2019,-6.4
+Estonia,2020,-24.1
+Estonia,2021,-4.6
+Estonia,2022,-38.1
+Estonia,2023,69.3
+Estonia,2024,13.5
+Estonia,2025,60.1
+Greece,2022,
+Greece,2023,109.6
+Greece,2024,24.6
+Greece,2025,55.6
+Spain,2015,-17.2
+Spain,2016,-18.7
+Spain,2017,2.3
+Spain,2018,6.7
+Spain,2019,17.3
+Spain,2020,-23.5
+Spain,2021,80.5
+Spain,2022,45.9
+Spain,2023,-3.8
+Spain,2024,26.6
+Spain,2025,-4.6
+European Union - 27 countries (from 2020),2015,-10.4
+European Union - 27 countries (from 2020),2016,-13.2
+European Union - 27 countries (from 2020),2017,-6.2
+European Union - 27 countries (from 2020),2018,-4.7
+European Union - 27 countries (from 2020),2019,2.0
+European Union - 27 countries (from 2020),2020,-27.6
+European Union - 27 countries (from 2020),2021,-5.4
+European Union - 27 countries (from 2020),2022,12.8
+European Union - 27 countries (from 2020),2023,27.8
+European Union - 27 countries (from 2020),2024,11.6
+European Union - 27 countries (from 2020),2025,5.5
+Finland,2021,6.7
+Finland,2022,8.0
+Finland,2023,22.1
+Finland,2024,0.0
+Finland,2025,8.3
+France,2015,-1.0
+France,2016,-9.1
+France,2017,-3.6
+France,2018,-3.8
+France,2019,-3.9
+France,2020,-39.0
+France,2021,-12.8
+France,2022,54.6
+France,2023,31.8
+France,2024,14.6
+France,2025,0.1
+Croatia,2016,344.1
+Croatia,2017,-31.0
+Croatia,2018,-29.0
+Croatia,2019,-22.1
+Croatia,2020,-31.1
+Croatia,2021,23.9
+Croatia,2022,-0.3
+Croatia,2023,-22.5
+Croatia,2024,0.5
+Croatia,2025,-26.8
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,88.4
+Hungary,2023,178.6
+Hungary,2024,-27.4
+Hungary,2025,-15.5
+Iceland,2015,-28.1
+Iceland,2016,93.3
+Iceland,2017,-33.5
+Iceland,2018,29.7
+Iceland,2019,-19.9
+Iceland,2020,-13.6
+Iceland,2021,41.2
+Iceland,2022,-67.8
+Iceland,2023,252.5
+Iceland,2024,-27.3
+Iceland,2025,7.8
+Italy,2015,-5.1
+Italy,2016,-12.7
+Italy,2017,-7.9
+Italy,2018,-9.4
+Italy,2019,2.4
+Italy,2020,-35.7
+Italy,2021,22.1
+Italy,2022,-22.1
+Italy,2023,5.0
+Italy,2024,19.9
+Italy,2025,-4.2
+Lithuania,2015,49.0
+Lithuania,2016,35.0
+Lithuania,2017,20.6
+Lithuania,2018,-26.5
+Lithuania,2019,-36.5
+Lithuania,2020,-59.3
+Lithuania,2021,-1.6
+Lithuania,2022,28.5
+Lithuania,2023,14.6
+Lithuania,2024,-11.7
+Lithuania,2025,-8.7
+Luxembourg,2015,-7.9
+Luxembourg,2016,25.4
+Luxembourg,2017,-24.0
+Luxembourg,2018,30.5
+Luxembourg,2019,-1.6
+Luxembourg,2020,-11.3
+Luxembourg,2021,17.5
+Luxembourg,2022,-19.5
+Luxembourg,2023,-8.2
+Luxembourg,2024,-3.9
+Luxembourg,2025,14.5
+Latvia,2016,-6.6
+Latvia,2017,-18.4
+Latvia,2018,-7.5
+Latvia,2019,-10.5
+Latvia,2020,-37.0
+Latvia,2021,-33.0
+Latvia,2022,13.8
+Latvia,2023,-24.3
+Latvia,2024,14.3
+Latvia,2025,-14.1
+Montenegro,2022,30.0
+Montenegro,2023,-67.8
+Montenegro,2024,21.1
+Montenegro,2025,
+North Macedonia,2021,3.8
+North Macedonia,2022,-22.2
+North Macedonia,2023,11.1
+North Macedonia,2024,30.0
+North Macedonia,2025,-2.1
+Malta,2020,-66.7
+Malta,2021,100.0
+Malta,2024,-50.0
+Netherlands,2015,-22.7
+Netherlands,2016,-13.2
+Netherlands,2017,-24.3
+Netherlands,2018,-6.2
+Netherlands,2019,6.9
+Netherlands,2020,-20.6
+Netherlands,2021,-50.8
+Netherlands,2022,29.3
+Netherlands,2023,59.1
+Netherlands,2024,19.1
+Netherlands,2025,-12.9
+Norway,2016,-6.1
+Norway,2017,2.2
+Norway,2018,18.6
+Norway,2019,-1.7
+Norway,2020,-20.7
+Norway,2021,-37.2
+Norway,2022,23.7
+Norway,2023,23.3
+Norway,2024,5.9
+Norway,2025,-12.3
+Poland,2015,-9.8
+Poland,2016,-19.0
+Poland,2017,-8.8
+Poland,2018,3.0
+Poland,2019,20.0
+Poland,2020,-12.5
+Poland,2021,-37.4
+Poland,2022,-18.5
+Poland,2023,25.4
+Poland,2024,-4.3
+Poland,2025,3.4
+Portugal,2015,125.4
+Portugal,2016,-23.8
+Portugal,2017,-20.5
+Portugal,2018,-15.6
+Portugal,2019,-11.1
+Portugal,2020,-4.4
+Portugal,2021,-9.6
+Portugal,2022,-20.1
+Portugal,2023,13.0
+Portugal,2024,-4.0
+Portugal,2025,2.0
+Romania,2016,-55.5
+Romania,2017,-6.1
+Romania,2018,31.9
+Romania,2019,12.0
+Romania,2020,-8.6
+Romania,2021,29.2
+Romania,2022,-61.3
+Romania,2023,-4.1
+Romania,2024,-0.3
+Romania,2025,9.7
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,16.7
+Sweden,2023,17.5
+Sweden,2024,18.2
+Sweden,2025,1.7
+Slovenia,2016,10.5
+Slovenia,2017,18.0
+Slovenia,2018,-1.7
+Slovenia,2019,-10.0
+Slovenia,2020,4.2
+Slovenia,2021,-13.3
+Slovenia,2022,-13.1
+Slovenia,2023,-17.6
+Slovenia,2024,17.7
+Slovenia,2025,-11.5
+Slovakia,2016,-31.2
+Slovakia,2017,157.8
+Slovakia,2018,118.1
+Slovakia,2019,-3.2
+Slovakia,2020,-41.8
+Slovakia,2021,-25.5
+Slovakia,2022,-15.1
+Slovakia,2023,2.7
+Slovakia,2024,-12.0
+Slovakia,2025,16.7
+Ukraine,2022,-27.2
+Ukraine,2023,72.3
+Ukraine,2024,-9.1
+Ukraine,2025,5.4
+Kosovo*,2022,-18.9
+Kosovo*,2023,-4.4
+Kosovo*,2024,20.9
+Kosovo*,2025,-16.3
+Belgium,2015,100.0
+Belgium,2016,92.0
+Belgium,2017,112.3
+Belgium,2018,107.5
+Belgium,2019,118.9
+Belgium,2020,88.0
+Belgium,2021,100.2
+Belgium,2022,136.1
+Belgium,2023,152.8
+Bulgaria,2015,100.0
+Bulgaria,2016,87.1
+Bulgaria,2017,93.1
+Bulgaria,2018,83.6
+Bulgaria,2019,89.7
+Bulgaria,2020,54.3
+Bulgaria,2021,53.4
+Bulgaria,2022,65.5
+Bulgaria,2023,50.9
+Cyprus,2015,100.0
+Cyprus,2016,100.0
+Cyprus,2017,33.3
+Cyprus,2018,100.0
+Cyprus,2019,66.7
+Cyprus,2020,0.0
+Cyprus,2021,66.7
+Cyprus,2022,0.0
+Cyprus,2023,0.0
+Germany,2015,100.0
+Germany,2016,95.8
+Germany,2017,91.5
+Germany,2018,88.0
+Germany,2019,94.2
+Germany,2020,76.3
+Germany,2021,70.9
+Germany,2022,76.5
+Germany,2023,76.7
+Denmark,2015,100.0
+Denmark,2016,141.7
+Denmark,2017,189.4
+Denmark,2018,230.5
+Denmark,2019,345.0
+Denmark,2020,201.3
+Denmark,2021,311.9
+Denmark,2022,296.0
+Denmark,2023,270.2
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,91.1
+Euro area - 19 countries  (2015-2022),2017,98.0
+Euro area - 19 countries  (2015-2022),2018,120.6
+Euro area - 19 countries  (2015-2022),2019,129.9
+Euro area - 19 countries  (2015-2022),2020,101.7
+Euro area - 19 countries  (2015-2022),2021,145.8
+Euro area - 19 countries  (2015-2022),2022,181.1
+Euro area - 19 countries  (2015-2022),2023,204.4
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,95.5
+Euro area – 20 countries (2023-2025),2017,101.0
+Euro area – 20 countries (2023-2025),2018,122.3
+Euro area – 20 countries (2023-2025),2019,131.1
+Euro area – 20 countries (2023-2025),2020,103.0
+Euro area – 20 countries (2023-2025),2021,147.9
+Euro area – 20 countries (2023-2025),2022,184.6
+Euro area – 20 countries (2023-2025),2023,206.6
+Estonia,2015,100.0
+Estonia,2016,91.7
+Estonia,2017,83.3
+Estonia,2018,83.3
+Estonia,2019,91.7
+Estonia,2020,91.7
+Estonia,2021,50.0
+Estonia,2022,25.0
+Estonia,2023,50.0
+Spain,2015,100.0
+Spain,2016,84.1
+Spain,2017,100.0
+Spain,2018,122.6
+Spain,2019,136.0
+Spain,2020,118.9
+Spain,2021,280.5
+Spain,2022,401.8
+Spain,2023,451.8
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,83.2
+European Union - 27 countries (from 2020),2017,91.0
+European Union - 27 countries (from 2020),2018,112.7
+European Union - 27 countries (from 2020),2019,123.9
+European Union - 27 countries (from 2020),2020,100.0
+European Union - 27 countries (from 2020),2021,125.5
+European Union - 27 countries (from 2020),2022,150.3
+European Union - 27 countries (from 2020),2023,163.7
+France,2015,100.0
+France,2016,99.7
+France,2017,104.6
+France,2018,117.0
+France,2019,119.8
+France,2020,69.9
+France,2021,67.2
+France,2022,99.4
+France,2023,129.7
+Croatia,2015,100.0
+Croatia,2016,455.6
+Croatia,2017,352.5
+Croatia,2018,268.7
+Croatia,2019,233.3
+Croatia,2020,205.1
+Croatia,2021,327.3
+Croatia,2022,470.7
+Croatia,2023,392.9
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,49.9
+Hungary,2022,81.3
+Hungary,2023,180.1
+Iceland,2015,100.0
+Iceland,2016,115.8
+Iceland,2017,147.4
+Iceland,2018,168.4
+Iceland,2019,115.8
+Iceland,2020,147.4
+Iceland,2021,157.9
+Iceland,2022,52.6
+Iceland,2023,200.0
+Italy,2015,100.0
+Italy,2016,83.9
+Italy,2017,76.3
+Italy,2018,74.2
+Italy,2019,76.3
+Italy,2020,59.5
+Italy,2021,73.5
+Italy,2022,61.5
+Italy,2023,68.1
+Lithuania,2015,100.0
+Lithuania,2016,130.0
+Lithuania,2017,121.6
+Lithuania,2018,96.8
+Lithuania,2019,83.2
+Lithuania,2020,40.5
+Lithuania,2021,43.2
+Lithuania,2022,51.6
+Lithuania,2023,41.1
+Luxembourg,2015,100.0
+Luxembourg,2016,115.6
+Luxembourg,2017,103.1
+Luxembourg,2018,93.8
+Luxembourg,2019,87.5
+Luxembourg,2020,93.8
+Luxembourg,2021,96.9
+Luxembourg,2022,103.1
+Luxembourg,2023,103.1
+Latvia,2015,100.0
+Latvia,2016,84.6
+Latvia,2017,76.9
+Latvia,2018,67.7
+Latvia,2019,64.6
+Latvia,2020,44.6
+Latvia,2021,21.5
+Latvia,2022,41.5
+Latvia,2023,12.3
+Netherlands,2015,100.0
+Netherlands,2016,98.0
+Netherlands,2017,80.3
+Netherlands,2018,87.3
+Netherlands,2019,87.3
+Netherlands,2020,87.7
+Netherlands,2021,53.3
+Netherlands,2022,55.7
+Netherlands,2023,96.7
+Norway,2015,100.0
+Norway,2016,91.5
+Norway,2017,111.5
+Norway,2018,113.9
+Norway,2019,113.3
+Norway,2020,107.9
+Norway,2021,99.4
+Norway,2022,89.1
+Norway,2023,103.0
+Poland,2015,100.0
+Poland,2016,45.0
+Poland,2017,62.5
+Poland,2018,95.0
+Poland,2019,107.5
+Poland,2020,97.5
+Poland,2021,52.5
+Poland,2022,57.5
+Poland,2023,35.0
+Portugal,2015,100.0
+Portugal,2016,85.1
+Portugal,2017,57.2
+Portugal,2018,51.0
+Portugal,2019,53.6
+Portugal,2020,51.0
+Portugal,2021,45.9
+Portugal,2022,48.5
+Portugal,2023,53.6
+Romania,2015,100.0
+Romania,2016,41.3
+Romania,2017,47.0
+Romania,2018,58.2
+Romania,2019,83.6
+Romania,2020,90.3
+Romania,2021,96.1
+Romania,2022,51.7
+Romania,2023,52.9
+Slovenia,2015,100.0
+Slovenia,2016,88.9
+Slovenia,2017,85.7
+Slovenia,2018,131.7
+Slovenia,2019,163.5
+Slovenia,2020,125.4
+Slovenia,2021,122.2
+Slovenia,2022,168.3
+Slovenia,2023,139.7
+Slovakia,2015,100.0
+Slovakia,2016,100.0
+Slovakia,2017,300.0
+Slovakia,2018,838.5
+Slovakia,2019,953.8
+Slovakia,2020,723.1
+Slovakia,2021,646.2
+Slovakia,2022,430.8
+Slovakia,2023,430.8
+Austria,2019,133.3
+Austria,2020,73.9
+Austria,2021,100.0
+Austria,2022,125.2
+Austria,2023,123.8
+Austria,2024,142.0
+Austria,2025,160.0
+Belgium,2015,99.8
+Belgium,2016,91.8
+Belgium,2017,112.0
+Belgium,2018,107.3
+Belgium,2019,118.6
+Belgium,2020,87.8
+Belgium,2021,100.0
+Belgium,2022,135.8
+Belgium,2023,152.5
+Belgium,2024,170.4
+Belgium,2025,195.8
+Bulgaria,2015,187.1
+Bulgaria,2016,162.9
+Bulgaria,2017,182.3
+Bulgaria,2018,156.5
+Bulgaria,2019,167.7
+Bulgaria,2020,101.6
+Bulgaria,2021,100.0
+Bulgaria,2022,122.6
+Bulgaria,2023,95.2
+Bulgaria,2024,111.3
+Bulgaria,2025,96.8
+Cyprus,2015,150.0
+Cyprus,2016,150.0
+Cyprus,2017,50.0
+Cyprus,2018,150.0
+Cyprus,2019,100.0
+Cyprus,2020,0.0
+Cyprus,2021,100.0
+Cyprus,2022,0.0
+Cyprus,2023,0.0
+Cyprus,2024,150.0
+Cyprus,2025,0.0
+Czechia,2021,100.0
+Czechia,2022,112.4
+Czechia,2023,120.4
+Czechia,2024,169.6
+Czechia,2025,181.6
+Germany,2015,141.0
+Germany,2016,135.0
+Germany,2017,128.9
+Germany,2018,124.0
+Germany,2019,132.7
+Germany,2020,107.5
+Germany,2021,100.0
+Germany,2022,107.9
+Germany,2023,110.4
+Germany,2024,126.8
+Germany,2025,138.6
+Denmark,2015,32.1
+Denmark,2016,45.5
+Denmark,2017,60.9
+Denmark,2018,73.8
+Denmark,2019,110.9
+Denmark,2020,64.5
+Denmark,2021,100.0
+Denmark,2022,94.7
+Denmark,2023,86.8
+Denmark,2024,74.9
+Denmark,2025,97.2
+Euro area - 19 countries  (2015-2022),2015,123.8
+Euro area - 19 countries  (2015-2022),2016,118.1
+Euro area - 19 countries  (2015-2022),2017,114.1
+Euro area - 19 countries  (2015-2022),2018,120.7
+Euro area - 19 countries  (2015-2022),2019,124.4
+Euro area - 19 countries  (2015-2022),2020,90.5
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,123.0
+Euro area - 19 countries  (2015-2022),2023,132.0
+Euro area – 20 countries (2023-2025),2015,122.4
+Euro area – 20 countries (2023-2025),2016,118.4
+Euro area – 20 countries (2023-2025),2017,114.0
+Euro area – 20 countries (2023-2025),2018,120.1
+Euro area – 20 countries (2023-2025),2019,123.6
+Euro area – 20 countries (2023-2025),2020,90.1
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,129.7
+Euro area – 20 countries (2023-2025),2023,152.3
+Euro area – 20 countries (2023-2025),2024,206.8
+Euro area – 20 countries (2023-2025),2025,241.6
+Euro area – 21 countries (from 2026),2015,124.0
+Euro area – 21 countries (from 2026),2016,119.5
+Euro area – 21 countries (from 2026),2017,115.7
+Euro area – 21 countries (from 2026),2018,121.0
+Euro area – 21 countries (from 2026),2019,124.7
+Euro area – 21 countries (from 2026),2020,90.4
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,129.5
+Euro area – 21 countries (from 2026),2023,151.0
+Euro area – 21 countries (from 2026),2024,204.7
+Euro area – 21 countries (from 2026),2025,238.4
+Estonia,2015,200.0
+Estonia,2016,183.3
+Estonia,2017,166.7
+Estonia,2018,166.7
+Estonia,2019,183.3
+Estonia,2020,183.3
+Estonia,2021,100.0
+Estonia,2022,50.0
+Estonia,2023,100.0
+Estonia,2024,150.0
+Estonia,2025,183.3
+Greece,2021,
+Greece,2022,
+Greece,2023,
+Greece,2024,
+Greece,2025,
+Spain,2015,35.7
+Spain,2016,30.0
+Spain,2017,35.7
+Spain,2018,43.7
+Spain,2019,48.5
+Spain,2020,42.4
+Spain,2021,100.0
+Spain,2022,143.3
+Spain,2023,132.6
+Spain,2024,186.3
+Spain,2025,218.9
+European Union - 27 countries (from 2020),2015,133.5
+European Union - 27 countries (from 2020),2016,109.0
+European Union - 27 countries (from 2020),2017,110.9
+European Union - 27 countries (from 2020),2018,125.0
+European Union - 27 countries (from 2020),2019,133.1
+European Union - 27 countries (from 2020),2020,104.1
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,121.4
+European Union - 27 countries (from 2020),2023,138.3
+European Union - 27 countries (from 2020),2024,185.2
+European Union - 27 countries (from 2020),2025,214.9
+Finland,2020,72.0
+Finland,2021,100.0
+Finland,2022,102.6
+Finland,2023,118.7
+Finland,2024,121.2
+Finland,2025,150.8
+France,2015,148.8
+France,2016,148.3
+France,2017,155.6
+France,2018,174.0
+France,2019,178.2
+France,2020,104.0
+France,2021,100.0
+France,2022,148.1
+France,2023,194.4
+France,2024,254.5
+France,2025,271.8
+Croatia,2015,30.6
+Croatia,2016,139.2
+Croatia,2017,107.7
+Croatia,2018,82.1
+Croatia,2019,71.3
+Croatia,2020,62.7
+Croatia,2021,100.0
+Croatia,2022,143.8
+Croatia,2023,120.1
+Croatia,2024,113.9
+Croatia,2025,104.9
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,163.0
+Hungary,2023,361.1
+Hungary,2024,270.2
+Hungary,2025,269.2
+Iceland,2015,63.3
+Iceland,2016,73.3
+Iceland,2017,93.3
+Iceland,2018,106.7
+Iceland,2019,73.3
+Iceland,2020,93.3
+Iceland,2021,100.0
+Iceland,2022,33.3
+Iceland,2023,126.7
+Iceland,2024,63.3
+Iceland,2025,146.7
+Italy,2015,136.0
+Italy,2016,114.0
+Italy,2017,103.7
+Italy,2018,100.8
+Italy,2019,103.7
+Italy,2020,80.9
+Italy,2021,100.0
+Italy,2022,83.6
+Italy,2023,92.6
+Italy,2024,109.5
+Italy,2025,118.4
+Lithuania,2015,231.7
+Lithuania,2016,301.2
+Lithuania,2017,281.7
+Lithuania,2018,224.4
+Lithuania,2019,192.7
+Lithuania,2020,93.9
+Lithuania,2021,100.0
+Lithuania,2022,119.5
+Lithuania,2023,95.1
+Lithuania,2024,161.0
+Lithuania,2025,108.5
+Luxembourg,2015,103.2
+Luxembourg,2016,119.4
+Luxembourg,2017,106.5
+Luxembourg,2018,96.8
+Luxembourg,2019,90.3
+Luxembourg,2020,100.0
+Luxembourg,2021,100.0
+Luxembourg,2022,106.5
+Luxembourg,2023,103.2
+Luxembourg,2024,77.4
+Luxembourg,2025,93.5
+Latvia,2015,471.4
+Latvia,2016,392.9
+Latvia,2017,357.1
+Latvia,2018,314.3
+Latvia,2019,300.0
+Latvia,2020,214.3
+Latvia,2021,100.0
+Latvia,2022,192.9
+Latvia,2023,57.1
+Latvia,2024,142.9
+Latvia,2025,100.0
+Montenegro,2021,100.0
+Montenegro,2022,65.0
+Montenegro,2023,70.0
+Montenegro,2024,80.0
+Montenegro,2025,
+North Macedonia,2020,143.8
+North Macedonia,2021,100.0
+North Macedonia,2022,118.8
+North Macedonia,2023,93.8
+North Macedonia,2024,100.0
+North Macedonia,2025,150.0
+Netherlands,2015,187.7
+Netherlands,2016,183.8
+Netherlands,2017,150.8
+Netherlands,2018,163.8
+Netherlands,2019,163.8
+Netherlands,2020,164.6
+Netherlands,2021,100.0
+Netherlands,2022,104.6
+Netherlands,2023,182.3
+Netherlands,2024,231.5
+Netherlands,2025,172.3
+Norway,2015,100.6
+Norway,2016,92.1
+Norway,2017,112.2
+Norway,2018,114.6
+Norway,2019,114.0
+Norway,2020,108.5
+Norway,2021,100.0
+Norway,2022,89.6
+Norway,2023,103.7
+Norway,2024,109.1
+Norway,2025,117.7
+Poland,2015,190.5
+Poland,2016,85.7
+Poland,2017,119.0
+Poland,2018,181.0
+Poland,2019,204.8
+Poland,2020,185.7
+Poland,2021,100.0
+Poland,2022,109.5
+Poland,2023,66.7
+Poland,2024,138.1
+Poland,2025,166.7
+Portugal,2015,218.0
+Portugal,2016,185.4
+Portugal,2017,124.7
+Portugal,2018,111.2
+Portugal,2019,116.9
+Portugal,2020,111.2
+Portugal,2021,100.0
+Portugal,2022,105.6
+Portugal,2023,116.9
+Portugal,2024,118.0
+Portugal,2025,166.3
+Romania,2015,104.0
+Romania,2016,43.0
+Romania,2017,48.9
+Romania,2018,60.5
+Romania,2019,87.0
+Romania,2020,93.9
+Romania,2021,100.0
+Romania,2022,53.8
+Romania,2023,55.0
+Romania,2024,62.2
+Romania,2025,82.6
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,96.2
+Sweden,2023,112.9
+Sweden,2024,139.7
+Sweden,2025,151.2
+Slovenia,2015,81.8
+Slovenia,2016,72.7
+Slovenia,2017,70.1
+Slovenia,2018,107.8
+Slovenia,2019,133.8
+Slovenia,2020,102.6
+Slovenia,2021,100.0
+Slovenia,2022,137.7
+Slovenia,2023,114.3
+Slovenia,2024,153.2
+Slovenia,2025,164.9
+Slovakia,2015,15.5
+Slovakia,2016,15.5
+Slovakia,2017,46.4
+Slovakia,2018,129.8
+Slovakia,2019,147.6
+Slovakia,2020,111.9
+Slovakia,2021,100.0
+Slovakia,2022,66.7
+Slovakia,2023,66.7
+Slovakia,2024,82.1
+Slovakia,2025,96.4
+Ukraine,2021,100.0
+Ukraine,2022,118.2
+Ukraine,2023,140.9
+Ukraine,2024,113.6
+Ukraine,2025,109.1
+Kosovo*,2021,100.0
+Kosovo*,2022,116.1
+Kosovo*,2023,107.0
+Kosovo*,2024,106.3
+Kosovo*,2025,67.1
+Austria,2020,-44.6
+Austria,2021,35.3
+Austria,2022,25.2
+Austria,2023,-1.1
+Austria,2024,14.7
+Austria,2025,12.7
+Belgium,2015,-8.4
+Belgium,2016,-8.0
+Belgium,2017,22.0
+Belgium,2018,-4.2
+Belgium,2019,10.5
+Belgium,2020,-26.0
+Belgium,2021,13.9
+Belgium,2022,35.8
+Belgium,2023,12.3
+Belgium,2024,11.7
+Belgium,2025,14.9
+Bulgaria,2015,-14.7
+Bulgaria,2016,-12.9
+Bulgaria,2017,11.9
+Bulgaria,2018,-14.2
+Bulgaria,2019,7.2
+Bulgaria,2020,-39.4
+Bulgaria,2021,-1.6
+Bulgaria,2022,22.6
+Bulgaria,2023,-22.3
+Bulgaria,2024,16.9
+Bulgaria,2025,-13.0
+Cyprus,2016,0.0
+Cyprus,2017,-66.7
+Cyprus,2018,200.0
+Cyprus,2019,-33.3
+Czechia,2022,12.4
+Czechia,2023,7.1
+Czechia,2024,40.9
+Czechia,2025,7.1
+Germany,2015,-16.9
+Germany,2016,-4.3
+Germany,2017,-4.5
+Germany,2018,-3.8
+Germany,2019,7.0
+Germany,2020,-19.0
+Germany,2021,-7.0
+Germany,2022,7.9
+Germany,2023,2.3
+Germany,2024,14.9
+Germany,2025,9.3
+Denmark,2015,-9.6
+Denmark,2016,41.7
+Denmark,2017,33.8
+Denmark,2018,21.2
+Denmark,2019,50.3
+Denmark,2020,-41.8
+Denmark,2021,55.0
+Denmark,2022,-5.3
+Denmark,2023,-8.3
+Denmark,2024,-13.7
+Denmark,2025,29.8
+Euro area - 19 countries  (2015-2022),2015,-7.7
+Euro area - 19 countries  (2015-2022),2016,-4.6
+Euro area - 19 countries  (2015-2022),2017,-3.4
+Euro area - 19 countries  (2015-2022),2018,5.8
+Euro area - 19 countries  (2015-2022),2019,3.1
+Euro area - 19 countries  (2015-2022),2020,-27.3
+Euro area - 19 countries  (2015-2022),2021,10.5
+Euro area - 19 countries  (2015-2022),2022,23.0
+Euro area - 19 countries  (2015-2022),2023,7.3
+Euro area – 20 countries (2023-2025),2015,-7.7
+Euro area – 20 countries (2023-2025),2016,-3.3
+Euro area – 20 countries (2023-2025),2017,-3.7
+Euro area – 20 countries (2023-2025),2018,5.4
+Euro area – 20 countries (2023-2025),2019,2.9
+Euro area – 20 countries (2023-2025),2020,-27.1
+Euro area – 20 countries (2023-2025),2021,11.0
+Euro area – 20 countries (2023-2025),2022,29.7
+Euro area – 20 countries (2023-2025),2023,17.4
+Euro area – 20 countries (2023-2025),2024,35.8
+Euro area – 20 countries (2023-2025),2025,16.8
+Euro area – 21 countries (from 2026),2015,-7.9
+Euro area – 21 countries (from 2026),2016,-3.6
+Euro area – 21 countries (from 2026),2017,-3.2
+Euro area – 21 countries (from 2026),2018,4.6
+Euro area – 21 countries (from 2026),2019,3.1
+Euro area – 21 countries (from 2026),2020,-27.5
+Euro area – 21 countries (from 2026),2021,10.6
+Euro area – 21 countries (from 2026),2022,29.5
+Euro area – 21 countries (from 2026),2023,16.6
+Euro area – 21 countries (from 2026),2024,35.6
+Euro area – 21 countries (from 2026),2025,16.5
+Estonia,2015,-7.7
+Estonia,2016,-8.3
+Estonia,2017,-9.1
+Estonia,2018,0.0
+Estonia,2019,10.0
+Estonia,2020,0.0
+Estonia,2021,-45.4
+Estonia,2022,-50.0
+Estonia,2023,100.0
+Estonia,2024,50.0
+Estonia,2025,22.2
+Greece,2022,
+Greece,2023,
+Greece,2024,
+Greece,2025,
+Spain,2015,-35.1
+Spain,2016,-16.0
+Spain,2017,19.0
+Spain,2018,22.4
+Spain,2019,11.0
+Spain,2020,-12.6
+Spain,2021,135.8
+Spain,2022,43.3
+Spain,2023,-7.5
+Spain,2024,40.5
+Spain,2025,17.5
+European Union - 27 countries (from 2020),2015,-14.9
+European Union - 27 countries (from 2020),2016,-18.4
+European Union - 27 countries (from 2020),2017,1.7
+European Union - 27 countries (from 2020),2018,12.7
+European Union - 27 countries (from 2020),2019,6.5
+European Union - 27 countries (from 2020),2020,-21.8
+European Union - 27 countries (from 2020),2021,-3.9
+European Union - 27 countries (from 2020),2022,21.4
+European Union - 27 countries (from 2020),2023,13.9
+European Union - 27 countries (from 2020),2024,33.9
+European Union - 27 countries (from 2020),2025,16.0
+Finland,2021,38.9
+Finland,2022,2.6
+Finland,2023,15.7
+Finland,2024,2.1
+Finland,2025,24.4
+France,2015,-3.0
+France,2016,-0.3
+France,2017,4.9
+France,2018,11.8
+France,2019,2.4
+France,2020,-41.6
+France,2021,-3.8
+France,2022,48.1
+France,2023,31.3
+France,2024,30.9
+France,2025,6.8
+Croatia,2016,354.9
+Croatia,2017,-22.6
+Croatia,2018,-23.8
+Croatia,2019,-13.2
+Croatia,2020,-12.1
+Croatia,2021,59.5
+Croatia,2022,43.8
+Croatia,2023,-16.5
+Croatia,2024,-5.2
+Croatia,2025,-7.9
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,63.0
+Hungary,2023,121.5
+Hungary,2024,-25.2
+Hungary,2025,-0.4
+Iceland,2015,-36.7
+Iceland,2016,15.8
+Iceland,2017,27.3
+Iceland,2018,14.4
+Iceland,2019,-31.3
+Iceland,2020,27.3
+Iceland,2021,7.2
+Iceland,2022,-66.7
+Iceland,2023,280.5
+Iceland,2024,-50.0
+Iceland,2025,131.8
+Italy,2015,1.0
+Italy,2016,-16.2
+Italy,2017,-9.0
+Italy,2018,-2.8
+Italy,2019,2.9
+Italy,2020,-22.0
+Italy,2021,23.6
+Italy,2022,-16.4
+Italy,2023,10.8
+Italy,2024,18.3
+Italy,2025,8.1
+Lithuania,2015,-3.1
+Lithuania,2016,30.0
+Lithuania,2017,-6.5
+Lithuania,2018,-20.3
+Lithuania,2019,-14.1
+Lithuania,2020,-51.3
+Lithuania,2021,6.5
+Lithuania,2022,19.5
+Lithuania,2023,-20.4
+Lithuania,2024,69.3
+Lithuania,2025,-32.6
+Luxembourg,2015,-3.1
+Luxembourg,2016,15.7
+Luxembourg,2017,-10.8
+Luxembourg,2018,-9.1
+Luxembourg,2019,-6.7
+Luxembourg,2020,10.7
+Luxembourg,2021,0.0
+Luxembourg,2022,6.5
+Luxembourg,2023,-3.1
+Luxembourg,2024,-25.0
+Luxembourg,2025,20.8
+Latvia,2016,-16.7
+Latvia,2017,-9.1
+Latvia,2018,-12.0
+Latvia,2019,-4.5
+Latvia,2020,-28.6
+Latvia,2021,-53.3
+Latvia,2022,92.9
+Latvia,2023,-70.4
+Latvia,2024,150.3
+Latvia,2025,-30.0
+Montenegro,2022,-35.0
+Montenegro,2023,7.7
+Montenegro,2024,14.3
+Montenegro,2025,
+North Macedonia,2021,-30.5
+North Macedonia,2022,18.8
+North Macedonia,2023,-21.0
+North Macedonia,2024,6.6
+North Macedonia,2025,50.0
+Netherlands,2015,-28.4
+Netherlands,2016,-2.1
+Netherlands,2017,-18.0
+Netherlands,2018,8.6
+Netherlands,2019,0.0
+Netherlands,2020,0.5
+Netherlands,2021,-39.2
+Netherlands,2022,4.6
+Netherlands,2023,74.3
+Netherlands,2024,27.0
+Netherlands,2025,-25.6
+Norway,2016,-8.4
+Norway,2017,21.8
+Norway,2018,2.1
+Norway,2019,-0.5
+Norway,2020,-4.8
+Norway,2021,-7.8
+Norway,2022,-10.4
+Norway,2023,15.7
+Norway,2024,5.2
+Norway,2025,7.9
+Poland,2015,-9.1
+Poland,2016,-55.0
+Poland,2017,38.9
+Poland,2018,52.1
+Poland,2019,13.1
+Poland,2020,-9.3
+Poland,2021,-46.1
+Poland,2022,9.5
+Poland,2023,-39.1
+Poland,2024,107.0
+Poland,2025,20.7
+Portugal,2015,142.5
+Portugal,2016,-15.0
+Portugal,2017,-32.7
+Portugal,2018,-10.8
+Portugal,2019,5.1
+Portugal,2020,-4.9
+Portugal,2021,-10.1
+Portugal,2022,5.6
+Portugal,2023,10.7
+Portugal,2024,0.9
+Portugal,2025,40.9
+Romania,2016,-58.7
+Romania,2017,13.7
+Romania,2018,23.7
+Romania,2019,43.8
+Romania,2020,7.9
+Romania,2021,6.5
+Romania,2022,-46.2
+Romania,2023,2.2
+Romania,2024,13.1
+Romania,2025,32.8
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,-3.8
+Sweden,2023,17.4
+Sweden,2024,23.7
+Sweden,2025,8.2
+Slovenia,2016,-11.1
+Slovenia,2017,-3.6
+Slovenia,2018,53.8
+Slovenia,2019,24.1
+Slovenia,2020,-23.3
+Slovenia,2021,-2.5
+Slovenia,2022,37.7
+Slovenia,2023,-17.0
+Slovenia,2024,34.0
+Slovenia,2025,7.6
+Slovakia,2016,0.0
+Slovakia,2017,199.4
+Slovakia,2018,179.7
+Slovakia,2019,13.7
+Slovakia,2020,-24.2
+Slovakia,2021,-10.6
+Slovakia,2022,-33.3
+Slovakia,2023,0.0
+Slovakia,2024,23.1
+Slovakia,2025,17.4
+Ukraine,2022,18.2
+Ukraine,2023,19.2
+Ukraine,2024,-19.4
+Ukraine,2025,-4.0
+Kosovo*,2022,16.1
+Kosovo*,2023,-7.8
+Kosovo*,2024,-0.7
+Kosovo*,2025,-36.9
+Belgium,2015,100.0
+Belgium,2016,105.9
+Belgium,2017,115.7
+Belgium,2018,108.1
+Belgium,2019,110.4
+Belgium,2020,74.3
+Belgium,2021,56.8
+Belgium,2022,87.7
+Belgium,2023,107.7
+Bulgaria,2015,100.0
+Bulgaria,2016,72.0
+Bulgaria,2017,87.3
+Bulgaria,2018,78.0
+Bulgaria,2019,61.3
+Bulgaria,2020,48.7
+Bulgaria,2021,45.3
+Bulgaria,2022,70.0
+Bulgaria,2023,52.0
+Cyprus,2015,100.0
+Cyprus,2016,88.9
+Cyprus,2017,100.0
+Cyprus,2018,33.3
+Cyprus,2019,0.0
+Cyprus,2020,55.6
+Cyprus,2021,11.1
+Cyprus,2022,22.2
+Cyprus,2023,22.2
+Germany,2015,100.0
+Germany,2016,97.9
+Germany,2017,87.3
+Germany,2018,95.1
+Germany,2019,90.2
+Germany,2020,74.3
+Germany,2021,57.7
+Germany,2022,51.7
+Germany,2023,68.3
+Denmark,2015,100.0
+Denmark,2016,129.5
+Denmark,2017,133.3
+Denmark,2018,168.6
+Denmark,2019,178.7
+Denmark,2020,149.5
+Denmark,2021,178.1
+Denmark,2022,181.6
+Denmark,2023,178.1
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,93.4
+Euro area - 19 countries  (2015-2022),2017,89.2
+Euro area - 19 countries  (2015-2022),2018,95.7
+Euro area - 19 countries  (2015-2022),2019,98.2
+Euro area - 19 countries  (2015-2022),2020,90.8
+Euro area - 19 countries  (2015-2022),2021,127.5
+Euro area - 19 countries  (2015-2022),2022,139.7
+Euro area - 19 countries  (2015-2022),2023,155.4
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,101.5
+Euro area – 20 countries (2023-2025),2017,96.1
+Euro area – 20 countries (2023-2025),2018,101.3
+Euro area – 20 countries (2023-2025),2019,103.0
+Euro area – 20 countries (2023-2025),2020,94.6
+Euro area – 20 countries (2023-2025),2021,132.4
+Euro area – 20 countries (2023-2025),2022,143.4
+Euro area – 20 countries (2023-2025),2023,157.8
+Estonia,2015,100.0
+Estonia,2016,71.4
+Estonia,2017,100.0
+Estonia,2018,100.0
+Estonia,2019,157.1
+Estonia,2020,171.4
+Estonia,2021,200.0
+Estonia,2022,71.4
+Estonia,2023,100.0
+Spain,2015,100.0
+Spain,2016,89.1
+Spain,2017,77.5
+Spain,2018,87.4
+Spain,2019,108.2
+Spain,2020,149.5
+Spain,2021,353.2
+Spain,2022,397.6
+Spain,2023,404.4
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,98.5
+European Union - 27 countries (from 2020),2017,93.2
+European Union - 27 countries (from 2020),2018,98.5
+European Union - 27 countries (from 2020),2019,99.6
+European Union - 27 countries (from 2020),2020,94.7
+European Union - 27 countries (from 2020),2021,127.4
+European Union - 27 countries (from 2020),2022,134.2
+European Union - 27 countries (from 2020),2023,150.3
+France,2015,100.0
+France,2016,91.9
+France,2017,86.7
+France,2018,86.7
+France,2019,81.2
+France,2020,50.1
+France,2021,30.9
+France,2022,63.7
+France,2023,92.7
+Croatia,2015,100.0
+Croatia,2016,694.2
+Croatia,2017,600.8
+Croatia,2018,511.6
+Croatia,2019,452.3
+Croatia,2020,369.3
+Croatia,2021,489.6
+Croatia,2022,417.4
+Croatia,2023,331.5
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,31.8
+Hungary,2022,50.9
+Hungary,2023,132.3
+Iceland,2015,100.0
+Iceland,2016,148.8
+Iceland,2017,119.5
+Iceland,2018,158.5
+Iceland,2019,173.2
+Iceland,2020,239.0
+Iceland,2021,178.0
+Iceland,2022,87.8
+Iceland,2023,234.1
+Italy,2015,100.0
+Italy,2016,95.8
+Italy,2017,89.7
+Italy,2018,90.4
+Italy,2019,99.9
+Italy,2020,69.8
+Italy,2021,89.9
+Italy,2022,80.0
+Italy,2023,86.5
+Lithuania,2015,100.0
+Lithuania,2016,129.9
+Lithuania,2017,138.2
+Lithuania,2018,98.6
+Lithuania,2019,68.8
+Lithuania,2020,45.1
+Lithuania,2021,40.3
+Lithuania,2022,87.5
+Lithuania,2023,66.7
+Luxembourg,2015,100.0
+Luxembourg,2016,91.8
+Luxembourg,2017,89.3
+Luxembourg,2018,95.1
+Luxembourg,2019,107.4
+Luxembourg,2020,69.7
+Luxembourg,2021,55.7
+Luxembourg,2022,92.6
+Luxembourg,2023,84.4
+Latvia,2015,100.0
+Latvia,2016,96.0
+Latvia,2017,84.0
+Latvia,2018,70.0
+Latvia,2019,106.0
+Latvia,2020,74.0
+Latvia,2021,58.0
+Latvia,2022,78.0
+Latvia,2023,64.0
+Netherlands,2015,100.0
+Netherlands,2016,93.5
+Netherlands,2017,85.0
+Netherlands,2018,87.6
+Netherlands,2019,83.0
+Netherlands,2020,93.5
+Netherlands,2021,36.3
+Netherlands,2022,43.8
+Netherlands,2023,87.3
+Norway,2015,100.0
+Norway,2016,124.2
+Norway,2017,112.7
+Norway,2018,135.2
+Norway,2019,137.3
+Norway,2020,142.1
+Norway,2021,78.8
+Norway,2022,107.3
+Norway,2023,146.1
+Poland,2015,100.0
+Poland,2016,78.3
+Poland,2017,65.2
+Poland,2018,69.6
+Poland,2019,65.2
+Poland,2020,130.4
+Poland,2021,104.3
+Poland,2022,47.8
+Poland,2023,95.7
+Portugal,2015,100.0
+Portugal,2016,77.5
+Portugal,2017,67.6
+Portugal,2018,57.9
+Portugal,2019,46.9
+Portugal,2020,75.9
+Portugal,2021,73.2
+Portugal,2022,53.6
+Portugal,2023,52.8
+Romania,2015,100.0
+Romania,2016,50.3
+Romania,2017,49.9
+Romania,2018,73.1
+Romania,2019,87.4
+Romania,2020,87.6
+Romania,2021,98.4
+Romania,2022,51.1
+Romania,2023,43.3
+Slovenia,2015,100.0
+Slovenia,2016,131.3
+Slovenia,2017,143.8
+Slovenia,2018,161.5
+Slovenia,2019,133.3
+Slovenia,2020,135.4
+Slovenia,2021,132.3
+Slovenia,2022,94.8
+Slovenia,2023,112.5
+Slovakia,2015,100.0
+Slovakia,2016,100.0
+Slovakia,2017,345.5
+Slovakia,2018,663.6
+Slovakia,2019,572.7
+Slovakia,2020,481.8
+Slovakia,2021,336.4
+Slovakia,2022,245.5
+Slovakia,2023,354.5
+Austria,2019,191.8
+Austria,2020,105.1
+Austria,2021,100.0
+Austria,2022,158.6
+Austria,2023,176.5
+Austria,2024,211.9
+Austria,2025,217.4
+Belgium,2015,176.0
+Belgium,2016,186.3
+Belgium,2017,203.7
+Belgium,2018,190.4
+Belgium,2019,194.3
+Belgium,2020,130.9
+Belgium,2021,100.0
+Belgium,2022,154.4
+Belgium,2023,189.5
+Belgium,2024,186.2
+Belgium,2025,190.6
+Bulgaria,2015,220.6
+Bulgaria,2016,158.8
+Bulgaria,2017,192.6
+Bulgaria,2018,172.1
+Bulgaria,2019,135.3
+Bulgaria,2020,107.4
+Bulgaria,2021,100.0
+Bulgaria,2022,154.4
+Bulgaria,2023,114.7
+Bulgaria,2024,61.8
+Bulgaria,2025,48.5
+Cyprus,2015,900.0
+Cyprus,2016,800.0
+Cyprus,2017,900.0
+Cyprus,2018,300.0
+Cyprus,2019,0.0
+Cyprus,2020,500.0
+Cyprus,2021,100.0
+Cyprus,2022,200.0
+Cyprus,2023,200.0
+Cyprus,2024,100.0
+Cyprus,2025,200.0
+Czechia,2021,100.0
+Czechia,2022,85.7
+Czechia,2023,77.5
+Czechia,2024,74.3
+Czechia,2025,83.3
+Germany,2015,173.3
+Germany,2016,169.6
+Germany,2017,151.3
+Germany,2018,164.8
+Germany,2019,156.3
+Germany,2020,128.7
+Germany,2021,100.0
+Germany,2022,89.6
+Germany,2023,119.1
+Germany,2024,146.0
+Germany,2025,186.1
+Denmark,2015,56.3
+Denmark,2016,72.9
+Denmark,2017,75.0
+Denmark,2018,94.8
+Denmark,2019,100.5
+Denmark,2020,83.6
+Denmark,2021,100.0
+Denmark,2022,102.1
+Denmark,2023,99.5
+Denmark,2024,90.9
+Denmark,2025,84.8
+Euro area - 19 countries  (2015-2022),2015,165.1
+Euro area - 19 countries  (2015-2022),2016,154.6
+Euro area - 19 countries  (2015-2022),2017,146.0
+Euro area - 19 countries  (2015-2022),2018,145.9
+Euro area - 19 countries  (2015-2022),2019,140.7
+Euro area - 19 countries  (2015-2022),2020,112.2
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,122.2
+Euro area - 19 countries  (2015-2022),2023,149.5
+Euro area – 20 countries (2023-2025),2015,162.9
+Euro area – 20 countries (2023-2025),2016,154.5
+Euro area – 20 countries (2023-2025),2017,145.7
+Euro area – 20 countries (2023-2025),2018,145.3
+Euro area – 20 countries (2023-2025),2019,140.1
+Euro area – 20 countries (2023-2025),2020,111.7
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,132.4
+Euro area – 20 countries (2023-2025),2023,177.3
+Euro area – 20 countries (2023-2025),2024,212.3
+Euro area – 20 countries (2023-2025),2025,307.1
+Euro area – 21 countries (from 2026),2015,163.9
+Euro area – 21 countries (from 2026),2016,154.5
+Euro area – 21 countries (from 2026),2017,146.5
+Euro area – 21 countries (from 2026),2018,145.7
+Euro area – 21 countries (from 2026),2019,140.0
+Euro area – 21 countries (from 2026),2020,111.6
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,132.7
+Euro area – 21 countries (from 2026),2023,176.4
+Euro area – 21 countries (from 2026),2024,210.0
+Euro area – 21 countries (from 2026),2025,303.3
+Estonia,2015,50.0
+Estonia,2016,35.7
+Estonia,2017,50.0
+Estonia,2018,50.0
+Estonia,2019,78.6
+Estonia,2020,85.7
+Estonia,2021,100.0
+Estonia,2022,35.7
+Estonia,2023,50.0
+Estonia,2024,64.3
+Estonia,2025,71.4
+Greece,2021,
+Greece,2022,
+Greece,2023,
+Greece,2024,733.3
+Greece,2025,1983.3
+Spain,2015,28.3
+Spain,2016,25.2
+Spain,2017,21.9
+Spain,2018,24.7
+Spain,2019,30.6
+Spain,2020,42.3
+Spain,2021,100.0
+Spain,2022,112.6
+Spain,2023,98.6
+Spain,2024,128.2
+Spain,2025,141.5
+European Union - 27 countries (from 2020),2015,161.4
+European Union - 27 countries (from 2020),2016,148.9
+European Union - 27 countries (from 2020),2017,140.1
+European Union - 27 countries (from 2020),2018,140.0
+European Union - 27 countries (from 2020),2019,134.1
+European Union - 27 countries (from 2020),2020,110.6
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,125.6
+European Union - 27 countries (from 2020),2023,169.6
+European Union - 27 countries (from 2020),2024,195.5
+European Union - 27 countries (from 2020),2025,275.3
+Finland,2020,97.3
+Finland,2021,100.0
+Finland,2022,116.1
+Finland,2023,154.3
+Finland,2024,158.3
+Finland,2025,182.1
+France,2015,323.4
+France,2016,297.4
+France,2017,280.5
+France,2018,280.3
+France,2019,262.5
+France,2020,161.9
+France,2021,100.0
+France,2022,205.6
+France,2023,299.4
+France,2024,328.8
+France,2025,358.6
+Croatia,2015,20.4
+Croatia,2016,141.8
+Croatia,2017,122.7
+Croatia,2018,104.5
+Croatia,2019,92.4
+Croatia,2020,75.4
+Croatia,2021,100.0
+Croatia,2022,85.3
+Croatia,2023,67.7
+Croatia,2024,76.8
+Croatia,2025,54.6
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,159.8
+Hungary,2023,415.5
+Hungary,2024,304.9
+Hungary,2025,265.5
+Iceland,2015,56.2
+Iceland,2016,83.6
+Iceland,2017,67.1
+Iceland,2018,89.0
+Iceland,2019,97.3
+Iceland,2020,134.2
+Iceland,2021,100.0
+Iceland,2022,49.3
+Iceland,2023,131.5
+Iceland,2024,109.6
+Iceland,2025,105.5
+Italy,2015,111.2
+Italy,2016,106.6
+Italy,2017,99.8
+Italy,2018,100.6
+Italy,2019,111.1
+Italy,2020,77.7
+Italy,2021,100.0
+Italy,2022,89.0
+Italy,2023,96.2
+Italy,2024,115.3
+Italy,2025,111.2
+Lithuania,2015,248.3
+Lithuania,2016,322.4
+Lithuania,2017,343.1
+Lithuania,2018,244.8
+Lithuania,2019,170.7
+Lithuania,2020,112.1
+Lithuania,2021,100.0
+Lithuania,2022,217.2
+Lithuania,2023,165.5
+Lithuania,2024,113.8
+Lithuania,2025,163.8
+Luxembourg,2015,179.4
+Luxembourg,2016,164.7
+Luxembourg,2017,160.3
+Luxembourg,2018,170.6
+Luxembourg,2019,192.6
+Luxembourg,2020,125.0
+Luxembourg,2021,100.0
+Luxembourg,2022,166.2
+Luxembourg,2023,151.5
+Luxembourg,2024,164.7
+Luxembourg,2025,176.5
+Latvia,2015,172.4
+Latvia,2016,165.5
+Latvia,2017,144.8
+Latvia,2018,120.7
+Latvia,2019,182.8
+Latvia,2020,127.6
+Latvia,2021,100.0
+Latvia,2022,134.5
+Latvia,2023,110.3
+Latvia,2024,93.1
+Latvia,2025,103.4
+Montenegro,2021,100.0
+Montenegro,2022,139.5
+Montenegro,2023,61.6
+Montenegro,2024,84.9
+Montenegro,2025,
+North Macedonia,2020,112.0
+North Macedonia,2021,100.0
+North Macedonia,2022,56.0
+North Macedonia,2023,88.0
+North Macedonia,2024,108.0
+North Macedonia,2025,76.0
+Netherlands,2015,275.7
+Netherlands,2016,257.7
+Netherlands,2017,234.2
+Netherlands,2018,241.4
+Netherlands,2019,228.8
+Netherlands,2020,257.7
+Netherlands,2021,100.0
+Netherlands,2022,120.7
+Netherlands,2023,240.5
+Netherlands,2024,339.6
+Netherlands,2025,312.6
+Norway,2015,126.9
+Norway,2016,157.7
+Norway,2017,143.1
+Norway,2018,171.5
+Norway,2019,174.2
+Norway,2020,180.4
+Norway,2021,100.0
+Norway,2022,136.2
+Norway,2023,185.4
+Norway,2024,158.8
+Norway,2025,155.4
+Poland,2015,100.0
+Poland,2016,75.0
+Poland,2017,62.5
+Poland,2018,66.7
+Poland,2019,62.5
+Poland,2020,125.0
+Poland,2021,100.0
+Poland,2022,45.8
+Poland,2023,91.7
+Poland,2024,45.8
+Poland,2025,37.5
+Portugal,2015,136.6
+Portugal,2016,105.9
+Portugal,2017,92.3
+Portugal,2018,79.1
+Portugal,2019,64.1
+Portugal,2020,103.7
+Portugal,2021,100.0
+Portugal,2022,73.3
+Portugal,2023,72.2
+Portugal,2024,74.4
+Portugal,2025,73.3
+Romania,2015,101.7
+Romania,2016,51.1
+Romania,2017,50.8
+Romania,2018,74.3
+Romania,2019,88.8
+Romania,2020,89.1
+Romania,2021,100.0
+Romania,2022,51.9
+Romania,2023,44.0
+Romania,2024,53.6
+Romania,2025,56.6
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,102.8
+Sweden,2023,118.2
+Sweden,2024,160.1
+Sweden,2025,166.4
+Slovenia,2015,75.6
+Slovenia,2016,99.2
+Slovenia,2017,108.7
+Slovenia,2018,122.0
+Slovenia,2019,100.8
+Slovenia,2020,102.4
+Slovenia,2021,100.0
+Slovenia,2022,71.7
+Slovenia,2023,85.0
+Slovenia,2024,81.1
+Slovenia,2025,93.7
+Slovakia,2015,29.7
+Slovakia,2016,29.7
+Slovakia,2017,102.7
+Slovakia,2018,197.3
+Slovakia,2019,170.3
+Slovakia,2020,143.2
+Slovakia,2021,100.0
+Slovakia,2022,73.0
+Slovakia,2023,105.4
+Slovakia,2024,83.8
+Slovakia,2025,86.5
+Ukraine,2021,100.0
+Ukraine,2022,37.5
+Ukraine,2023,100.0
+Ukraine,2024,50.0
+Ukraine,2025,100.0
+Kosovo*,2021,100.0
+Kosovo*,2022,80.0
+Kosovo*,2023,85.5
+Kosovo*,2024,123.6
+Kosovo*,2025,87.3
+Austria,2020,-45.2
+Austria,2021,-4.9
+Austria,2022,58.6
+Austria,2023,11.3
+Austria,2024,20.1
+Austria,2025,2.6
+Belgium,2015,-8.4
+Belgium,2016,5.9
+Belgium,2017,9.3
+Belgium,2018,-6.5
+Belgium,2019,2.0
+Belgium,2020,-32.6
+Belgium,2021,-23.6
+Belgium,2022,54.4
+Belgium,2023,22.7
+Belgium,2024,-1.7
+Belgium,2025,2.4
+Bulgaria,2015,10.3
+Bulgaria,2016,-28.0
+Bulgaria,2017,21.3
+Bulgaria,2018,-10.6
+Bulgaria,2019,-21.4
+Bulgaria,2020,-20.6
+Bulgaria,2021,-6.9
+Bulgaria,2022,54.4
+Bulgaria,2023,-25.7
+Bulgaria,2024,-46.1
+Bulgaria,2025,-21.5
+Cyprus,2016,-11.1
+Cyprus,2017,12.5
+Cyprus,2018,-66.7
+Cyprus,2021,-80.0
+Cyprus,2022,100.0
+Cyprus,2023,0.0
+Cyprus,2024,-50.0
+Cyprus,2025,100.0
+Czechia,2022,-14.3
+Czechia,2023,-9.6
+Czechia,2024,-4.1
+Czechia,2025,12.1
+Germany,2015,1.7
+Germany,2016,-2.1
+Germany,2017,-10.8
+Germany,2018,8.9
+Germany,2019,-5.2
+Germany,2020,-17.7
+Germany,2021,-22.3
+Germany,2022,-10.4
+Germany,2023,32.9
+Germany,2024,22.6
+Germany,2025,27.5
+Denmark,2015,11.7
+Denmark,2016,29.5
+Denmark,2017,2.9
+Denmark,2018,26.4
+Denmark,2019,6.0
+Denmark,2020,-16.8
+Denmark,2021,19.6
+Denmark,2022,2.1
+Denmark,2023,-2.5
+Denmark,2024,-8.6
+Denmark,2025,-6.7
+Euro area - 19 countries  (2015-2022),2015,5.8
+Euro area - 19 countries  (2015-2022),2016,-6.4
+Euro area - 19 countries  (2015-2022),2017,-5.6
+Euro area - 19 countries  (2015-2022),2018,-0.1
+Euro area - 19 countries  (2015-2022),2019,-3.6
+Euro area - 19 countries  (2015-2022),2020,-20.3
+Euro area - 19 countries  (2015-2022),2021,-10.9
+Euro area - 19 countries  (2015-2022),2022,22.2
+Euro area - 19 countries  (2015-2022),2023,22.3
+Euro area – 20 countries (2023-2025),2015,5.8
+Euro area – 20 countries (2023-2025),2016,-5.2
+Euro area – 20 countries (2023-2025),2017,-5.7
+Euro area – 20 countries (2023-2025),2018,-0.3
+Euro area – 20 countries (2023-2025),2019,-3.6
+Euro area – 20 countries (2023-2025),2020,-20.3
+Euro area – 20 countries (2023-2025),2021,-10.5
+Euro area – 20 countries (2023-2025),2022,32.4
+Euro area – 20 countries (2023-2025),2023,33.9
+Euro area – 20 countries (2023-2025),2024,19.7
+Euro area – 20 countries (2023-2025),2025,44.7
+Euro area – 21 countries (from 2026),2015,5.9
+Euro area – 21 countries (from 2026),2016,-5.7
+Euro area – 21 countries (from 2026),2017,-5.2
+Euro area – 21 countries (from 2026),2018,-0.5
+Euro area – 21 countries (from 2026),2019,-3.9
+Euro area – 21 countries (from 2026),2020,-20.3
+Euro area – 21 countries (from 2026),2021,-10.4
+Euro area – 21 countries (from 2026),2022,32.7
+Euro area – 21 countries (from 2026),2023,32.9
+Euro area – 21 countries (from 2026),2024,19.0
+Euro area – 21 countries (from 2026),2025,44.4
+Estonia,2015,0.0
+Estonia,2016,-28.6
+Estonia,2017,40.1
+Estonia,2018,0.0
+Estonia,2019,57.2
+Estonia,2020,9.0
+Estonia,2021,16.7
+Estonia,2022,-64.3
+Estonia,2023,40.1
+Estonia,2024,28.6
+Estonia,2025,11.0
+Greece,2022,
+Greece,2023,
+Greece,2024,
+Greece,2025,170.5
+Spain,2015,-20.7
+Spain,2016,-11.0
+Spain,2017,-13.1
+Spain,2018,12.8
+Spain,2019,23.9
+Spain,2020,38.2
+Spain,2021,136.4
+Spain,2022,12.6
+Spain,2023,-12.4
+Spain,2024,30.0
+Spain,2025,10.4
+European Union - 27 countries (from 2020),2015,-0.5
+European Union - 27 countries (from 2020),2016,-7.7
+European Union - 27 countries (from 2020),2017,-5.9
+European Union - 27 countries (from 2020),2018,-0.1
+European Union - 27 countries (from 2020),2019,-4.2
+European Union - 27 countries (from 2020),2020,-17.5
+European Union - 27 countries (from 2020),2021,-9.6
+European Union - 27 countries (from 2020),2022,25.6
+European Union - 27 countries (from 2020),2023,35.0
+European Union - 27 countries (from 2020),2024,15.3
+European Union - 27 countries (from 2020),2025,40.8
+Finland,2021,2.8
+Finland,2022,16.1
+Finland,2023,32.9
+Finland,2024,2.6
+Finland,2025,15.0
+France,2015,8.0
+France,2016,-8.0
+France,2017,-5.7
+France,2018,-0.1
+France,2019,-6.4
+France,2020,-38.3
+France,2021,-38.2
+France,2022,105.6
+France,2023,45.6
+France,2024,9.8
+France,2025,9.1
+Croatia,2016,595.1
+Croatia,2017,-13.5
+Croatia,2018,-14.8
+Croatia,2019,-11.6
+Croatia,2020,-18.4
+Croatia,2021,32.6
+Croatia,2022,-14.7
+Croatia,2023,-20.6
+Croatia,2024,13.4
+Croatia,2025,-28.9
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,59.8
+Hungary,2023,160.0
+Hungary,2024,-26.6
+Hungary,2025,-12.9
+Iceland,2015,-40.5
+Iceland,2016,48.8
+Iceland,2017,-19.7
+Iceland,2018,32.6
+Iceland,2019,9.3
+Iceland,2020,37.9
+Iceland,2021,-25.5
+Iceland,2022,-50.7
+Iceland,2023,166.7
+Iceland,2024,-16.7
+Iceland,2025,-3.7
+Italy,2015,8.7
+Italy,2016,-4.1
+Italy,2017,-6.4
+Italy,2018,0.8
+Italy,2019,10.4
+Italy,2020,-30.1
+Italy,2021,28.7
+Italy,2022,-11.0
+Italy,2023,8.1
+Italy,2024,19.9
+Italy,2025,-3.6
+Lithuania,2015,15.2
+Lithuania,2016,29.8
+Lithuania,2017,6.4
+Lithuania,2018,-28.7
+Lithuania,2019,-30.3
+Lithuania,2020,-34.3
+Lithuania,2021,-10.8
+Lithuania,2022,117.2
+Lithuania,2023,-23.8
+Lithuania,2024,-31.2
+Lithuania,2025,43.9
+Luxembourg,2015,0.8
+Luxembourg,2016,-8.2
+Luxembourg,2017,-2.7
+Luxembourg,2018,6.4
+Luxembourg,2019,12.9
+Luxembourg,2020,-35.1
+Luxembourg,2021,-20.0
+Luxembourg,2022,66.2
+Luxembourg,2023,-8.8
+Luxembourg,2024,8.7
+Luxembourg,2025,7.2
+Latvia,2016,-4.0
+Latvia,2017,-12.5
+Latvia,2018,-16.6
+Latvia,2019,51.4
+Latvia,2020,-30.2
+Latvia,2021,-21.6
+Latvia,2022,34.5
+Latvia,2023,-18.0
+Latvia,2024,-15.6
+Latvia,2025,11.1
+Montenegro,2022,39.5
+Montenegro,2023,-55.8
+Montenegro,2024,37.8
+Montenegro,2025,
+North Macedonia,2021,-10.7
+North Macedonia,2022,-44.0
+North Macedonia,2023,57.1
+North Macedonia,2024,22.7
+North Macedonia,2025,-29.6
+Netherlands,2015,-19.7
+Netherlands,2016,-6.5
+Netherlands,2017,-9.1
+Netherlands,2018,3.1
+Netherlands,2019,-5.2
+Netherlands,2020,12.6
+Netherlands,2021,-61.2
+Netherlands,2022,20.7
+Netherlands,2023,99.3
+Netherlands,2024,41.2
+Netherlands,2025,-8.0
+Norway,2016,24.3
+Norway,2017,-9.3
+Norway,2018,19.8
+Norway,2019,1.6
+Norway,2020,3.6
+Norway,2021,-44.6
+Norway,2022,36.2
+Norway,2023,36.1
+Norway,2024,-14.3
+Norway,2025,-2.1
+Poland,2015,-31.4
+Poland,2016,-25.0
+Poland,2017,-16.7
+Poland,2018,6.7
+Poland,2019,-6.3
+Poland,2020,100.0
+Poland,2021,-20.0
+Poland,2022,-54.2
+Poland,2023,100.2
+Poland,2024,-50.1
+Poland,2025,-18.1
+Portugal,2015,157.3
+Portugal,2016,-22.5
+Portugal,2017,-12.8
+Portugal,2018,-14.3
+Portugal,2019,-19.0
+Portugal,2020,61.8
+Portugal,2021,-3.6
+Portugal,2022,-26.7
+Portugal,2023,-1.5
+Portugal,2024,3.0
+Portugal,2025,-1.5
+Romania,2016,-49.8
+Romania,2017,-0.6
+Romania,2018,46.3
+Romania,2019,19.5
+Romania,2020,0.3
+Romania,2021,12.2
+Romania,2022,-48.1
+Romania,2023,-15.2
+Romania,2024,21.8
+Romania,2025,5.6
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,2.8
+Sweden,2023,15.0
+Sweden,2024,35.4
+Sweden,2025,3.9
+Slovenia,2016,31.2
+Slovenia,2017,9.6
+Slovenia,2018,12.2
+Slovenia,2019,-17.4
+Slovenia,2020,1.6
+Slovenia,2021,-2.3
+Slovenia,2022,-28.3
+Slovenia,2023,18.5
+Slovenia,2024,-4.6
+Slovenia,2025,15.5
+Slovakia,2016,0.0
+Slovakia,2017,245.8
+Slovakia,2018,92.1
+Slovakia,2019,-13.7
+Slovakia,2020,-15.9
+Slovakia,2021,-30.2
+Slovakia,2022,-27.0
+Slovakia,2023,44.4
+Slovakia,2024,-20.5
+Slovakia,2025,3.2
+Ukraine,2022,-62.5
+Ukraine,2023,166.7
+Ukraine,2024,-50.0
+Ukraine,2025,100.0
+Kosovo*,2022,-20.0
+Kosovo*,2023,6.9
+Kosovo*,2024,44.6
+Kosovo*,2025,-29.4
+Belgium,2015,100.0
+Belgium,2016,96.0
+Belgium,2017,100.9
+Belgium,2018,106.7
+Belgium,2019,101.8
+Belgium,2020,79.2
+Belgium,2021,63.3
+Belgium,2022,92.0
+Belgium,2023,86.5
+Bulgaria,2015,100.0
+Bulgaria,2016,70.8
+Bulgaria,2017,63.7
+Bulgaria,2018,56.6
+Bulgaria,2019,63.7
+Bulgaria,2020,45.1
+Bulgaria,2021,48.7
+Bulgaria,2022,58.4
+Bulgaria,2023,50.4
+Cyprus,2015,100.0
+Cyprus,2016,100.0
+Cyprus,2017,0.0
+Cyprus,2018,200.0
+Cyprus,2019,0.0
+Cyprus,2020,0.0
+Cyprus,2021,100.0
+Cyprus,2022,100.0
+Cyprus,2023,100.0
+Germany,2015,100.0
+Germany,2016,94.9
+Germany,2017,94.1
+Germany,2018,99.7
+Germany,2019,91.6
+Germany,2020,73.8
+Germany,2021,67.6
+Germany,2022,72.5
+Germany,2023,104.1
+Denmark,2015,100.0
+Denmark,2016,201.7
+Denmark,2017,250.9
+Denmark,2018,261.8
+Denmark,2019,331.8
+Denmark,2020,160.7
+Denmark,2021,303.5
+Denmark,2022,274.0
+Denmark,2023,217.9
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,88.8
+Euro area - 19 countries  (2015-2022),2017,90.8
+Euro area - 19 countries  (2015-2022),2018,91.4
+Euro area - 19 countries  (2015-2022),2019,93.3
+Euro area - 19 countries  (2015-2022),2020,70.8
+Euro area - 19 countries  (2015-2022),2021,67.4
+Euro area - 19 countries  (2015-2022),2022,77.1
+Euro area - 19 countries  (2015-2022),2023,93.8
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,93.6
+Euro area – 20 countries (2023-2025),2017,94.4
+Euro area – 20 countries (2023-2025),2018,93.1
+Euro area – 20 countries (2023-2025),2019,94.4
+Euro area – 20 countries (2023-2025),2020,71.6
+Euro area – 20 countries (2023-2025),2021,68.6
+Euro area – 20 countries (2023-2025),2022,78.5
+Euro area – 20 countries (2023-2025),2023,94.6
+Estonia,2015,100.0
+Estonia,2016,400.0
+Estonia,2017,0.0
+Estonia,2018,400.0
+Estonia,2019,500.0
+Estonia,2020,600.0
+Estonia,2021,300.0
+Estonia,2022,200.0
+Estonia,2023,400.0
+Spain,2015,100.0
+Spain,2016,75.6
+Spain,2017,94.9
+Spain,2018,85.2
+Spain,2019,94.9
+Spain,2020,91.5
+Spain,2021,130.1
+Spain,2022,169.9
+Spain,2023,130.1
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,89.0
+European Union - 27 countries (from 2020),2017,93.5
+European Union - 27 countries (from 2020),2018,93.1
+European Union - 27 countries (from 2020),2019,93.4
+European Union - 27 countries (from 2020),2020,69.7
+European Union - 27 countries (from 2020),2021,69.3
+European Union - 27 countries (from 2020),2022,80.3
+European Union - 27 countries (from 2020),2023,101.8
+France,2015,100.0
+France,2016,98.6
+France,2017,96.7
+France,2018,90.2
+France,2019,89.3
+France,2020,63.1
+France,2021,58.8
+France,2022,82.4
+France,2023,119.9
+Croatia,2015,100.0
+Croatia,2016,575.0
+Croatia,2017,470.8
+Croatia,2018,269.4
+Croatia,2019,211.1
+Croatia,2020,155.6
+Croatia,2021,188.9
+Croatia,2022,220.8
+Croatia,2023,172.2
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,33.5
+Hungary,2022,74.0
+Hungary,2023,272.8
+Iceland,2015,100.0
+Iceland,2016,210.7
+Iceland,2017,167.9
+Iceland,2018,210.7
+Iceland,2019,157.1
+Iceland,2020,153.6
+Iceland,2021,203.6
+Iceland,2022,100.0
+Iceland,2023,378.6
+Italy,2015,100.0
+Italy,2016,75.6
+Italy,2017,80.5
+Italy,2018,70.4
+Italy,2019,67.4
+Italy,2020,44.7
+Italy,2021,53.7
+Italy,2022,40.3
+Italy,2023,47.4
+Lithuania,2015,100.0
+Lithuania,2016,122.4
+Lithuania,2017,136.7
+Lithuania,2018,104.1
+Lithuania,2019,81.6
+Lithuania,2020,36.7
+Lithuania,2021,24.5
+Lithuania,2022,51.0
+Lithuania,2023,42.9
+Luxembourg,2015,100.0
+Luxembourg,2016,79.2
+Luxembourg,2017,67.9
+Luxembourg,2018,79.2
+Luxembourg,2019,105.7
+Luxembourg,2020,75.5
+Luxembourg,2021,100.0
+Luxembourg,2022,71.7
+Luxembourg,2023,56.6
+Latvia,2015,100.0
+Latvia,2016,141.2
+Latvia,2017,141.2
+Latvia,2018,105.9
+Latvia,2019,105.9
+Latvia,2020,105.9
+Latvia,2021,64.7
+Latvia,2022,47.1
+Latvia,2023,58.8
+Netherlands,2015,100.0
+Netherlands,2016,68.0
+Netherlands,2017,71.0
+Netherlands,2018,68.4
+Netherlands,2019,62.3
+Netherlands,2020,37.7
+Netherlands,2021,32.9
+Netherlands,2022,32.9
+Netherlands,2023,53.2
+Norway,2015,100.0
+Norway,2016,97.1
+Norway,2017,103.9
+Norway,2018,131.4
+Norway,2019,122.5
+Norway,2020,115.7
+Norway,2021,105.9
+Norway,2022,116.7
+Norway,2023,149.0
+Poland,2015,100.0
+Poland,2016,57.1
+Poland,2017,90.5
+Poland,2018,95.2
+Poland,2019,81.0
+Poland,2020,57.1
+Poland,2021,42.9
+Poland,2022,81.0
+Poland,2023,95.2
+Portugal,2015,100.0
+Portugal,2016,74.7
+Portugal,2017,57.3
+Portugal,2018,72.0
+Portugal,2019,45.3
+Portugal,2020,64.0
+Portugal,2021,42.7
+Portugal,2022,30.7
+Portugal,2023,38.7
+Romania,2015,100.0
+Romania,2016,49.7
+Romania,2017,49.7
+Romania,2018,53.3
+Romania,2019,58.6
+Romania,2020,65.8
+Romania,2021,93.5
+Romania,2022,38.1
+Romania,2023,39.9
+Slovenia,2015,100.0
+Slovenia,2016,103.4
+Slovenia,2017,89.7
+Slovenia,2018,134.5
+Slovenia,2019,179.3
+Slovenia,2020,113.8
+Slovenia,2021,93.1
+Slovenia,2022,106.9
+Slovenia,2023,69.0
+Slovakia,2015,100.0
+Slovakia,2016,55.6
+Slovakia,2017,155.6
+Slovakia,2018,155.6
+Slovakia,2019,288.9
+Slovakia,2020,166.7
+Slovakia,2021,111.1
+Slovakia,2022,111.1
+Slovakia,2023,111.1
+Austria,2019,224.7
+Austria,2020,130.9
+Austria,2021,100.0
+Austria,2022,208.6
+Austria,2023,242.0
+Austria,2024,306.2
+Austria,2025,258.0
+Belgium,2015,158.0
+Belgium,2016,151.7
+Belgium,2017,159.4
+Belgium,2018,168.6
+Belgium,2019,160.9
+Belgium,2020,125.1
+Belgium,2021,100.0
+Belgium,2022,145.4
+Belgium,2023,136.7
+Belgium,2024,162.8
+Belgium,2025,186.0
+Bulgaria,2015,205.5
+Bulgaria,2016,145.5
+Bulgaria,2017,120.0
+Bulgaria,2018,116.4
+Bulgaria,2019,130.9
+Bulgaria,2020,92.7
+Bulgaria,2021,100.0
+Bulgaria,2022,120.0
+Bulgaria,2023,103.6
+Bulgaria,2024,78.2
+Bulgaria,2025,85.5
+Cyprus,2015,100.0
+Cyprus,2016,100.0
+Cyprus,2017,0.0
+Cyprus,2018,200.0
+Cyprus,2019,0.0
+Cyprus,2020,0.0
+Cyprus,2021,100.0
+Cyprus,2022,100.0
+Cyprus,2023,100.0
+Cyprus,2024,200.0
+Cyprus,2025,200.0
+Czechia,2021,100.0
+Czechia,2022,108.3
+Czechia,2023,116.7
+Czechia,2024,158.3
+Czechia,2025,186.1
+Germany,2015,147.8
+Germany,2016,140.2
+Germany,2017,139.1
+Germany,2018,147.4
+Germany,2019,135.4
+Germany,2020,109.1
+Germany,2021,100.0
+Germany,2022,107.2
+Germany,2023,157.0
+Germany,2024,187.0
+Germany,2025,201.1
+Denmark,2015,33.0
+Denmark,2016,66.5
+Denmark,2017,82.7
+Denmark,2018,86.3
+Denmark,2019,109.3
+Denmark,2020,52.8
+Denmark,2021,100.0
+Denmark,2022,89.9
+Denmark,2023,71.8
+Denmark,2024,63.6
+Denmark,2025,58.1
+Euro area - 19 countries  (2015-2022),2015,179.6
+Euro area - 19 countries  (2015-2022),2016,154.8
+Euro area - 19 countries  (2015-2022),2017,158.3
+Euro area - 19 countries  (2015-2022),2018,154.7
+Euro area - 19 countries  (2015-2022),2019,151.3
+Euro area - 19 countries  (2015-2022),2020,107.6
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,116.8
+Euro area - 19 countries  (2015-2022),2023,146.9
+Euro area – 20 countries (2023-2025),2015,177.5
+Euro area – 20 countries (2023-2025),2016,157.4
+Euro area – 20 countries (2023-2025),2017,159.9
+Euro area – 20 countries (2023-2025),2018,154.6
+Euro area – 20 countries (2023-2025),2019,150.6
+Euro area – 20 countries (2023-2025),2020,107.2
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,123.9
+Euro area – 20 countries (2023-2025),2023,162.6
+Euro area – 20 countries (2023-2025),2024,199.1
+Euro area – 20 countries (2023-2025),2025,206.9
+Euro area – 21 countries (from 2026),2015,178.1
+Euro area – 21 countries (from 2026),2016,157.2
+Euro area – 21 countries (from 2026),2017,159.2
+Euro area – 21 countries (from 2026),2018,153.8
+Euro area – 21 countries (from 2026),2019,150.3
+Euro area – 21 countries (from 2026),2020,107.0
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,123.8
+Euro area – 21 countries (from 2026),2023,161.5
+Euro area – 21 countries (from 2026),2024,196.9
+Euro area – 21 countries (from 2026),2025,204.7
+Estonia,2015,33.3
+Estonia,2016,133.3
+Estonia,2017,0.0
+Estonia,2018,133.3
+Estonia,2019,166.7
+Estonia,2020,200.0
+Estonia,2021,100.0
+Estonia,2022,66.7
+Estonia,2023,133.3
+Estonia,2024,166.7
+Estonia,2025,200.0
+Greece,2021,
+Greece,2022,
+Greece,2023,
+Greece,2024,
+Greece,2025,
+Spain,2015,76.9
+Spain,2016,58.1
+Spain,2017,72.9
+Spain,2018,65.5
+Spain,2019,72.9
+Spain,2020,70.3
+Spain,2021,100.0
+Spain,2022,130.6
+Spain,2023,96.1
+Spain,2024,167.2
+Spain,2025,145.9
+European Union - 27 countries (from 2020),2015,186.1
+European Union - 27 countries (from 2020),2016,151.0
+European Union - 27 countries (from 2020),2017,161.3
+European Union - 27 countries (from 2020),2018,159.3
+European Union - 27 countries (from 2020),2019,149.4
+European Union - 27 countries (from 2020),2020,108.1
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,131.3
+European Union - 27 countries (from 2020),2023,189.7
+European Union - 27 countries (from 2020),2024,201.5
+European Union - 27 countries (from 2020),2025,204.4
+Finland,2020,81.7
+Finland,2021,100.0
+Finland,2022,110.0
+Finland,2023,119.2
+Finland,2024,120.0
+Finland,2025,125.0
+France,2015,170.0
+France,2016,167.7
+France,2017,164.4
+France,2018,153.4
+France,2019,151.8
+France,2020,107.3
+France,2021,100.0
+France,2022,140.0
+France,2023,204.3
+France,2024,237.6
+France,2025,247.7
+Croatia,2015,52.9
+Croatia,2016,304.4
+Croatia,2017,249.3
+Croatia,2018,142.6
+Croatia,2019,111.8
+Croatia,2020,82.4
+Croatia,2021,100.0
+Croatia,2022,116.9
+Croatia,2023,91.2
+Croatia,2024,111.8
+Croatia,2025,66.9
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,220.5
+Hungary,2023,813.4
+Hungary,2024,608.9
+Hungary,2025,555.4
+Iceland,2015,48.3
+Iceland,2016,101.7
+Iceland,2017,81.0
+Iceland,2018,103.4
+Iceland,2019,77.6
+Iceland,2020,74.1
+Iceland,2021,100.0
+Iceland,2022,48.3
+Iceland,2023,184.5
+Iceland,2024,75.9
+Iceland,2025,100.0
+Italy,2015,186.2
+Italy,2016,140.8
+Italy,2017,150.0
+Italy,2018,131.1
+Italy,2019,125.5
+Italy,2020,83.2
+Italy,2021,100.0
+Italy,2022,75.0
+Italy,2023,88.3
+Italy,2024,105.1
+Italy,2025,120.4
+Lithuania,2015,408.3
+Lithuania,2016,500.0
+Lithuania,2017,558.3
+Lithuania,2018,425.0
+Lithuania,2019,333.3
+Lithuania,2020,150.0
+Lithuania,2021,100.0
+Lithuania,2022,208.3
+Lithuania,2023,175.0
+Lithuania,2024,241.7
+Lithuania,2025,183.3
+Luxembourg,2015,100.0
+Luxembourg,2016,79.2
+Luxembourg,2017,67.9
+Luxembourg,2018,79.2
+Luxembourg,2019,105.7
+Luxembourg,2020,77.4
+Luxembourg,2021,100.0
+Luxembourg,2022,71.7
+Luxembourg,2023,56.6
+Luxembourg,2024,83.0
+Luxembourg,2025,73.6
+Latvia,2015,154.5
+Latvia,2016,218.2
+Latvia,2017,218.2
+Latvia,2018,163.6
+Latvia,2019,163.6
+Latvia,2020,163.6
+Latvia,2021,100.0
+Latvia,2022,72.7
+Latvia,2023,90.9
+Latvia,2024,109.1
+Latvia,2025,45.5
+Montenegro,2021,100.0
+Montenegro,2022,192.3
+Montenegro,2023,46.2
+Montenegro,2024,61.5
+Montenegro,2025,
+North Macedonia,2020,150.0
+North Macedonia,2021,100.0
+North Macedonia,2022,100.0
+North Macedonia,2023,100.0
+North Macedonia,2024,125.0
+North Macedonia,2025,75.0
+Malta,2015,0.0
+Malta,2016,200.0
+Malta,2017,0.0
+Malta,2018,0.0
+Malta,2019,200.0
+Malta,2020,0.0
+Malta,2021,100.0
+Malta,2022,300.0
+Malta,2023,0.0
+Malta,2024,100.0
+Malta,2025,0.0
+Netherlands,2015,303.9
+Netherlands,2016,206.6
+Netherlands,2017,215.8
+Netherlands,2018,207.9
+Netherlands,2019,189.5
+Netherlands,2020,114.5
+Netherlands,2021,100.0
+Netherlands,2022,100.0
+Netherlands,2023,161.8
+Netherlands,2024,219.7
+Netherlands,2025,231.6
+Norway,2015,94.4
+Norway,2016,91.7
+Norway,2017,98.1
+Norway,2018,124.1
+Norway,2019,115.7
+Norway,2020,109.3
+Norway,2021,100.0
+Norway,2022,110.2
+Norway,2023,140.7
+Norway,2024,172.2
+Norway,2025,170.4
+Poland,2015,233.3
+Poland,2016,133.3
+Poland,2017,211.1
+Poland,2018,222.2
+Poland,2019,188.9
+Poland,2020,133.3
+Poland,2021,100.0
+Poland,2022,188.9
+Poland,2023,222.2
+Poland,2024,166.7
+Poland,2025,155.6
+Portugal,2015,234.4
+Portugal,2016,175.0
+Portugal,2017,134.4
+Portugal,2018,168.8
+Portugal,2019,106.3
+Portugal,2020,150.0
+Portugal,2021,100.0
+Portugal,2022,71.9
+Portugal,2023,90.6
+Portugal,2024,159.4
+Portugal,2025,134.4
+Romania,2015,107.0
+Romania,2016,53.2
+Romania,2017,53.2
+Romania,2018,57.0
+Romania,2019,62.7
+Romania,2020,70.4
+Romania,2021,100.0
+Romania,2022,40.8
+Romania,2023,42.7
+Romania,2024,46.2
+Romania,2025,38.5
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,108.8
+Sweden,2023,140.8
+Sweden,2024,188.4
+Sweden,2025,199.6
+Slovenia,2015,107.4
+Slovenia,2016,111.1
+Slovenia,2017,96.3
+Slovenia,2018,144.4
+Slovenia,2019,192.6
+Slovenia,2020,122.2
+Slovenia,2021,100.0
+Slovenia,2022,114.8
+Slovenia,2023,74.1
+Slovenia,2024,118.5
+Slovenia,2025,81.5
+Slovakia,2015,90.0
+Slovakia,2016,50.0
+Slovakia,2017,140.0
+Slovakia,2018,140.0
+Slovakia,2019,260.0
+Slovakia,2020,150.0
+Slovakia,2021,100.0
+Slovakia,2022,100.0
+Slovakia,2023,100.0
+Slovakia,2024,160.0
+Slovakia,2025,180.0
+Ukraine,2021,100.0
+Ukraine,2022,33.3
+Ukraine,2023,222.2
+Ukraine,2024,188.9
+Ukraine,2025,133.3
+Kosovo*,2021,100.0
+Kosovo*,2022,58.3
+Kosovo*,2023,58.3
+Kosovo*,2024,58.3
+Kosovo*,2025,25.0
+Austria,2020,-41.7
+Austria,2021,-23.6
+Austria,2022,108.6
+Austria,2023,16.0
+Austria,2024,26.5
+Austria,2025,-15.7
+Belgium,2015,-17.4
+Belgium,2016,-4.0
+Belgium,2017,5.1
+Belgium,2018,5.8
+Belgium,2019,-4.6
+Belgium,2020,-22.2
+Belgium,2021,-20.1
+Belgium,2022,45.4
+Belgium,2023,-6.0
+Belgium,2024,19.1
+Belgium,2025,14.3
+Bulgaria,2015,19.0
+Bulgaria,2016,-29.2
+Bulgaria,2017,-17.5
+Bulgaria,2018,-3.0
+Bulgaria,2019,12.5
+Bulgaria,2020,-29.2
+Bulgaria,2021,7.9
+Bulgaria,2022,20.0
+Bulgaria,2023,-13.7
+Bulgaria,2024,-24.5
+Bulgaria,2025,9.3
+Cyprus,2016,0.0
+Cyprus,2022,0.0
+Cyprus,2023,0.0
+Cyprus,2024,100.0
+Cyprus,2025,0.0
+Czechia,2022,8.3
+Czechia,2023,7.8
+Czechia,2024,35.6
+Czechia,2025,17.6
+Germany,2015,-11.1
+Germany,2016,-5.1
+Germany,2017,-0.8
+Germany,2018,6.0
+Germany,2019,-8.1
+Germany,2020,-19.4
+Germany,2021,-8.3
+Germany,2022,7.2
+Germany,2023,46.5
+Germany,2024,19.1
+Germany,2025,7.5
+Denmark,2015,-6.3
+Denmark,2016,101.5
+Denmark,2017,24.4
+Denmark,2018,4.4
+Denmark,2019,26.7
+Denmark,2020,-51.7
+Denmark,2021,89.4
+Denmark,2022,-10.1
+Denmark,2023,-20.1
+Denmark,2024,-11.4
+Denmark,2025,-8.6
+Euro area - 19 countries  (2015-2022),2015,-2.8
+Euro area - 19 countries  (2015-2022),2016,-13.8
+Euro area - 19 countries  (2015-2022),2017,2.3
+Euro area - 19 countries  (2015-2022),2018,-2.3
+Euro area - 19 countries  (2015-2022),2019,-2.2
+Euro area - 19 countries  (2015-2022),2020,-28.9
+Euro area - 19 countries  (2015-2022),2021,-7.1
+Euro area - 19 countries  (2015-2022),2022,16.8
+Euro area - 19 countries  (2015-2022),2023,25.8
+Euro area – 20 countries (2023-2025),2015,-2.8
+Euro area – 20 countries (2023-2025),2016,-11.3
+Euro area – 20 countries (2023-2025),2017,1.6
+Euro area – 20 countries (2023-2025),2018,-3.3
+Euro area – 20 countries (2023-2025),2019,-2.6
+Euro area – 20 countries (2023-2025),2020,-28.8
+Euro area – 20 countries (2023-2025),2021,-6.7
+Euro area – 20 countries (2023-2025),2022,23.9
+Euro area – 20 countries (2023-2025),2023,31.2
+Euro area – 20 countries (2023-2025),2024,22.4
+Euro area – 20 countries (2023-2025),2025,3.9
+Euro area – 21 countries (from 2026),2015,-2.4
+Euro area – 21 countries (from 2026),2016,-11.7
+Euro area – 21 countries (from 2026),2017,1.3
+Euro area – 21 countries (from 2026),2018,-3.4
+Euro area – 21 countries (from 2026),2019,-2.3
+Euro area – 21 countries (from 2026),2020,-28.8
+Euro area – 21 countries (from 2026),2021,-6.5
+Euro area – 21 countries (from 2026),2022,23.8
+Euro area – 21 countries (from 2026),2023,30.5
+Euro area – 21 countries (from 2026),2024,21.9
+Euro area – 21 countries (from 2026),2025,4.0
+Estonia,2015,-75.0
+Estonia,2016,300.3
+Estonia,2019,25.1
+Estonia,2020,20.0
+Estonia,2021,-50.0
+Estonia,2022,-33.3
+Estonia,2023,99.9
+Estonia,2024,25.1
+Estonia,2025,20.0
+Greece,2022,
+Greece,2023,
+Greece,2024,
+Greece,2025,
+Spain,2015,-16.1
+Spain,2016,-24.4
+Spain,2017,25.5
+Spain,2018,-10.2
+Spain,2019,11.3
+Spain,2020,-3.6
+Spain,2021,42.2
+Spain,2022,30.6
+Spain,2023,-26.4
+Spain,2024,74.0
+Spain,2025,-12.7
+European Union - 27 countries (from 2020),2015,-7.7
+European Union - 27 countries (from 2020),2016,-18.9
+European Union - 27 countries (from 2020),2017,6.8
+European Union - 27 countries (from 2020),2018,-1.2
+European Union - 27 countries (from 2020),2019,-6.2
+European Union - 27 countries (from 2020),2020,-27.6
+European Union - 27 countries (from 2020),2021,-7.5
+European Union - 27 countries (from 2020),2022,31.3
+European Union - 27 countries (from 2020),2023,44.5
+European Union - 27 countries (from 2020),2024,6.2
+European Union - 27 countries (from 2020),2025,1.4
+Finland,2021,22.4
+Finland,2022,10.0
+Finland,2023,8.4
+Finland,2024,0.7
+Finland,2025,4.2
+France,2015,-4.4
+France,2016,-1.4
+France,2017,-2.0
+France,2018,-6.7
+France,2019,-1.0
+France,2020,-29.3
+France,2021,-6.8
+France,2022,40.0
+France,2023,45.9
+France,2024,16.3
+France,2025,4.3
+Croatia,2016,475.4
+Croatia,2017,-18.1
+Croatia,2018,-42.8
+Croatia,2019,-21.6
+Croatia,2020,-26.3
+Croatia,2021,21.4
+Croatia,2022,16.9
+Croatia,2023,-22.0
+Croatia,2024,22.6
+Croatia,2025,-40.2
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,120.5
+Hungary,2023,268.9
+Hungary,2024,-25.1
+Hungary,2025,-8.8
+Iceland,2015,-19.9
+Iceland,2016,110.6
+Iceland,2017,-20.4
+Iceland,2018,27.7
+Iceland,2019,-25.0
+Iceland,2020,-4.5
+Iceland,2021,35.0
+Iceland,2022,-51.7
+Iceland,2023,282.0
+Iceland,2024,-58.9
+Iceland,2025,31.8
+Italy,2015,0.8
+Italy,2016,-24.4
+Italy,2017,6.5
+Italy,2018,-12.6
+Italy,2019,-4.3
+Italy,2020,-33.7
+Italy,2021,20.2
+Italy,2022,-25.0
+Italy,2023,17.7
+Italy,2024,19.0
+Italy,2025,14.6
+Lithuania,2015,44.1
+Lithuania,2016,22.5
+Lithuania,2017,11.7
+Lithuania,2018,-23.9
+Lithuania,2019,-21.6
+Lithuania,2020,-55.0
+Lithuania,2021,-33.3
+Lithuania,2022,108.3
+Lithuania,2023,-16.0
+Lithuania,2024,38.1
+Lithuania,2025,-24.2
+Luxembourg,2015,60.5
+Luxembourg,2016,-20.8
+Luxembourg,2017,-14.3
+Luxembourg,2018,16.6
+Luxembourg,2019,33.5
+Luxembourg,2020,-26.8
+Luxembourg,2021,29.2
+Luxembourg,2022,-28.3
+Luxembourg,2023,-21.1
+Luxembourg,2024,46.6
+Luxembourg,2025,-11.3
+Latvia,2016,41.2
+Latvia,2017,0.0
+Latvia,2018,-25.0
+Latvia,2019,0.0
+Latvia,2020,0.0
+Latvia,2021,-38.9
+Latvia,2022,-27.3
+Latvia,2023,25.0
+Latvia,2024,20.0
+Latvia,2025,-58.3
+Montenegro,2022,92.3
+Montenegro,2023,-76.0
+Montenegro,2024,33.1
+Montenegro,2025,
+North Macedonia,2021,-33.3
+North Macedonia,2022,0.0
+North Macedonia,2023,0.0
+North Macedonia,2024,25.0
+North Macedonia,2025,-40.0
+Malta,2022,200.0
+Netherlands,2015,-4.9
+Netherlands,2016,-32.0
+Netherlands,2017,4.5
+Netherlands,2018,-3.7
+Netherlands,2019,-8.9
+Netherlands,2020,-39.6
+Netherlands,2021,-12.7
+Netherlands,2022,0.0
+Netherlands,2023,61.8
+Netherlands,2024,35.8
+Netherlands,2025,5.4
+Norway,2016,-2.9
+Norway,2017,7.0
+Norway,2018,26.5
+Norway,2019,-6.8
+Norway,2020,-5.5
+Norway,2021,-8.5
+Norway,2022,10.2
+Norway,2023,27.7
+Norway,2024,22.4
+Norway,2025,-1.0
+Poland,2015,5.0
+Poland,2016,-42.9
+Poland,2017,58.4
+Poland,2018,5.3
+Poland,2019,-15.0
+Poland,2020,-29.4
+Poland,2021,-25.0
+Poland,2022,88.9
+Poland,2023,17.6
+Poland,2024,-25.0
+Poland,2025,-6.7
+Portugal,2015,188.3
+Portugal,2016,-25.3
+Portugal,2017,-23.2
+Portugal,2018,25.6
+Portugal,2019,-37.0
+Portugal,2020,41.1
+Portugal,2021,-33.3
+Portugal,2022,-28.1
+Portugal,2023,26.0
+Portugal,2024,75.9
+Portugal,2025,-15.7
+Romania,2016,-50.3
+Romania,2017,0.0
+Romania,2018,7.1
+Romania,2019,10.0
+Romania,2020,12.3
+Romania,2021,42.0
+Romania,2022,-59.2
+Romania,2023,4.7
+Romania,2024,8.2
+Romania,2025,-16.7
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,8.8
+Sweden,2023,29.4
+Sweden,2024,33.8
+Sweden,2025,5.9
+Slovenia,2016,3.4
+Slovenia,2017,-13.3
+Slovenia,2018,49.9
+Slovenia,2019,33.4
+Slovenia,2020,-36.6
+Slovenia,2021,-18.2
+Slovenia,2022,14.8
+Slovenia,2023,-35.5
+Slovenia,2024,59.9
+Slovenia,2025,-31.2
+Slovakia,2016,-44.4
+Slovakia,2017,180.0
+Slovakia,2018,0.0
+Slovakia,2019,85.7
+Slovakia,2020,-42.3
+Slovakia,2021,-33.3
+Slovakia,2022,0.0
+Slovakia,2023,0.0
+Slovakia,2024,60.0
+Slovakia,2025,12.5
+Ukraine,2022,-66.7
+Ukraine,2023,567.3
+Ukraine,2024,-15.0
+Ukraine,2025,-29.4
+Kosovo*,2022,-41.7
+Kosovo*,2023,0.0
+Kosovo*,2024,0.0
+Kosovo*,2025,-57.1
+Belgium,2015,100.0
+Belgium,2016,87.7
+Belgium,2017,97.3
+Belgium,2018,96.1
+Belgium,2019,103.9
+Belgium,2020,73.2
+Belgium,2021,67.4
+Belgium,2022,85.5
+Belgium,2023,93.0
+Bulgaria,2015,100.0
+Bulgaria,2016,62.8
+Bulgaria,2017,64.0
+Bulgaria,2018,55.2
+Bulgaria,2019,57.2
+Bulgaria,2020,40.4
+Bulgaria,2021,44.9
+Bulgaria,2022,51.9
+Bulgaria,2023,43.8
+Cyprus,2015,100.0
+Cyprus,2016,85.7
+Cyprus,2017,78.6
+Cyprus,2018,85.7
+Cyprus,2019,78.6
+Cyprus,2020,71.4
+Cyprus,2021,57.1
+Cyprus,2022,78.6
+Cyprus,2023,7.1
+Germany,2015,100.0
+Germany,2016,92.7
+Germany,2017,85.5
+Germany,2018,78.0
+Germany,2019,76.2
+Germany,2020,68.8
+Germany,2021,59.4
+Germany,2022,62.1
+Germany,2023,75.2
+Denmark,2015,100.0
+Denmark,2016,184.0
+Denmark,2017,185.2
+Denmark,2018,224.3
+Denmark,2019,282.7
+Denmark,2020,179.1
+Denmark,2021,346.1
+Denmark,2022,293.1
+Denmark,2023,239.2
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,92.6
+Euro area - 19 countries  (2015-2022),2017,86.6
+Euro area - 19 countries  (2015-2022),2018,85.6
+Euro area - 19 countries  (2015-2022),2019,87.0
+Euro area - 19 countries  (2015-2022),2020,68.9
+Euro area - 19 countries  (2015-2022),2021,84.7
+Euro area - 19 countries  (2015-2022),2022,93.8
+Euro area - 19 countries  (2015-2022),2023,99.9
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,95.5
+Euro area – 20 countries (2023-2025),2017,88.6
+Euro area – 20 countries (2023-2025),2018,86.9
+Euro area – 20 countries (2023-2025),2019,87.9
+Euro area – 20 countries (2023-2025),2020,69.6
+Euro area – 20 countries (2023-2025),2021,85.5
+Euro area – 20 countries (2023-2025),2022,94.8
+Euro area – 20 countries (2023-2025),2023,100.4
+Estonia,2015,100.0
+Estonia,2016,78.9
+Estonia,2017,57.9
+Estonia,2018,71.1
+Estonia,2019,78.9
+Estonia,2020,92.1
+Estonia,2021,52.6
+Estonia,2022,68.4
+Estonia,2023,65.8
+Spain,2015,100.0
+Spain,2016,94.6
+Spain,2017,90.5
+Spain,2018,84.3
+Spain,2019,94.1
+Spain,2020,88.3
+Spain,2021,195.4
+Spain,2022,256.5
+Spain,2023,228.6
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,93.2
+European Union - 27 countries (from 2020),2017,87.3
+European Union - 27 countries (from 2020),2018,87.1
+European Union - 27 countries (from 2020),2019,88.1
+European Union - 27 countries (from 2020),2020,70.1
+European Union - 27 countries (from 2020),2021,85.6
+European Union - 27 countries (from 2020),2022,91.7
+European Union - 27 countries (from 2020),2023,99.8
+France,2015,100.0
+France,2016,96.9
+France,2017,86.7
+France,2018,90.2
+France,2019,86.3
+France,2020,57.3
+France,2021,55.5
+France,2022,71.9
+France,2023,98.8
+Croatia,2015,100.0
+Croatia,2016,552.7
+Croatia,2017,402.8
+Croatia,2018,293.6
+Croatia,2019,233.3
+Croatia,2020,174.5
+Croatia,2021,214.8
+Croatia,2022,252.9
+Croatia,2023,172.5
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,39.1
+Hungary,2022,65.1
+Hungary,2023,181.0
+Iceland,2015,100.0
+Iceland,2016,190.7
+Iceland,2017,128.6
+Iceland,2018,183.5
+Iceland,2019,133.5
+Iceland,2020,101.1
+Iceland,2021,166.5
+Iceland,2022,60.4
+Iceland,2023,177.5
+Italy,2015,100.0
+Italy,2016,94.7
+Italy,2017,89.5
+Italy,2018,82.6
+Italy,2019,81.3
+Italy,2020,56.8
+Italy,2021,69.9
+Italy,2022,53.6
+Italy,2023,55.6
+Lithuania,2015,100.0
+Lithuania,2016,114.6
+Lithuania,2017,124.4
+Lithuania,2018,102.8
+Lithuania,2019,74.2
+Lithuania,2020,41.1
+Lithuania,2021,42.2
+Lithuania,2022,56.1
+Lithuania,2023,58.5
+Luxembourg,2015,100.0
+Luxembourg,2016,135.3
+Luxembourg,2017,121.3
+Luxembourg,2018,152.9
+Luxembourg,2019,166.2
+Luxembourg,2020,142.6
+Luxembourg,2021,178.7
+Luxembourg,2022,136.0
+Luxembourg,2023,143.4
+Latvia,2015,100.0
+Latvia,2016,81.9
+Latvia,2017,56.9
+Latvia,2018,74.3
+Latvia,2019,57.6
+Latvia,2020,38.2
+Latvia,2021,31.3
+Latvia,2022,27.8
+Latvia,2023,30.6
+Malta,2015,100.0
+Malta,2016,150.0
+Malta,2017,125.0
+Malta,2018,50.0
+Malta,2019,225.0
+Malta,2020,150.0
+Malta,2021,225.0
+Malta,2022,175.0
+Malta,2023,300.0
+Netherlands,2015,100.0
+Netherlands,2016,83.2
+Netherlands,2017,60.1
+Netherlands,2018,50.4
+Netherlands,2019,53.7
+Netherlands,2020,42.7
+Netherlands,2021,26.0
+Netherlands,2022,28.3
+Netherlands,2023,41.5
+Norway,2015,100.0
+Norway,2016,92.1
+Norway,2017,105.0
+Norway,2018,108.3
+Norway,2019,116.5
+Norway,2020,103.6
+Norway,2021,78.1
+Norway,2022,82.6
+Norway,2023,93.5
+Poland,2015,100.0
+Poland,2016,75.7
+Poland,2017,79.4
+Poland,2018,89.7
+Poland,2019,79.4
+Poland,2020,74.8
+Poland,2021,63.6
+Poland,2022,57.0
+Poland,2023,67.3
+Portugal,2015,100.0
+Portugal,2016,79.0
+Portugal,2017,67.6
+Portugal,2018,53.1
+Portugal,2019,46.9
+Portugal,2020,43.8
+Portugal,2021,39.2
+Portugal,2022,34.5
+Portugal,2023,40.3
+Romania,2015,100.0
+Romania,2016,46.1
+Romania,2017,49.8
+Romania,2018,65.2
+Romania,2019,79.2
+Romania,2020,72.7
+Romania,2021,100.4
+Romania,2022,38.3
+Romania,2023,31.8
+Slovenia,2015,100.0
+Slovenia,2016,99.6
+Slovenia,2017,95.8
+Slovenia,2018,97.0
+Slovenia,2019,115.6
+Slovenia,2020,88.2
+Slovenia,2021,75.1
+Slovenia,2022,68.8
+Slovenia,2023,60.8
+Slovakia,2015,100.0
+Slovakia,2016,85.3
+Slovakia,2017,157.4
+Slovakia,2018,335.3
+Slovakia,2019,372.1
+Slovakia,2020,307.4
+Slovakia,2021,291.2
+Slovakia,2022,216.2
+Slovakia,2023,250.0
+Austria,2019,151.5
+Austria,2020,100.9
+Austria,2021,100.0
+Austria,2022,163.1
+Austria,2023,194.7
+Austria,2024,254.0
+Austria,2025,299.4
+Belgium,2015,148.4
+Belgium,2016,130.2
+Belgium,2017,144.4
+Belgium,2018,142.5
+Belgium,2019,154.2
+Belgium,2020,108.6
+Belgium,2021,100.0
+Belgium,2022,126.9
+Belgium,2023,138.1
+Belgium,2024,145.7
+Belgium,2025,162.7
+Bulgaria,2015,222.7
+Bulgaria,2016,139.9
+Bulgaria,2017,151.1
+Bulgaria,2018,123.0
+Bulgaria,2019,127.3
+Bulgaria,2020,89.9
+Bulgaria,2021,100.0
+Bulgaria,2022,115.6
+Bulgaria,2023,97.5
+Bulgaria,2024,69.1
+Bulgaria,2025,39.9
+Cyprus,2015,175.0
+Cyprus,2016,150.0
+Cyprus,2017,137.5
+Cyprus,2018,150.0
+Cyprus,2019,137.5
+Cyprus,2020,125.0
+Cyprus,2021,100.0
+Cyprus,2022,137.5
+Cyprus,2023,12.5
+Cyprus,2024,87.5
+Cyprus,2025,112.5
+Czechia,2021,100.0
+Czechia,2022,113.3
+Czechia,2023,101.3
+Czechia,2024,121.1
+Czechia,2025,141.5
+Germany,2015,168.4
+Germany,2016,156.1
+Germany,2017,144.0
+Germany,2018,131.3
+Germany,2019,128.4
+Germany,2020,115.8
+Germany,2021,100.0
+Germany,2022,104.6
+Germany,2023,128.5
+Germany,2024,172.1
+Germany,2025,184.8
+Denmark,2015,28.9
+Denmark,2016,53.2
+Denmark,2017,53.5
+Denmark,2018,64.8
+Denmark,2019,81.7
+Denmark,2020,51.7
+Denmark,2021,100.0
+Denmark,2022,84.6
+Denmark,2023,68.9
+Denmark,2024,63.3
+Denmark,2025,72.1
+Euro area - 19 countries  (2015-2022),2015,173.5
+Euro area - 19 countries  (2015-2022),2016,157.1
+Euro area - 19 countries  (2015-2022),2017,139.2
+Euro area - 19 countries  (2015-2022),2018,131.3
+Euro area - 19 countries  (2015-2022),2019,130.2
+Euro area - 19 countries  (2015-2022),2020,99.9
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,109.1
+Euro area - 19 countries  (2015-2022),2023,125.3
+Euro area – 20 countries (2023-2025),2015,172.5
+Euro area – 20 countries (2023-2025),2016,158.0
+Euro area – 20 countries (2023-2025),2017,139.6
+Euro area – 20 countries (2023-2025),2018,131.3
+Euro area – 20 countries (2023-2025),2019,130.0
+Euro area – 20 countries (2023-2025),2020,99.8
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,117.6
+Euro area – 20 countries (2023-2025),2023,154.8
+Euro area – 20 countries (2023-2025),2024,187.4
+Euro area – 20 countries (2023-2025),2025,216.2
+Euro area – 21 countries (from 2026),2015,173.1
+Euro area – 21 countries (from 2026),2016,157.8
+Euro area – 21 countries (from 2026),2017,139.7
+Euro area – 21 countries (from 2026),2018,131.2
+Euro area – 21 countries (from 2026),2019,130.0
+Euro area – 21 countries (from 2026),2020,99.6
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,117.6
+Euro area – 21 countries (from 2026),2023,154.1
+Euro area – 21 countries (from 2026),2024,186.0
+Euro area – 21 countries (from 2026),2025,214.0
+Estonia,2015,190.0
+Estonia,2016,150.0
+Estonia,2017,110.0
+Estonia,2018,135.0
+Estonia,2019,150.0
+Estonia,2020,175.0
+Estonia,2021,100.0
+Estonia,2022,130.0
+Estonia,2023,125.0
+Estonia,2024,170.0
+Estonia,2025,175.0
+Greece,2021,
+Greece,2022,
+Greece,2023,1100.0
+Greece,2024,1200.0
+Greece,2025,2050.0
+Spain,2015,51.2
+Spain,2016,48.4
+Spain,2017,46.3
+Spain,2018,43.1
+Spain,2019,48.1
+Spain,2020,45.2
+Spain,2021,100.0
+Spain,2022,131.3
+Spain,2023,103.2
+Spain,2024,139.0
+Spain,2025,126.5
+European Union - 27 countries (from 2020),2015,170.9
+European Union - 27 countries (from 2020),2016,152.1
+European Union - 27 countries (from 2020),2017,136.3
+European Union - 27 countries (from 2020),2018,129.7
+European Union - 27 countries (from 2020),2019,127.4
+European Union - 27 countries (from 2020),2020,99.1
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,114.6
+European Union - 27 countries (from 2020),2023,154.8
+European Union - 27 countries (from 2020),2024,178.5
+European Union - 27 countries (from 2020),2025,199.9
+Finland,2020,89.6
+Finland,2021,100.0
+Finland,2022,111.8
+Finland,2023,137.8
+Finland,2024,152.3
+Finland,2025,172.2
+France,2015,180.2
+France,2016,174.5
+France,2017,156.1
+France,2018,162.5
+France,2019,155.6
+France,2020,103.2
+France,2021,100.0
+France,2022,129.4
+France,2023,178.9
+France,2024,222.6
+France,2025,232.5
+Croatia,2015,46.5
+Croatia,2016,257.2
+Croatia,2017,187.5
+Croatia,2018,136.6
+Croatia,2019,108.6
+Croatia,2020,81.2
+Croatia,2021,100.0
+Croatia,2022,117.7
+Croatia,2023,80.3
+Croatia,2024,92.4
+Croatia,2025,85.4
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,166.5
+Hungary,2023,463.0
+Hungary,2024,334.3
+Hungary,2025,319.8
+Iceland,2015,59.7
+Iceland,2016,113.9
+Iceland,2017,77.2
+Iceland,2018,109.2
+Iceland,2019,80.5
+Iceland,2020,60.4
+Iceland,2021,100.0
+Iceland,2022,36.6
+Iceland,2023,106.9
+Iceland,2024,72.3
+Iceland,2025,91.1
+Italy,2015,143.1
+Italy,2016,135.5
+Italy,2017,128.1
+Italy,2018,118.2
+Italy,2019,116.4
+Italy,2020,81.3
+Italy,2021,100.0
+Italy,2022,76.8
+Italy,2023,79.6
+Italy,2024,87.6
+Italy,2025,101.9
+Lithuania,2015,237.2
+Lithuania,2016,271.9
+Lithuania,2017,295.0
+Lithuania,2018,243.8
+Lithuania,2019,176.0
+Lithuania,2020,97.5
+Lithuania,2021,100.0
+Lithuania,2022,133.1
+Lithuania,2023,138.8
+Lithuania,2024,143.0
+Lithuania,2025,114.0
+Luxembourg,2015,56.2
+Luxembourg,2016,75.9
+Luxembourg,2017,67.5
+Luxembourg,2018,85.5
+Luxembourg,2019,93.6
+Luxembourg,2020,77.9
+Luxembourg,2021,100.0
+Luxembourg,2022,74.7
+Luxembourg,2023,76.7
+Luxembourg,2024,94.4
+Luxembourg,2025,101.6
+Latvia,2015,313.0
+Latvia,2016,256.5
+Latvia,2017,178.3
+Latvia,2018,234.8
+Latvia,2019,180.4
+Latvia,2020,119.6
+Latvia,2021,100.0
+Latvia,2022,87.0
+Latvia,2023,95.7
+Latvia,2024,89.1
+Latvia,2025,87.0
+Montenegro,2021,100.0
+Montenegro,2022,116.0
+Montenegro,2023,51.9
+Montenegro,2024,46.9
+Montenegro,2025,
+North Macedonia,2020,150.0
+North Macedonia,2021,100.0
+North Macedonia,2022,60.0
+North Macedonia,2023,60.0
+North Macedonia,2024,85.0
+North Macedonia,2025,95.0
+Malta,2015,50.0
+Malta,2016,60.0
+Malta,2017,50.0
+Malta,2018,30.0
+Malta,2019,100.0
+Malta,2020,80.0
+Malta,2021,100.0
+Malta,2022,110.0
+Malta,2023,170.0
+Malta,2024,160.0
+Malta,2025,50.0
+Netherlands,2015,384.4
+Netherlands,2016,319.9
+Netherlands,2017,231.2
+Netherlands,2018,193.9
+Netherlands,2019,206.3
+Netherlands,2020,164.2
+Netherlands,2021,100.0
+Netherlands,2022,108.6
+Netherlands,2023,160.2
+Netherlands,2024,219.0
+Netherlands,2025,190.1
+Norway,2015,128.1
+Norway,2016,118.0
+Norway,2017,134.5
+Norway,2018,138.8
+Norway,2019,149.2
+Norway,2020,132.8
+Norway,2021,100.0
+Norway,2022,105.8
+Norway,2023,119.8
+Norway,2024,142.6
+Norway,2025,161.4
+Poland,2015,155.9
+Poland,2016,119.1
+Poland,2017,125.0
+Poland,2018,141.2
+Poland,2019,125.0
+Poland,2020,117.6
+Poland,2021,100.0
+Poland,2022,89.7
+Poland,2023,105.9
+Poland,2024,108.8
+Poland,2025,88.2
+Portugal,2015,254.9
+Portugal,2016,201.3
+Portugal,2017,172.3
+Portugal,2018,135.3
+Portugal,2019,119.6
+Portugal,2020,111.6
+Portugal,2021,100.0
+Portugal,2022,87.9
+Portugal,2023,102.7
+Portugal,2024,108.9
+Portugal,2025,115.6
+Romania,2015,99.6
+Romania,2016,45.9
+Romania,2017,49.6
+Romania,2018,64.9
+Romania,2019,79.0
+Romania,2020,72.4
+Romania,2021,100.0
+Romania,2022,38.1
+Romania,2023,31.7
+Romania,2024,36.4
+Romania,2025,43.3
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,102.9
+Sweden,2023,123.7
+Sweden,2024,179.0
+Sweden,2025,175.4
+Slovenia,2015,133.1
+Slovenia,2016,132.6
+Slovenia,2017,127.5
+Slovenia,2018,129.2
+Slovenia,2019,153.9
+Slovenia,2020,117.4
+Slovenia,2021,100.0
+Slovenia,2022,91.6
+Slovenia,2023,80.9
+Slovenia,2024,82.0
+Slovenia,2025,90.4
+Slovakia,2015,34.3
+Slovakia,2016,29.3
+Slovakia,2017,54.0
+Slovakia,2018,115.2
+Slovakia,2019,127.8
+Slovakia,2020,105.6
+Slovakia,2021,100.0
+Slovakia,2022,74.2
+Slovakia,2023,85.9
+Slovakia,2024,90.9
+Slovakia,2025,119.2
+Ukraine,2021,100.0
+Ukraine,2022,57.3
+Ukraine,2023,112.1
+Ukraine,2024,131.5
+Ukraine,2025,118.5
+Kosovo*,2021,100.0
+Kosovo*,2022,120.1
+Kosovo*,2023,133.8
+Kosovo*,2024,172.7
+Kosovo*,2025,110.8
+Austria,2020,-33.4
+Austria,2021,-0.9
+Austria,2022,63.1
+Austria,2023,19.4
+Austria,2024,30.5
+Austria,2025,17.9
+Belgium,2015,-3.8
+Belgium,2016,-12.3
+Belgium,2017,10.9
+Belgium,2018,-1.3
+Belgium,2019,8.2
+Belgium,2020,-29.6
+Belgium,2021,-7.9
+Belgium,2022,26.9
+Belgium,2023,8.8
+Belgium,2024,5.5
+Belgium,2025,11.7
+Bulgaria,2015,-6.6
+Bulgaria,2016,-37.2
+Bulgaria,2017,8.0
+Bulgaria,2018,-18.6
+Bulgaria,2019,3.5
+Bulgaria,2020,-29.4
+Bulgaria,2021,11.2
+Bulgaria,2022,15.6
+Bulgaria,2023,-15.7
+Bulgaria,2024,-29.1
+Bulgaria,2025,-42.3
+Cyprus,2016,-14.3
+Cyprus,2017,-8.3
+Cyprus,2018,9.1
+Cyprus,2019,-8.3
+Cyprus,2020,-9.1
+Cyprus,2021,-20.0
+Cyprus,2022,37.5
+Cyprus,2023,-90.9
+Cyprus,2024,600.0
+Cyprus,2025,28.6
+Czechia,2022,13.3
+Czechia,2023,-10.6
+Czechia,2024,19.5
+Czechia,2025,16.8
+Germany,2015,1.3
+Germany,2016,-7.3
+Germany,2017,-7.8
+Germany,2018,-8.8
+Germany,2019,-2.2
+Germany,2020,-9.8
+Germany,2021,-13.6
+Germany,2022,4.6
+Germany,2023,22.8
+Germany,2024,33.9
+Germany,2025,7.4
+Denmark,2015,-12.7
+Denmark,2016,84.1
+Denmark,2017,0.6
+Denmark,2018,21.1
+Denmark,2019,26.1
+Denmark,2020,-36.7
+Denmark,2021,93.4
+Denmark,2022,-15.4
+Denmark,2023,-18.6
+Denmark,2024,-8.1
+Denmark,2025,13.9
+Euro area - 19 countries  (2015-2022),2015,0.0
+Euro area - 19 countries  (2015-2022),2016,-9.5
+Euro area - 19 countries  (2015-2022),2017,-11.4
+Euro area - 19 countries  (2015-2022),2018,-5.7
+Euro area - 19 countries  (2015-2022),2019,-0.8
+Euro area - 19 countries  (2015-2022),2020,-23.3
+Euro area - 19 countries  (2015-2022),2021,0.1
+Euro area - 19 countries  (2015-2022),2022,9.1
+Euro area - 19 countries  (2015-2022),2023,14.8
+Euro area – 20 countries (2023-2025),2015,0.1
+Euro area – 20 countries (2023-2025),2016,-8.4
+Euro area – 20 countries (2023-2025),2017,-11.6
+Euro area – 20 countries (2023-2025),2018,-5.9
+Euro area – 20 countries (2023-2025),2019,-1.0
+Euro area – 20 countries (2023-2025),2020,-23.2
+Euro area – 20 countries (2023-2025),2021,0.2
+Euro area – 20 countries (2023-2025),2022,17.6
+Euro area – 20 countries (2023-2025),2023,31.6
+Euro area – 20 countries (2023-2025),2024,21.1
+Euro area – 20 countries (2023-2025),2025,15.4
+Euro area – 21 countries (from 2026),2015,-0.1
+Euro area – 21 countries (from 2026),2016,-8.8
+Euro area – 21 countries (from 2026),2017,-11.5
+Euro area – 21 countries (from 2026),2018,-6.1
+Euro area – 21 countries (from 2026),2019,-0.9
+Euro area – 21 countries (from 2026),2020,-23.4
+Euro area – 21 countries (from 2026),2021,0.4
+Euro area – 21 countries (from 2026),2022,17.6
+Euro area – 21 countries (from 2026),2023,31.0
+Euro area – 21 countries (from 2026),2024,20.7
+Euro area – 21 countries (from 2026),2025,15.1
+Estonia,2015,26.7
+Estonia,2016,-21.1
+Estonia,2017,-26.7
+Estonia,2018,22.7
+Estonia,2019,11.1
+Estonia,2020,16.7
+Estonia,2021,-42.9
+Estonia,2022,30.0
+Estonia,2023,-3.8
+Estonia,2024,36.0
+Estonia,2025,2.9
+Greece,2022,
+Greece,2023,
+Greece,2024,9.1
+Greece,2025,70.8
+Spain,2015,-21.2
+Spain,2016,-5.5
+Spain,2017,-4.3
+Spain,2018,-6.9
+Spain,2019,11.6
+Spain,2020,-6.0
+Spain,2021,121.2
+Spain,2022,31.3
+Spain,2023,-21.4
+Spain,2024,34.7
+Spain,2025,-9.0
+European Union - 27 countries (from 2020),2015,-3.3
+European Union - 27 countries (from 2020),2016,-11.0
+European Union - 27 countries (from 2020),2017,-10.4
+European Union - 27 countries (from 2020),2018,-4.8
+European Union - 27 countries (from 2020),2019,-1.8
+European Union - 27 countries (from 2020),2020,-22.2
+European Union - 27 countries (from 2020),2021,0.9
+European Union - 27 countries (from 2020),2022,14.6
+European Union - 27 countries (from 2020),2023,35.1
+European Union - 27 countries (from 2020),2024,15.3
+European Union - 27 countries (from 2020),2025,12.0
+Finland,2021,11.6
+Finland,2022,11.8
+Finland,2023,23.3
+Finland,2024,10.5
+Finland,2025,13.1
+France,2015,-1.9
+France,2016,-3.2
+France,2017,-10.5
+France,2018,4.1
+France,2019,-4.2
+France,2020,-33.7
+France,2021,-3.1
+France,2022,29.4
+France,2023,38.3
+France,2024,24.4
+France,2025,4.4
+Croatia,2016,453.1
+Croatia,2017,-27.1
+Croatia,2018,-27.1
+Croatia,2019,-20.5
+Croatia,2020,-25.2
+Croatia,2021,23.2
+Croatia,2022,17.7
+Croatia,2023,-31.8
+Croatia,2024,15.1
+Croatia,2025,-7.6
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,66.5
+Hungary,2023,178.1
+Hungary,2024,-27.8
+Hungary,2025,-4.3
+Iceland,2015,-23.4
+Iceland,2016,90.8
+Iceland,2017,-32.2
+Iceland,2018,41.5
+Iceland,2019,-26.3
+Iceland,2020,-25.0
+Iceland,2021,65.6
+Iceland,2022,-63.4
+Iceland,2023,192.1
+Iceland,2024,-32.4
+Iceland,2025,26.0
+Italy,2015,3.5
+Italy,2016,-5.3
+Italy,2017,-5.5
+Italy,2018,-7.7
+Italy,2019,-1.5
+Italy,2020,-30.2
+Italy,2021,23.0
+Italy,2022,-23.2
+Italy,2023,3.6
+Italy,2024,10.1
+Italy,2025,16.3
+Lithuania,2015,31.6
+Lithuania,2016,14.6
+Lithuania,2017,8.5
+Lithuania,2018,-17.4
+Lithuania,2019,-27.8
+Lithuania,2020,-44.6
+Lithuania,2021,2.6
+Lithuania,2022,33.1
+Lithuania,2023,4.3
+Lithuania,2024,3.0
+Lithuania,2025,-20.3
+Luxembourg,2015,2.2
+Luxembourg,2016,35.1
+Luxembourg,2017,-11.1
+Luxembourg,2018,26.7
+Luxembourg,2019,9.5
+Luxembourg,2020,-16.8
+Luxembourg,2021,28.4
+Luxembourg,2022,-25.3
+Luxembourg,2023,2.7
+Luxembourg,2024,23.1
+Luxembourg,2025,7.6
+Latvia,2016,-18.1
+Latvia,2017,-30.5
+Latvia,2018,31.7
+Latvia,2019,-23.2
+Latvia,2020,-33.7
+Latvia,2021,-16.4
+Latvia,2022,-13.0
+Latvia,2023,10.0
+Latvia,2024,-6.9
+Latvia,2025,-2.4
+Montenegro,2022,16.0
+Montenegro,2023,-55.3
+Montenegro,2024,-9.6
+Montenegro,2025,
+North Macedonia,2021,-33.3
+North Macedonia,2022,-40.0
+North Macedonia,2023,0.0
+North Macedonia,2024,41.7
+North Macedonia,2025,11.8
+Malta,2016,20.0
+Malta,2017,-16.7
+Malta,2018,-40.0
+Malta,2019,233.3
+Malta,2020,-20.0
+Malta,2021,25.0
+Malta,2022,10.0
+Malta,2023,54.5
+Malta,2024,-5.9
+Malta,2025,-68.8
+Netherlands,2015,-19.4
+Netherlands,2016,-16.8
+Netherlands,2017,-27.7
+Netherlands,2018,-16.1
+Netherlands,2019,6.4
+Netherlands,2020,-20.4
+Netherlands,2021,-39.1
+Netherlands,2022,8.6
+Netherlands,2023,47.5
+Netherlands,2024,36.7
+Netherlands,2025,-13.2
+Norway,2016,-7.9
+Norway,2017,14.0
+Norway,2018,3.2
+Norway,2019,7.5
+Norway,2020,-11.0
+Norway,2021,-24.7
+Norway,2022,5.8
+Norway,2023,13.2
+Norway,2024,19.0
+Norway,2025,13.2
+Poland,2015,20.5
+Poland,2016,-23.6
+Poland,2017,5.0
+Poland,2018,13.0
+Poland,2019,-11.5
+Poland,2020,-5.9
+Poland,2021,-15.0
+Poland,2022,-10.3
+Poland,2023,18.1
+Poland,2024,2.7
+Poland,2025,-18.9
+Portugal,2015,184.2
+Portugal,2016,-21.0
+Portugal,2017,-14.4
+Portugal,2018,-21.5
+Portugal,2019,-11.6
+Portugal,2020,-6.7
+Portugal,2021,-10.4
+Portugal,2022,-12.1
+Portugal,2023,16.8
+Portugal,2024,6.0
+Portugal,2025,6.2
+Romania,2016,-53.9
+Romania,2017,8.1
+Romania,2018,30.8
+Romania,2019,21.7
+Romania,2020,-8.4
+Romania,2021,38.1
+Romania,2022,-61.9
+Romania,2023,-16.8
+Romania,2024,14.8
+Romania,2025,19.0
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,2.9
+Sweden,2023,20.2
+Sweden,2024,44.7
+Sweden,2025,-2.0
+Slovenia,2016,-0.4
+Slovenia,2017,-3.8
+Slovenia,2018,1.3
+Slovenia,2019,19.1
+Slovenia,2020,-23.7
+Slovenia,2021,-14.8
+Slovenia,2022,-8.4
+Slovenia,2023,-11.7
+Slovenia,2024,1.4
+Slovenia,2025,10.2
+Slovakia,2016,-14.6
+Slovakia,2017,84.3
+Slovakia,2018,113.3
+Slovakia,2019,10.9
+Slovakia,2020,-17.4
+Slovakia,2021,-5.3
+Slovakia,2022,-25.8
+Slovakia,2023,15.8
+Slovakia,2024,5.8
+Slovakia,2025,31.1
+Ukraine,2022,-42.7
+Ukraine,2023,95.6
+Ukraine,2024,17.3
+Ukraine,2025,-9.9
+Kosovo*,2022,20.1
+Kosovo*,2023,11.4
+Kosovo*,2024,29.1
+Kosovo*,2025,-35.8
+Belgium,2015,100.0
+Belgium,2016,99.0
+Belgium,2017,102.3
+Belgium,2018,135.2
+Belgium,2019,162.4
+Belgium,2020,105.5
+Belgium,2021,90.7
+Belgium,2022,141.1
+Belgium,2023,149.2
+Bulgaria,2015,100.0
+Bulgaria,2016,60.2
+Bulgaria,2017,82.5
+Bulgaria,2018,66.1
+Bulgaria,2019,60.8
+Bulgaria,2020,48.5
+Bulgaria,2021,55.6
+Bulgaria,2022,66.1
+Bulgaria,2023,35.7
+Cyprus,2015,100.0
+Cyprus,2016,150.0
+Cyprus,2017,100.0
+Cyprus,2018,100.0
+Cyprus,2019,0.0
+Cyprus,2020,0.0
+Cyprus,2021,100.0
+Cyprus,2022,0.0
+Cyprus,2023,0.0
+Germany,2015,100.0
+Germany,2016,93.7
+Germany,2017,89.5
+Germany,2018,91.2
+Germany,2019,89.8
+Germany,2020,76.1
+Germany,2021,81.2
+Germany,2022,79.2
+Germany,2023,100.2
+Denmark,2015,100.0
+Denmark,2016,169.0
+Denmark,2017,175.6
+Denmark,2018,213.7
+Denmark,2019,264.9
+Denmark,2020,164.9
+Denmark,2021,254.2
+Denmark,2022,238.7
+Denmark,2023,198.2
+Euro area - 19 countries  (2015-2022),2015,100.0
+Euro area - 19 countries  (2015-2022),2016,94.4
+Euro area - 19 countries  (2015-2022),2017,95.1
+Euro area - 19 countries  (2015-2022),2018,98.3
+Euro area - 19 countries  (2015-2022),2019,98.0
+Euro area - 19 countries  (2015-2022),2020,80.5
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,109.7
+Euro area - 19 countries  (2015-2022),2023,121.0
+Euro area – 20 countries (2023-2025),2015,100.0
+Euro area – 20 countries (2023-2025),2016,96.2
+Euro area – 20 countries (2023-2025),2017,96.4
+Euro area – 20 countries (2023-2025),2018,99.2
+Euro area – 20 countries (2023-2025),2019,98.5
+Euro area – 20 countries (2023-2025),2020,80.8
+Euro area – 20 countries (2023-2025),2021,100.5
+Euro area – 20 countries (2023-2025),2022,110.4
+Euro area – 20 countries (2023-2025),2023,121.3
+Estonia,2015,100.0
+Estonia,2016,100.0
+Estonia,2017,120.0
+Estonia,2018,60.0
+Estonia,2019,120.0
+Estonia,2020,100.0
+Estonia,2021,100.0
+Estonia,2022,100.0
+Estonia,2023,160.0
+Spain,2015,100.0
+Spain,2016,95.9
+Spain,2017,108.5
+Spain,2018,105.2
+Spain,2019,99.3
+Spain,2020,135.4
+Spain,2021,302.2
+Spain,2022,332.8
+Spain,2023,314.4
+European Union - 27 countries (from 2020),2015,100.0
+European Union - 27 countries (from 2020),2016,94.4
+European Union - 27 countries (from 2020),2017,97.8
+European Union - 27 countries (from 2020),2018,100.0
+European Union - 27 countries (from 2020),2019,100.0
+European Union - 27 countries (from 2020),2020,83.2
+European Union - 27 countries (from 2020),2021,100.1
+European Union - 27 countries (from 2020),2022,106.9
+European Union - 27 countries (from 2020),2023,120.0
+France,2015,100.0
+France,2016,94.7
+France,2017,93.1
+France,2018,91.6
+France,2019,89.3
+France,2020,54.8
+France,2021,44.7
+France,2022,72.0
+France,2023,95.5
+Croatia,2015,100.0
+Croatia,2016,506.3
+Croatia,2017,396.8
+Croatia,2018,311.9
+Croatia,2019,200.8
+Croatia,2020,169.8
+Croatia,2021,200.8
+Croatia,2022,270.6
+Croatia,2023,187.3
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,31.1
+Hungary,2022,63.2
+Hungary,2023,150.5
+Iceland,2015,100.0
+Iceland,2016,200.0
+Iceland,2017,137.9
+Iceland,2018,227.6
+Iceland,2019,141.4
+Iceland,2020,148.3
+Iceland,2021,186.2
+Iceland,2022,55.2
+Iceland,2023,241.4
+Italy,2015,100.0
+Italy,2016,100.7
+Italy,2017,105.6
+Italy,2018,101.2
+Italy,2019,102.3
+Italy,2020,69.8
+Italy,2021,90.9
+Italy,2022,70.2
+Italy,2023,81.9
+Lithuania,2015,100.0
+Lithuania,2016,130.0
+Lithuania,2017,180.0
+Lithuania,2018,143.8
+Lithuania,2019,85.0
+Lithuania,2020,37.5
+Lithuania,2021,47.5
+Lithuania,2022,47.5
+Lithuania,2023,57.5
+Luxembourg,2015,100.0
+Luxembourg,2016,172.2
+Luxembourg,2017,161.1
+Luxembourg,2018,211.1
+Luxembourg,2019,194.4
+Luxembourg,2020,222.2
+Luxembourg,2021,244.4
+Luxembourg,2022,222.2
+Luxembourg,2023,144.4
+Latvia,2015,100.0
+Latvia,2016,77.4
+Latvia,2017,61.3
+Latvia,2018,71.0
+Latvia,2019,41.9
+Latvia,2020,48.4
+Latvia,2021,19.4
+Latvia,2022,25.8
+Latvia,2023,38.7
+Netherlands,2015,100.0
+Netherlands,2016,89.7
+Netherlands,2017,66.6
+Netherlands,2018,69.3
+Netherlands,2019,72.3
+Netherlands,2020,62.0
+Netherlands,2021,29.5
+Netherlands,2022,45.8
+Netherlands,2023,61.3
+Norway,2015,100.0
+Norway,2016,104.1
+Norway,2017,117.1
+Norway,2018,133.5
+Norway,2019,125.9
+Norway,2020,137.1
+Norway,2021,97.1
+Norway,2022,119.4
+Norway,2023,155.9
+Poland,2015,100.0
+Poland,2016,82.4
+Poland,2017,147.1
+Poland,2018,135.3
+Poland,2019,141.2
+Poland,2020,141.2
+Poland,2021,100.0
+Poland,2022,70.6
+Poland,2023,105.9
+Portugal,2015,100.0
+Portugal,2016,77.8
+Portugal,2017,61.1
+Portugal,2018,49.3
+Portugal,2019,46.7
+Portugal,2020,58.9
+Portugal,2021,56.3
+Portugal,2022,40.4
+Portugal,2023,44.1
+Romania,2015,100.0
+Romania,2016,51.5
+Romania,2017,51.2
+Romania,2018,72.9
+Romania,2019,82.8
+Romania,2020,96.8
+Romania,2021,133.2
+Romania,2022,56.8
+Romania,2023,58.4
+Slovenia,2015,100.0
+Slovenia,2016,80.0
+Slovenia,2017,91.7
+Slovenia,2018,76.7
+Slovenia,2019,100.0
+Slovenia,2020,76.7
+Slovenia,2021,58.3
+Slovenia,2022,60.0
+Slovenia,2023,56.7
+Slovakia,2015,100.0
+Slovakia,2016,80.0
+Slovakia,2017,290.0
+Slovakia,2018,720.0
+Slovakia,2019,840.0
+Slovakia,2020,570.0
+Slovakia,2021,430.0
+Slovakia,2022,410.0
+Slovakia,2023,350.0
+Austria,2019,205.4
+Austria,2020,131.4
+Austria,2021,100.0
+Austria,2022,205.4
+Austria,2023,227.4
+Austria,2024,272.2
+Austria,2025,253.8
+Belgium,2015,110.3
+Belgium,2016,109.2
+Belgium,2017,112.8
+Belgium,2018,149.1
+Belgium,2019,179.0
+Belgium,2020,116.4
+Belgium,2021,100.0
+Belgium,2022,155.6
+Belgium,2023,164.6
+Belgium,2024,162.1
+Belgium,2025,168.3
+Bulgaria,2015,180.0
+Bulgaria,2016,108.4
+Bulgaria,2017,158.9
+Bulgaria,2018,118.9
+Bulgaria,2019,109.5
+Bulgaria,2020,87.4
+Bulgaria,2021,100.0
+Bulgaria,2022,118.9
+Bulgaria,2023,64.2
+Bulgaria,2024,60.0
+Bulgaria,2025,70.5
+Cyprus,2015,100.0
+Cyprus,2016,150.0
+Cyprus,2017,100.0
+Cyprus,2018,100.0
+Cyprus,2019,0.0
+Cyprus,2020,0.0
+Cyprus,2021,100.0
+Cyprus,2022,0.0
+Cyprus,2023,0.0
+Cyprus,2024,0.0
+Cyprus,2025,0.0
+Czechia,2021,100.0
+Czechia,2022,131.6
+Czechia,2023,113.6
+Czechia,2024,145.1
+Czechia,2025,184.0
+Germany,2015,123.2
+Germany,2016,115.4
+Germany,2017,110.3
+Germany,2018,112.3
+Germany,2019,110.6
+Germany,2020,93.8
+Germany,2021,100.0
+Germany,2022,97.6
+Germany,2023,123.2
+Germany,2024,131.9
+Germany,2025,132.4
+Denmark,2015,39.4
+Denmark,2016,66.7
+Denmark,2017,69.2
+Denmark,2018,84.3
+Denmark,2019,104.5
+Denmark,2020,64.3
+Denmark,2021,100.0
+Denmark,2022,93.2
+Denmark,2023,77.5
+Denmark,2024,79.3
+Denmark,2025,79.1
+Euro area - 19 countries  (2015-2022),2015,174.1
+Euro area - 19 countries  (2015-2022),2016,162.3
+Euro area - 19 countries  (2015-2022),2017,151.2
+Euro area - 19 countries  (2015-2022),2018,150.6
+Euro area - 19 countries  (2015-2022),2019,148.2
+Euro area - 19 countries  (2015-2022),2020,110.9
+Euro area - 19 countries  (2015-2022),2021,100.0
+Euro area - 19 countries  (2015-2022),2022,125.0
+Euro area - 19 countries  (2015-2022),2023,151.0
+Euro area – 20 countries (2023-2025),2015,173.3
+Euro area – 20 countries (2023-2025),2016,163.0
+Euro area – 20 countries (2023-2025),2017,151.5
+Euro area – 20 countries (2023-2025),2018,150.7
+Euro area – 20 countries (2023-2025),2019,147.9
+Euro area – 20 countries (2023-2025),2020,110.7
+Euro area – 20 countries (2023-2025),2021,100.0
+Euro area – 20 countries (2023-2025),2022,138.7
+Euro area – 20 countries (2023-2025),2023,214.5
+Euro area – 20 countries (2023-2025),2024,216.3
+Euro area – 20 countries (2023-2025),2025,285.0
+Euro area – 21 countries (from 2026),2015,173.4
+Euro area – 21 countries (from 2026),2016,162.4
+Euro area – 21 countries (from 2026),2017,151.6
+Euro area – 21 countries (from 2026),2018,150.3
+Euro area – 21 countries (from 2026),2019,147.5
+Euro area – 21 countries (from 2026),2020,110.5
+Euro area – 21 countries (from 2026),2021,100.0
+Euro area – 21 countries (from 2026),2022,138.5
+Euro area – 21 countries (from 2026),2023,213.0
+Euro area – 21 countries (from 2026),2024,214.7
+Euro area – 21 countries (from 2026),2025,282.8
+Estonia,2015,100.0
+Estonia,2016,100.0
+Estonia,2017,120.0
+Estonia,2018,60.0
+Estonia,2019,120.0
+Estonia,2020,100.0
+Estonia,2021,100.0
+Estonia,2022,100.0
+Estonia,2023,160.0
+Estonia,2024,180.0
+Estonia,2025,80.0
+Greece,2021,
+Greece,2022,
+Greece,2023,
+Greece,2024,1800.0
+Greece,2025,
+Spain,2015,33.1
+Spain,2016,31.7
+Spain,2017,35.9
+Spain,2018,34.8
+Spain,2019,32.8
+Spain,2020,44.8
+Spain,2021,100.0
+Spain,2022,110.1
+Spain,2023,92.7
+Spain,2024,110.5
+Spain,2025,107.2
+European Union - 27 countries (from 2020),2015,168.6
+European Union - 27 countries (from 2020),2016,153.8
+European Union - 27 countries (from 2020),2017,149.6
+European Union - 27 countries (from 2020),2018,147.3
+European Union - 27 countries (from 2020),2019,144.1
+European Union - 27 countries (from 2020),2020,111.4
+European Union - 27 countries (from 2020),2021,100.0
+European Union - 27 countries (from 2020),2022,131.6
+European Union - 27 countries (from 2020),2023,203.8
+European Union - 27 countries (from 2020),2024,201.7
+European Union - 27 countries (from 2020),2025,255.2
+Finland,2020,98.2
+Finland,2021,100.0
+Finland,2022,123.2
+Finland,2023,161.9
+Finland,2024,188.1
+Finland,2025,228.0
+France,2015,223.6
+France,2016,211.7
+France,2017,208.2
+France,2018,204.7
+France,2019,199.7
+France,2020,122.6
+France,2021,100.0
+France,2022,160.9
+France,2023,215.8
+France,2024,237.6
+France,2025,267.3
+Croatia,2015,49.8
+Croatia,2016,252.2
+Croatia,2017,197.6
+Croatia,2018,155.3
+Croatia,2019,100.0
+Croatia,2020,84.6
+Croatia,2021,100.0
+Croatia,2022,134.8
+Croatia,2023,93.3
+Croatia,2024,96.8
+Croatia,2025,72.3
+Hungary,2015,
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,100.0
+Hungary,2022,203.5
+Hungary,2023,484.5
+Hungary,2024,392.3
+Hungary,2025,357.0
+Iceland,2015,54.5
+Iceland,2016,105.5
+Iceland,2017,74.5
+Iceland,2018,120.0
+Iceland,2019,74.5
+Iceland,2020,80.0
+Iceland,2021,100.0
+Iceland,2022,29.1
+Iceland,2023,134.5
+Iceland,2024,72.7
+Iceland,2025,94.5
+Italy,2015,110.0
+Italy,2016,110.7
+Italy,2017,116.1
+Italy,2018,111.3
+Italy,2019,112.5
+Italy,2020,76.7
+Italy,2021,100.0
+Italy,2022,77.2
+Italy,2023,90.0
+Italy,2024,91.8
+Italy,2025,115.9
+Lithuania,2015,210.5
+Lithuania,2016,273.7
+Lithuania,2017,378.9
+Lithuania,2018,302.6
+Lithuania,2019,178.9
+Lithuania,2020,78.9
+Lithuania,2021,100.0
+Lithuania,2022,100.0
+Lithuania,2023,121.1
+Lithuania,2024,118.4
+Lithuania,2025,73.7
+Luxembourg,2015,40.9
+Luxembourg,2016,70.5
+Luxembourg,2017,65.9
+Luxembourg,2018,84.1
+Luxembourg,2019,79.5
+Luxembourg,2020,90.9
+Luxembourg,2021,100.0
+Luxembourg,2022,90.9
+Luxembourg,2023,59.1
+Luxembourg,2024,97.7
+Luxembourg,2025,106.8
+Latvia,2015,516.7
+Latvia,2016,400.0
+Latvia,2017,316.7
+Latvia,2018,366.7
+Latvia,2019,216.7
+Latvia,2020,250.0
+Latvia,2021,100.0
+Latvia,2022,133.3
+Latvia,2023,200.0
+Latvia,2024,133.3
+Latvia,2025,266.7
+Montenegro,2021,100.0
+Montenegro,2022,112.0
+Montenegro,2023,80.0
+Montenegro,2024,52.0
+Montenegro,2025,
+North Macedonia,2020,88.2
+North Macedonia,2021,100.0
+North Macedonia,2022,52.9
+North Macedonia,2023,70.6
+North Macedonia,2024,64.7
+North Macedonia,2025,41.2
+Malta,2015,0.0
+Malta,2016,100.0
+Malta,2017,33.3
+Malta,2018,100.0
+Malta,2019,66.7
+Malta,2020,66.7
+Malta,2021,100.0
+Malta,2022,33.3
+Malta,2023,233.3
+Malta,2024,0.0
+Malta,2025,33.3
+Netherlands,2015,338.8
+Netherlands,2016,303.9
+Netherlands,2017,225.6
+Netherlands,2018,234.9
+Netherlands,2019,245.0
+Netherlands,2020,210.1
+Netherlands,2021,100.0
+Netherlands,2022,155.0
+Netherlands,2023,207.8
+Netherlands,2024,252.7
+Netherlands,2025,207.0
+Norway,2015,103.0
+Norway,2016,107.3
+Norway,2017,120.6
+Norway,2018,137.6
+Norway,2019,129.7
+Norway,2020,141.2
+Norway,2021,100.0
+Norway,2022,123.0
+Norway,2023,160.6
+Norway,2024,129.1
+Norway,2025,160.6
+Poland,2015,100.0
+Poland,2016,82.4
+Poland,2017,147.1
+Poland,2018,135.3
+Poland,2019,141.2
+Poland,2020,141.2
+Poland,2021,100.0
+Poland,2022,70.6
+Poland,2023,105.9
+Poland,2024,76.5
+Poland,2025,58.8
+Portugal,2015,177.6
+Portugal,2016,138.2
+Portugal,2017,108.6
+Portugal,2018,87.5
+Portugal,2019,82.9
+Portugal,2020,104.6
+Portugal,2021,100.0
+Portugal,2022,71.7
+Portugal,2023,78.3
+Portugal,2024,86.8
+Portugal,2025,71.7
+Romania,2015,75.1
+Romania,2016,38.6
+Romania,2017,38.4
+Romania,2018,54.7
+Romania,2019,62.2
+Romania,2020,72.6
+Romania,2021,100.0
+Romania,2022,42.7
+Romania,2023,43.9
+Romania,2024,46.5
+Romania,2025,56.1
+Serbia,2021,
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2021,100.0
+Sweden,2022,101.5
+Sweden,2023,134.7
+Sweden,2024,161.3
+Sweden,2025,158.1
+Slovenia,2015,171.4
+Slovenia,2016,137.1
+Slovenia,2017,157.1
+Slovenia,2018,131.4
+Slovenia,2019,171.4
+Slovenia,2020,131.4
+Slovenia,2021,100.0
+Slovenia,2022,102.9
+Slovenia,2023,97.1
+Slovenia,2024,88.6
+Slovenia,2025,91.4
+Slovakia,2015,23.3
+Slovakia,2016,18.6
+Slovakia,2017,67.4
+Slovakia,2018,167.4
+Slovakia,2019,195.3
+Slovakia,2020,132.6
+Slovakia,2021,100.0
+Slovakia,2022,95.3
+Slovakia,2023,81.4
+Slovakia,2024,65.1
+Slovakia,2025,76.7
+Ukraine,2021,100.0
+Ukraine,2022,35.7
+Ukraine,2023,57.1
+Ukraine,2024,57.1
+Ukraine,2025,78.6
+Kosovo*,2021,100.0
+Kosovo*,2022,119.8
+Kosovo*,2023,58.1
+Kosovo*,2024,54.7
+Kosovo*,2025,28.1
+Austria,2020,-36.0
+Austria,2021,-23.9
+Austria,2022,105.4
+Austria,2023,10.7
+Austria,2024,19.7
+Austria,2025,-6.8
+Belgium,2015,-11.7
+Belgium,2016,-1.0
+Belgium,2017,3.3
+Belgium,2018,32.2
+Belgium,2019,20.1
+Belgium,2020,-35.0
+Belgium,2021,-14.1
+Belgium,2022,55.6
+Belgium,2023,5.8
+Belgium,2024,-1.5
+Belgium,2025,3.8
+Bulgaria,2015,-3.4
+Bulgaria,2016,-39.8
+Bulgaria,2017,46.6
+Bulgaria,2018,-25.2
+Bulgaria,2019,-7.9
+Bulgaria,2020,-20.2
+Bulgaria,2021,14.4
+Bulgaria,2022,18.9
+Bulgaria,2023,-46.0
+Bulgaria,2024,-6.5
+Bulgaria,2025,17.5
+Cyprus,2016,50.0
+Cyprus,2017,-33.3
+Cyprus,2018,0.0
+Czechia,2022,31.6
+Czechia,2023,-13.7
+Czechia,2024,27.7
+Czechia,2025,26.8
+Germany,2015,-1.5
+Germany,2016,-6.3
+Germany,2017,-4.4
+Germany,2018,1.8
+Germany,2019,-1.5
+Germany,2020,-15.2
+Germany,2021,6.6
+Germany,2022,-2.4
+Germany,2023,26.2
+Germany,2024,7.1
+Germany,2025,0.4
+Denmark,2015,-3.4
+Denmark,2016,69.3
+Denmark,2017,3.7
+Denmark,2018,21.8
+Denmark,2019,24.0
+Denmark,2020,-38.5
+Denmark,2021,55.5
+Denmark,2022,-6.8
+Denmark,2023,-16.8
+Denmark,2024,2.3
+Denmark,2025,-0.3
+Euro area - 19 countries  (2015-2022),2015,-0.9
+Euro area - 19 countries  (2015-2022),2016,-6.8
+Euro area - 19 countries  (2015-2022),2017,-6.8
+Euro area - 19 countries  (2015-2022),2018,-0.4
+Euro area - 19 countries  (2015-2022),2019,-1.6
+Euro area - 19 countries  (2015-2022),2020,-25.2
+Euro area - 19 countries  (2015-2022),2021,-9.8
+Euro area - 19 countries  (2015-2022),2022,25.0
+Euro area - 19 countries  (2015-2022),2023,20.8
+Euro area – 20 countries (2023-2025),2015,-0.9
+Euro area – 20 countries (2023-2025),2016,-5.9
+Euro area – 20 countries (2023-2025),2017,-7.1
+Euro area – 20 countries (2023-2025),2018,-0.5
+Euro area – 20 countries (2023-2025),2019,-1.9
+Euro area – 20 countries (2023-2025),2020,-25.2
+Euro area – 20 countries (2023-2025),2021,-9.7
+Euro area – 20 countries (2023-2025),2022,38.7
+Euro area – 20 countries (2023-2025),2023,54.7
+Euro area – 20 countries (2023-2025),2024,0.8
+Euro area – 20 countries (2023-2025),2025,31.8
+Euro area – 21 countries (from 2026),2015,-0.9
+Euro area – 21 countries (from 2026),2016,-6.3
+Euro area – 21 countries (from 2026),2017,-6.7
+Euro area – 21 countries (from 2026),2018,-0.9
+Euro area – 21 countries (from 2026),2019,-1.9
+Euro area – 21 countries (from 2026),2020,-25.1
+Euro area – 21 countries (from 2026),2021,-9.5
+Euro area – 21 countries (from 2026),2022,38.5
+Euro area – 21 countries (from 2026),2023,53.8
+Euro area – 21 countries (from 2026),2024,0.8
+Euro area – 21 countries (from 2026),2025,31.7
+Estonia,2015,25.0
+Estonia,2016,0.0
+Estonia,2017,20.0
+Estonia,2018,-50.0
+Estonia,2019,100.0
+Estonia,2020,-16.7
+Estonia,2021,0.0
+Estonia,2022,0.0
+Estonia,2023,60.0
+Estonia,2024,12.5
+Estonia,2025,-55.6
+Greece,2022,
+Greece,2023,
+Greece,2024,
+Greece,2025,
+Spain,2015,-12.2
+Spain,2016,-4.2
+Spain,2017,13.2
+Spain,2018,-3.1
+Spain,2019,-5.7
+Spain,2020,36.6
+Spain,2021,123.2
+Spain,2022,10.1
+Spain,2023,-15.8
+Spain,2024,19.2
+Spain,2025,-3.0
+European Union - 27 countries (from 2020),2015,-6.7
+European Union - 27 countries (from 2020),2016,-8.8
+European Union - 27 countries (from 2020),2017,-2.7
+European Union - 27 countries (from 2020),2018,-1.5
+European Union - 27 countries (from 2020),2019,-2.2
+European Union - 27 countries (from 2020),2020,-22.7
+European Union - 27 countries (from 2020),2021,-10.2
+European Union - 27 countries (from 2020),2022,31.6
+European Union - 27 countries (from 2020),2023,54.9
+European Union - 27 countries (from 2020),2024,-1.0
+European Union - 27 countries (from 2020),2025,26.5
+Finland,2021,1.8
+Finland,2022,23.2
+Finland,2023,31.4
+Finland,2024,16.2
+Finland,2025,21.2
+France,2015,6.6
+France,2016,-5.3
+France,2017,-1.7
+France,2018,-1.7
+France,2019,-2.4
+France,2020,-38.6
+France,2021,-18.4
+France,2022,60.9
+France,2023,34.1
+France,2024,10.1
+France,2025,12.5
+Croatia,2016,406.4
+Croatia,2017,-21.6
+Croatia,2018,-21.4
+Croatia,2019,-35.6
+Croatia,2020,-15.4
+Croatia,2021,18.2
+Croatia,2022,34.8
+Croatia,2023,-30.8
+Croatia,2024,3.8
+Croatia,2025,-25.3
+Hungary,2016,
+Hungary,2017,
+Hungary,2018,
+Hungary,2019,
+Hungary,2020,
+Hungary,2021,
+Hungary,2022,103.5
+Hungary,2023,138.1
+Hungary,2024,-19.0
+Hungary,2025,-9.0
+Iceland,2015,-37.6
+Iceland,2016,93.6
+Iceland,2017,-29.4
+Iceland,2018,61.1
+Iceland,2019,-37.9
+Iceland,2020,7.4
+Iceland,2021,25.0
+Iceland,2022,-70.9
+Iceland,2023,362.2
+Iceland,2024,-45.9
+Iceland,2025,30.0
+Italy,2015,-8.9
+Italy,2016,0.6
+Italy,2017,4.9
+Italy,2018,-4.1
+Italy,2019,1.1
+Italy,2020,-31.8
+Italy,2021,30.4
+Italy,2022,-22.8
+Italy,2023,16.6
+Italy,2024,2.0
+Italy,2025,26.3
+Lithuania,2015,35.5
+Lithuania,2016,30.0
+Lithuania,2017,38.4
+Lithuania,2018,-20.1
+Lithuania,2019,-40.9
+Lithuania,2020,-55.9
+Lithuania,2021,26.7
+Lithuania,2022,0.0
+Lithuania,2023,21.1
+Lithuania,2024,-2.2
+Lithuania,2025,-37.8
+Luxembourg,2015,-43.7
+Luxembourg,2016,72.4
+Luxembourg,2017,-6.5
+Luxembourg,2018,27.6
+Luxembourg,2019,-5.5
+Luxembourg,2020,14.3
+Luxembourg,2021,10.0
+Luxembourg,2022,-9.1
+Luxembourg,2023,-35.0
+Luxembourg,2024,65.3
+Luxembourg,2025,9.3
+Latvia,2016,-22.6
+Latvia,2017,-20.8
+Latvia,2018,15.8
+Latvia,2019,-40.9
+Latvia,2020,15.4
+Latvia,2021,-60.0
+Latvia,2022,33.3
+Latvia,2023,50.0
+Latvia,2024,-33.4
+Latvia,2025,100.1
+Montenegro,2022,12.0
+Montenegro,2023,-28.6
+Montenegro,2024,-35.0
+Montenegro,2025,
+North Macedonia,2021,13.4
+North Macedonia,2022,-47.1
+North Macedonia,2023,33.5
+North Macedonia,2024,-8.4
+North Macedonia,2025,-36.3
+Malta,2017,-66.7
+Malta,2018,200.3
+Malta,2019,-33.3
+Malta,2020,0.0
+Malta,2021,49.9
+Malta,2022,-66.7
+Malta,2023,600.6
+Netherlands,2015,-19.1
+Netherlands,2016,-10.3
+Netherlands,2017,-25.8
+Netherlands,2018,4.1
+Netherlands,2019,4.3
+Netherlands,2020,-14.2
+Netherlands,2021,-52.4
+Netherlands,2022,55.0
+Netherlands,2023,34.1
+Netherlands,2024,21.6
+Netherlands,2025,-18.1
+Norway,2016,4.2
+Norway,2017,12.4
+Norway,2018,14.1
+Norway,2019,-5.7
+Norway,2020,8.9
+Norway,2021,-29.2
+Norway,2022,23.0
+Norway,2023,30.6
+Norway,2024,-19.6
+Norway,2025,24.4
+Poland,2015,-34.6
+Poland,2016,-17.6
+Poland,2017,78.5
+Poland,2018,-8.0
+Poland,2019,4.4
+Poland,2020,0.0
+Poland,2021,-29.2
+Poland,2022,-29.4
+Poland,2023,50.0
+Poland,2024,-27.8
+Poland,2025,-23.1
+Portugal,2015,159.6
+Portugal,2016,-22.2
+Portugal,2017,-21.4
+Portugal,2018,-19.4
+Portugal,2019,-5.3
+Portugal,2020,26.2
+Portugal,2021,-4.4
+Portugal,2022,-28.3
+Portugal,2023,9.2
+Portugal,2024,10.9
+Portugal,2025,-17.4
+Romania,2016,-48.6
+Romania,2017,-0.5
+Romania,2018,42.4
+Romania,2019,13.7
+Romania,2020,16.7
+Romania,2021,37.7
+Romania,2022,-57.3
+Romania,2023,2.8
+Romania,2024,5.9
+Romania,2025,20.6
+Serbia,2022,
+Serbia,2023,
+Serbia,2024,
+Serbia,2025,
+Sweden,2022,1.5
+Sweden,2023,32.7
+Sweden,2024,19.7
+Sweden,2025,-2.0
+Slovenia,2016,-20.0
+Slovenia,2017,14.6
+Slovenia,2018,-16.4
+Slovenia,2019,30.4
+Slovenia,2020,-23.3
+Slovenia,2021,-23.9
+Slovenia,2022,2.9
+Slovenia,2023,-5.6
+Slovenia,2024,-8.8
+Slovenia,2025,3.2
+Slovakia,2016,-20.2
+Slovakia,2017,262.4
+Slovakia,2018,148.4
+Slovakia,2019,16.7
+Slovakia,2020,-32.1
+Slovakia,2021,-24.6
+Slovakia,2022,-4.7
+Slovakia,2023,-14.6
+Slovakia,2024,-20.0
+Slovakia,2025,17.8
+Ukraine,2022,-64.3
+Ukraine,2023,59.9
+Ukraine,2024,0.0
+Ukraine,2025,37.7
+Kosovo*,2022,19.8
+Kosovo*,2023,-51.5
+Kosovo*,2024,-5.9
+Kosovo*,2025,-48.6

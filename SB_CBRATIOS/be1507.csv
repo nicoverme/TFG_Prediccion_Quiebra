@@ -1,0 +1,36 @@
+"CÓDIGO DE LA SERIE",DCBIROANRAB.A,DCBIROANRAE.A,DCBIROANRAB_D091CR.A,DCBIROANRAE_D091CR.A,DCBIROANRAB_D092SR.A,DCBIROANRAE_D092SR.A,DCBIROANRAB_D0931.A,DCBIROANRAE_D0931.A,DCBIROANRAB_D0933.A,DCBIROANRAE_D0933.A,DCBIROANRAB_TS250.A,DCBIROANRAE_TS250.A,DCBIROANRAB_T50A250.A,DCBIROANRAE_T50A250.A,DCBIROANRAB_TI50.A,DCBIROANRAE_TI50.A
+"NÚMERO SECUENCIAL",2416506,2416507,2416508,2416509,2416510,2416511,2416512,2416513,2416514,2416515,2416516,2416517,2416518,2416519,2416520,2416521
+"ALIAS DE LA SERIE","BE_15_7.1","BE_15_7.2","BE_15_7.3","BE_15_7.4","BE_15_7.5","BE_15_7.6","BE_15_7.7","BE_15_7.8","BE_15_7.9","BE_15_7.10","BE_15_7.11","BE_15_7.12","BE_15_7.13","BE_15_7.14","BE_15_7.15","BE_15_7.16"
+"DESCRIPCIÓN DE LA SERIE","CBI. R.1 Rentabilidad ordinaria del activo neto. Total. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Total. Año actual","CBI. R.1 Rentabilidad ordinaria del activo neto. Energía con refino CNAE-09. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Energía con refino CNAE-09. Año actual","CBI. R.1 Rentabilidad ordinaria del activo neto. Industria sin refino CNAE-09. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Industria sin refino CNAE-09. Año actual","CBI. R.1 Rentabilidad ordinaria del activo neto. Comercio y hostelería. CNAE-09. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Comercio y hostelería. CNAE-09. Año actual","CBI. R.1 Rentabilidad ordinaria del activo neto. Información y comunicaciones. CNAE-09. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Información y comunicaciones. CNAE-09. Año actual","CBI. R.1 Rentabilidad ordinaria del activo neto. Empresas grandes, públicas y dependientes. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Empresas grandes, públicas y dependientes. Año actual","CBI. R.1 Rentabilidad ordinaria del activo neto. Empresas medianas. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Empresas medianas. Año actual","CBI. R.1 Rentabilidad ordinaria del activo neto. Empresas pequeñas. Año anterior","CBI. R.1 Rentabilidad ordinaria del activo neto. Empresas pequeñas. Año actual"
+"DESCRIPCIÓN DE LAS UNIDADES","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje","Porcentaje"
+"FRECUENCIA","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL","ANUAL"
+"1997",8.50,8.70,7.80,6.60,10.10,11.10,10.90,11.10,10.70,11.60,7.90,8.20,11.00,11.10,10.50,10.60
+"1998",8.80,9.20,6.60,7.40,11.40,12.10,11.00,12.10,11.30,13.00,8.20,8.70,11.10,10.90,10.90,11.40
+"1999",9.30,8.10,7.30,6.90,12.30,11.20,12.70,13.10,12.60,8.10,8.80,7.40,11.10,10.90,11.60,11.40
+"2000",8.20,7.60,7.00,7.10,11.60,11.70,13.00,11.60,10.80,7.00,7.50,7.00,11.00,9.60,11.20,10.80
+"2001",7.80,8.00,7.70,8.10,11.90,9.90,11.60,11.80,8.30,11.30,7.10,7.50,10.80,10.20,10.90,10.40
+"2002",8.00,8.30,9.10,9.90,10.00,8.70,11.80,11.50,11.00,13.30,7.40,8.00,10.90,9.90,10.30,9.30
+"2003",8.30,8.10,9.70,7.90,9.00,8.80,11.00,10.50,12.90,16.20,8.00,7.90,10.10,9.70,8.90,8.30
+"2004",8.10,8.20,7.80,7.10,9.10,9.90,10.50,10.10,17.30,21.00,7.90,8.20,9.80,9.50,8.20,7.60
+"2005",7.40,7.50,7.00,7.20,9.10,8.90,8.20,7.70,20.20,18.40,8.10,8.50,8.60,8.10,4.90,4.80
+"2006",7.60,7.60,7.30,8.40,9.00,8.70,7.80,7.60,16.90,16.30,8.50,8.60,8.00,7.90,5.00,4.90
+"2007",7.60,7.50,8.30,7.10,9.00,9.50,7.80,7.40,16.00,20.20,8.60,8.50,8.30,7.80,4.80,4.70
+"2008",7.70,6.70,6.90,6.80,9.80,6.70,8.80,6.40,19.20,22.10,8.40,7.60,8.20,5.70,5.60,3.70
+"2009",6.30,4.80,7.10,6.30,6.30,3.70,6.10,4.80,22.40,20.50,7.60,6.00,5.90,4.20,3.40,2.00
+"2010",4.70,4.60,6.00,5.60,3.70,5.00,5.00,5.20,21.70,20.00,5.60,5.80,4.20,3.80,2.10,1.60
+"2011",4.60,4.20,5.60,5.20,5.20,5.10,5.60,5.20,18.80,16.50,5.60,5.30,4.00,3.70,1.90,1.20
+"2012",4.40,3.90,5.10,5.80,5.30,4.80,5.40,4.30,16.30,14.00,5.40,4.90,3.80,3.60,1.50,0.90
+"2013",4.00,4.00,5.80,5.70,5.20,5.00,4.70,5.40,14.20,13.10,5.00,5.00,4.10,4.20,1.10,1.20
+"2014",4.10,4.30,5.70,4.30,4.90,5.80,5.40,5.70,13.40,10.00,5.00,5.20,4.40,5.20,1.30,1.90
+"2015",4.40,4.60,4.30,4.80,5.80,7.50,6.00,7.00,10.80,10.30,5.10,5.10,5.50,6.30,2.00,2.70
+"2016",4.70,5.10,5.00,5.40,7.70,8.40,7.30,8.20,10.10,11.10,5.20,5.60,6.60,7.00,2.80,3.10
+"2017",5.20,5.40,5.40,5.30,8.70,8.80,8.50,8.60,11.40,12.30,5.60,5.90,7.60,7.30,3.30,3.60
+"2018",5.50,5.60,5.30,5.30,9.10,8.40,8.80,9.00,11.90,10.90,5.90,6.00,7.60,7.10,3.80,3.70
+"2019",5.60,5.80,5.30,6.00,8.50,7.80,9.20,8.20,11.00,11.30,6.00,6.40,7.40,6.90,3.90,3.70
+"2020",5.90,4.00,6.20,5.30,7.90,5.30,8.40,4.30,11.30,6.70,6.40,4.30,7.00,5.30,3.80,2.60
+"2021",4.00,4.10,6.60,6.10,5.60,7.00,4.40,7.10,6.50,5.60,4.30,4.00,5.80,6.90,2.70,3.80
+"2022",4.20,5.10,6.20,8.00,7.50,8.60,7.60,9.00,6.30,7.80,4.00,5.10,7.50,8.10,4.10,4.60
+"2023",5.20,6.20,8.10,9.30,8.60,9.50,9.10,9.60,7.00,8.90,5.10,6.40,8.60,9.70,4.70,5.10
+"2024",6.30,6.70,10.10,9.10,9.70,9.70,10.00,10.70,9.40,10.70,6.40,6.80,10.40,10.60,5.30,5.50
+"FUENTE","","","","","","","","","","","","","","","",""
+"NOTAS","","","","","","","","","","","","","","","",""
