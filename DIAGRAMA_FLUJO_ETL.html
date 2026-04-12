@@ -1,527 +1,212 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pipeline ETL — TFG Predicción de Quiebra</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TFG Nicolás Vermeulen · Ingeniería del Dato</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;font-family:'Segoe UI',system-ui,-apple-system,Arial,sans-serif}
+body{background:#f4f6f8;padding:32px 24px;min-height:100vh;color:#1a1a1a}
+.title{text-align:center;font-size:20px;font-weight:600;color:#1a1a1a;margin-bottom:4px}
+.sub{text-align:center;font-size:12px;color:#666;margin-bottom:20px}
+.row{display:flex;gap:10px;align-items:stretch;margin-bottom:0}
+.arrow-col{display:flex;align-items:center;justify-content:center;flex-shrink:0;width:28px}
+.arr-down-row{display:flex;gap:10px;margin:4px 0}
+.arr-down-cell{flex:1;display:flex;justify-content:center}
+.arr-spacer{width:28px;flex-shrink:0}
+.block{border-radius:10px;border:1.5px solid;overflow:hidden;flex:1}
+.bh{padding:6px 10px;font-size:10px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;text-align:center}
+.bb{padding:6px;display:flex;flex-direction:column;gap:4px}
+.s{border-radius:6px;padding:6px 8px;text-decoration:none;display:block;cursor:pointer;transition:opacity .15s;font-size:10.5px;font-weight:500;line-height:1.35}
+.s:hover{opacity:.78}
+.sd{font-size:9px;opacity:.72;display:block;margin-top:2px;font-weight:400}
+.file{border-radius:6px;padding:4px 8px;text-decoration:none;display:block;cursor:pointer;border:1px dashed;text-align:center;font-size:9.5px;font-weight:500;margin-top:4px;transition:opacity .15s}
+.file:hover{opacity:.78}
+.db-wrap{display:flex;flex-direction:column;align-items:center;margin:6px 0 3px;cursor:pointer;text-decoration:none;transition:opacity .15s}
+.db-wrap:hover{opacity:.78}
+.db-top{width:88px;height:13px;border-radius:50%;border:1.5px solid}
+.db-body{width:88px;height:36px;border-left:1.5px solid;border-right:1.5px solid;display:flex;align-items:center;justify-content:center;flex-direction:column}
+.db-bot{width:88px;height:13px;border-radius:50%;border:1.5px solid;margin-top:-1px}
+.db-lbl{font-size:9.5px;font-weight:600;text-align:center}
+.db-sub{font-size:8.5px;opacity:.8;text-align:center}
+.leg{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:14px}
+.li{display:flex;align-items:center;gap:5px;font-size:10px;color:#666}
+.ld{width:10px;height:10px;border-radius:3px;flex-shrink:0}
+.note{text-align:center;font-size:9px;color:#aaa;margin-top:7px}
 
-    body {
-      font-family: 'Segoe UI', system-ui, -apple-system, Arial, sans-serif;
-      background: linear-gradient(160deg, #e8edf3 0%, #dde3eb 100%);
-      min-height: 100vh;
-      padding: 52px 32px 72px;
-      color: #1e293b;
-      -webkit-font-smoothing: antialiased;
-      overflow-x: auto;
-    }
+/* EXTRACCIÓN — azul */
+.b-ext{background:#EBF4FD;border-color:#185FA5}
+.b-ext .bh{background:#185FA5;color:#E6F1FB}
+.s-ext{background:#378ADD;color:#E6F1FB}
 
-    /* ── Header ─────────────────────────────────────── */
-    header {
-      text-align: center;
-      margin-bottom: 56px;
-    }
-    header h1 {
-      font-size: 23px;
-      font-weight: 700;
-      color: #0f172a;
-      letter-spacing: -0.4px;
-      margin-bottom: 7px;
-    }
-    header p {
-      font-size: 13px;
-      color: #64748b;
-    }
-    header p a {
-      color: #3b82f6;
-      text-decoration: none;
-      font-weight: 500;
-    }
-    header p a:hover { text-decoration: underline; }
+/* LIMPIEZA — verde */
+.b-lim{background:#EAF3DE;border-color:#3B6D11}
+.b-lim .bh{background:#3B6D11;color:#EAF3DE}
+.s-lim{background:#639922;color:#EAF3DE}
 
-    /* ── Pipeline container ──────────────────────────── */
-    .pipeline {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 0;
-      min-width: 967px;
-    }
+/* TRANSFORMACIÓN — ámbar */
+.b-tra{background:#FDF3E3;border-color:#854F0B}
+.b-tra .bh{background:#854F0B;color:#FAEEDA}
+.s-tra{background:#BA7517;color:#FAEEDA}
 
-    /* ── Each row ────────────────────────────────────── */
-    .etl-row {
-      display: flex;
-      align-items: stretch;
-    }
+/* CARGA — morado */
+.b-sql{background:#EEEDFE;border-color:#534AB7}
+.b-sql .bh{background:#534AB7;color:#EEEDFE}
+.s-sql{background:#7F77DD;color:#EEEDFE}
 
-    /* ── Horizontal arrow between blocks ─────────────── */
-    .h-arrow {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-      width: 52px;
-    }
+/* EDA — coral */
+.b-eda{background:#FAECE7;border-color:#993C1D}
+.b-eda .bh{background:#993C1D;color:#FAECE7}
+.s-eda{background:#D85A30;color:#FAECE7}
 
-    /* ── Block ───────────────────────────────────────── */
-    .block {
-      width: 288px;
-      border-radius: 16px;
-      padding: 20px 17px 17px;
-      display: flex;
-      flex-direction: column;
-      gap: 7px;
-      box-shadow:
-        0 6px 24px rgba(0, 0, 0, 0.13),
-        0 1px 4px rgba(0, 0, 0, 0.07),
-        inset 0 1px 0 rgba(255, 255, 255, 0.25);
-    }
+/* ENTREGABLES — teal */
+.b-ent{background:#E1F5EE;border-color:#0F6E56}
+.b-ent .bh{background:#0F6E56;color:#E1F5EE}
+.s-ent{background:#1D9E75;color:#E1F5EE}
 
-    .block-step {
-      font-size: 9px;
-      font-weight: 700;
-      letter-spacing: 1.4px;
-      text-transform: uppercase;
-      opacity: 0.72;
-      margin-bottom: 1px;
-    }
-    .block-title {
-      font-size: 17px;
-      font-weight: 700;
-      line-height: 1.2;
-      margin-bottom: 2px;
-    }
-    .block-script {
-      font-size: 10px;
-      font-weight: 400;
-      opacity: 0.62;
-      font-style: italic;
-      margin-bottom: 8px;
-      line-height: 1.4;
-    }
-
-    /* ── Item link ───────────────────────────────────── */
-    .item {
-      background: rgba(255, 255, 255, 0.42);
-      border: 1px solid rgba(255, 255, 255, 0.68);
-      border-radius: 9px;
-      padding: 8px 11px;
-      font-size: 12px;
-      font-weight: 500;
-      text-decoration: none;
-      color: inherit;
-      display: block;
-      line-height: 1.35;
-      transition: background 0.14s ease, transform 0.12s ease, box-shadow 0.12s ease;
-    }
-    .item:hover {
-      background: rgba(255, 255, 255, 0.72);
-      transform: translateY(-1px);
-      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.10);
-    }
-    .item .sub {
-      display: block;
-      font-size: 10px;
-      opacity: 0.62;
-      margin-top: 2px;
-      font-weight: 400;
-    }
-
-    /* ── Cylinder item (SQLite DB) ───────────────────── */
-    .cyl-item {
-      background: rgba(255, 255, 255, 0.42);
-      border: 1px solid rgba(255, 255, 255, 0.68);
-      border-radius: 9px;
-      padding: 8px 11px;
-      text-decoration: none;
-      color: inherit;
-      display: flex;
-      align-items: center;
-      gap: 11px;
-      transition: background 0.14s ease, transform 0.12s ease;
-    }
-    .cyl-item:hover {
-      background: rgba(255, 255, 255, 0.72);
-      transform: translateY(-1px);
-    }
-    .cyl-item .cyl-label {
-      font-size: 12px;
-      font-weight: 600;
-      line-height: 1.3;
-    }
-    .cyl-item .cyl-sub {
-      font-size: 10px;
-      opacity: 0.62;
-      margin-top: 2px;
-    }
-
-    /* ── Block colour themes ─────────────────────────── */
-    .ext   { background: linear-gradient(145deg, #3b82f6 0%, #1d4ed8 100%); color: #fff; }
-    .clean { background: linear-gradient(145deg, #22c55e 0%, #15803d 100%); color: #fff; }
-    .trans { background: linear-gradient(145deg, #f97316 0%, #c2410c 100%); color: #fff; }
-    .load  { background: linear-gradient(145deg, #8b5cf6 0%, #6d28d9 100%); color: #fff; }
-    .eda   { background: linear-gradient(145deg, #f43f5e 0%, #be123c 100%); color: #fff; }
-    .deliv { background: linear-gradient(145deg, #14b8a6 0%, #0f766e 100%); color: #fff; }
-
-    /* ── Row connector SVG ───────────────────────────── */
-    .row-connector {
-      display: block;
-      overflow: visible;
-    }
-
-    /* ── Footer ──────────────────────────────────────── */
-    footer {
-      text-align: center;
-      margin-top: 60px;
-      font-size: 12px;
-      color: #94a3b8;
-    }
-    footer a { color: #64748b; text-decoration: none; }
-    footer a:hover { text-decoration: underline; }
-  </style>
+.file-a{background:#FAEEDA;border-color:#BA7517;color:#633806}
+</style>
 </head>
 <body>
 
-<!-- ═══ HEADER ════════════════════════════════════════ -->
-<header>
-  <h1>Pipeline ETL — Predicción de Quiebra Empresarial</h1>
-  <p>
-    TFG · Business Analytics · Universidad Francisco de Vitoria &nbsp;·&nbsp;
-    <a href="https://github.com/nicoverme/TFG_Prediccion_Quiebra" target="_blank">
-      Ver repositorio en GitHub ↗
-    </a>
-  </p>
-</header>
+<div class="title">TFG Nicolás Vermeulen · Ingeniería del Dato</div>
+<div class="sub">Diagrama de Flujo ETL · Predicción del riesgo de quiebra empresarial</div>
 
-<!-- ═══ PIPELINE ══════════════════════════════════════ -->
-<!--
-  Row width = 288px × 3 blocks + 52px × 2 arrows = 864 + 104 = 968px
-  Block centres (row-relative):
-    Block 1: 0–288   → centre x = 144
-    Block 2: 340–628 → centre x = 484
-    Block 3: 680–968 → centre x = 824
--->
-<div class="pipeline">
+<!-- FILA 1 -->
+<div class="row">
 
-  <!-- ═══ ROW 1 ════════════════════════════════════ -->
-  <div class="etl-row">
-
-    <!-- 1 · EXTRACCIÓN ─────────────────────────── -->
-    <div class="block ext">
-      <div class="block-step">Paso 1</div>
-      <div class="block-title">Extracción</div>
-      <div class="block-script">
-        TFG_Ingeniería_Dato.py<br>
-        TFG_Eurostat_BancoEspaña.py
-      </div>
-
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Ingenier%C3%ADa_Dato.py"
-         target="_blank">
-        🌐 API EDGAR / SEC
-        <span class="sub">10,000+ empresas · 9 variables brutas por empresa</span>
+  <div class="block b-ext">
+    <div class="bh">Extracción</div>
+    <div class="bb">
+      <a class="s s-ext" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Ingenier%C3%ADa_Dato.py" target="_blank">1.1 API EDGAR / SEC</a>
+      <a class="s s-ext" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Ingenier%C3%ADa_Dato.py" target="_blank">1.2 Variables financieras</a>
+      <a class="s s-ext" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Ingenier%C3%ADa_Dato.py" target="_blank">1.3 Nombres alternativos
+        <span class="sd">5 etiquetas → Revenues</span>
       </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Eurostat_BancoEspa%C3%B1a.py"
-         target="_blank">
-        🇪🇺 Eurostat
-        <span class="sub">Índice anual de quiebras europeas · descarga manual</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/SB_CBRATIOS"
-         target="_blank">
-        🏦 Banco de España — SB_CBRATIOS
-        <span class="sub">23 archivos CSV · sep=';' · encoding latin1</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/dataset_edgar.csv"
-         target="_blank">
-        📄 dataset_edgar.csv
-        <span class="sub">Salida · datos financieros brutos EDGAR</span>
-      </a>
+      <a class="s s-ext" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/SB_CBRATIOS" target="_blank">1.4 Eurostat · Banco España</a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/dataset_edgar.csv" target="_blank">dataset_edgar.csv · +64.000 filas</a>
     </div>
+  </div>
 
-    <!-- → -->
-    <div class="h-arrow">
-      <svg width="52" height="36" viewBox="0 0 52 36">
-        <line x1="4" y1="18" x2="39" y2="18"
-              stroke="rgba(148,163,184,0.9)" stroke-width="2.4"/>
-        <polygon points="39,12 52,18 39,24"
-                 fill="rgba(148,163,184,0.9)"/>
-      </svg>
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#1976d2" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#1976d2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+
+  <div class="block b-lim">
+    <div class="bh">Limpieza</div>
+    <div class="bb">
+      <a class="s s-lim" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">2.1 Nulos críticos
+        <span class="sd">−5.006 filas</span>
+      </a>
+      <a class="s s-lim" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">2.2 Filtro temporal
+        <span class="sd">1993–2023 · −10.215 filas</span>
+      </a>
+      <a class="s s-lim" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">2.3 Sector bancario
+        <span class="sd">−7.332 filas</span>
+      </a>
+      <a class="s s-lim" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">2.4 Interpolación lineal
+        <span class="sd">Mín. 3 años · −23.090 filas</span>
+      </a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/dataset_limpio.csv" target="_blank">dataset_limpio.csv · 18.666 filas</a>
     </div>
+  </div>
 
-    <!-- 2 · LIMPIEZA ───────────────────────────── -->
-    <div class="block clean">
-      <div class="block-step">Paso 2</div>
-      <div class="block-title">Limpieza</div>
-      <div class="block-script">TFG_Limpieza_Transformación.py</div>
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#388e3c" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#388e3c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
 
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py"
-         target="_blank">
-        🔴 Nulos críticos eliminados
-        <span class="sub">Assets &amp; NetIncomeLoss obligatorios</span>
+  <div class="block b-tra">
+    <div class="bh">Transformación</div>
+    <div class="bb">
+      <a class="s s-tra" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">3.1 Unificación Revenues</a>
+      <a class="s s-tra" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">3.2 Cálculo 11 ratios
+        <span class="sd">ROA · ROE · liquidez · endeud…</span>
       </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py"
-         target="_blank">
-        📅 Filtro temporal
-        <span class="sub">Rango consistente 1993 – 2023</span>
+      <a class="s s-tra" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">3.3 Transf. logarítmica</a>
+      <a class="s s-tra" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py" target="_blank">3.4 Variable objetivo
+        <span class="sd">quebró = 1 · Chapter 7/11</span>
       </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py"
-         target="_blank">
-        🏛️ Exclusión sector financiero
-        <span class="sub">Bank · Financial · Insurance · Trust · Mortgage…</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py"
-         target="_blank">
-        〰️ Interpolación lineal
-        <span class="sub">Por empresa (CIK) · rellena años intermedios</span>
-      </a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Datos_CSV" target="_blank">dataset_final_completo.csv</a>
     </div>
+  </div>
 
-    <!-- → -->
-    <div class="h-arrow">
-      <svg width="52" height="36" viewBox="0 0 52 36">
-        <line x1="4" y1="18" x2="39" y2="18"
-              stroke="rgba(148,163,184,0.9)" stroke-width="2.4"/>
-        <polygon points="39,12 52,18 39,24"
-                 fill="rgba(148,163,184,0.9)"/>
-      </svg>
-    </div>
+</div>
 
-    <!-- 3 · TRANSFORMACIÓN ─────────────────────── -->
-    <div class="block trans">
-      <div class="block-step">Paso 3</div>
-      <div class="block-title">Transformación</div>
-      <div class="block-script">
-        TFG_Limpieza_Transformación.py<br>
-        TFG_Eurostat_BancoEspaña.py
-      </div>
+<!-- Flechas abajo -->
+<div class="arr-down-row">
+  <div class="arr-down-cell"><svg width="14" height="18" viewBox="0 0 14 18" fill="none"><line x1="7" y1="1" x2="7" y2="14" stroke="#512da8" stroke-width="2" stroke-linecap="round"/><polyline points="2,9 7,15 12,9" stroke="#512da8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+  <div class="arr-spacer"></div>
+  <div class="arr-down-cell"><svg width="14" height="18" viewBox="0 0 14 18" fill="none"><line x1="7" y1="1" x2="7" y2="14" stroke="#c62828" stroke-width="2" stroke-linecap="round"/><polyline points="2,9 7,15 12,9" stroke="#c62828" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+  <div class="arr-spacer"></div>
+  <div class="arr-down-cell"><svg width="14" height="18" viewBox="0 0 14 18" fill="none"><line x1="7" y1="1" x2="7" y2="14" stroke="#00796b" stroke-width="2" stroke-linecap="round"/><polyline points="2,9 7,15 12,9" stroke="#00796b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+</div>
 
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py"
-         target="_blank">
-        📊 11 Ratios financieros
-        <span class="sub">Liquidez · Endeudamiento · Rentabilidad · Cobertura · Eficiencia · Tamaño</span>
+<!-- FILA 2 -->
+<div class="row">
+
+  <div class="block b-sql">
+    <div class="bh">Carga · Base de Datos</div>
+    <div class="bb">
+      <a class="s s-sql" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_BaseDatos_SQL.py" target="_blank">4.1 SQLite
+        <span class="sd">Sin servidor · integrado en Python</span>
       </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Limpieza_Transformaci%C3%B3n.py"
-         target="_blank">
-        🎯 Variable objetivo (quebró)
-        <span class="sub">Chapter 11 EDGAR · quebró=1 / no quebró=0</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Eurostat_BancoEspa%C3%B1a.py"
-         target="_blank">
-        🔗 Integración de las 3 fuentes
-        <span class="sub">EDGAR + Eurostat España + Banco de España</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/dataset_limpio.csv"
-         target="_blank">
-        📄 dataset_limpio.csv
-        <span class="sub">Salida · dataset listo para modelar</span>
-      </a>
-    </div>
-
-  </div><!-- /row 1 -->
-
-  <!-- ═══ CONNECTOR ROW 1 → ROW 2 ══════════════════
-    Row width = 968 px
-    U-path:  (930, 6) → (967, 6) → (967, 55) → (144, 55)
-    Arrow:   downward at (144, 55) → tip at (144, 67)
-  ════════════════════════════════════════════════════ -->
-  <svg class="row-connector"
-       width="968" height="68"
-       viewBox="0 0 968 68">
-    <path d="M 930 6 L 967 6 L 967 55 L 144 55"
-          fill="none"
-          stroke="rgba(148,163,184,0.80)"
-          stroke-width="2.4"
-          stroke-dasharray="7,4"
-          stroke-linecap="round"/>
-    <!-- Arrowhead pointing down at (144, 55) -->
-    <polygon points="136,47 152,47 144,67"
-             fill="rgba(148,163,184,0.85)"/>
-    <!-- Label on horizontal segment -->
-    <text x="555" y="44"
-          text-anchor="middle"
-          font-family="'Segoe UI', system-ui, sans-serif"
-          font-size="10.5"
-          fill="rgba(100,116,139,0.95)">
-      dataset_final_completo.csv · 18,666 filas · 25 columnas
-    </text>
-  </svg>
-
-  <!-- ═══ ROW 2 ════════════════════════════════════ -->
-  <div class="etl-row">
-
-    <!-- 4 · CARGA / BASE DE DATOS ──────────────── -->
-    <div class="block load">
-      <div class="block-step">Paso 4</div>
-      <div class="block-title">Carga / Base de Datos</div>
-      <div class="block-script">TFG_BaseDatos_SQL.py</div>
-
-      <!-- Cylinder SVG (SQLite) -->
-      <a class="cyl-item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Base_Datos"
-         target="_blank">
-        <svg width="30" height="38" viewBox="0 0 30 38" flex-shrink="0">
-          <!-- Top ellipse -->
-          <ellipse cx="15" cy="7.5" rx="14" ry="6"
-                   fill="rgba(255,255,255,0.48)"
-                   stroke="rgba(255,255,255,0.78)" stroke-width="1.2"/>
-          <!-- Body rect -->
-          <rect x="1" y="7.5" width="28" height="20"
-                fill="rgba(255,255,255,0.22)"/>
-          <!-- Left & right lines -->
-          <line x1="1"  y1="7.5" x2="1"  y2="27.5"
-                stroke="rgba(255,255,255,0.65)" stroke-width="1.2"/>
-          <line x1="29" y1="7.5" x2="29" y2="27.5"
-                stroke="rgba(255,255,255,0.65)" stroke-width="1.2"/>
-          <!-- Middle decorative ellipse -->
-          <ellipse cx="15" cy="17.5" rx="14" ry="6"
-                   fill="rgba(255,255,255,0.10)"
-                   stroke="rgba(255,255,255,0.32)" stroke-width="0.8"/>
-          <!-- Bottom ellipse -->
-          <ellipse cx="15" cy="27.5" rx="14" ry="6"
-                   fill="rgba(255,255,255,0.35)"
-                   stroke="rgba(255,255,255,0.68)" stroke-width="1.2"/>
-        </svg>
-        <div>
-          <div class="cyl-label">TFG_BaseDatos.db — SQLite</div>
-          <div class="cyl-sub">Base_Datos/ · 73 MB</div>
+      <a class="s s-sql" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_BaseDatos_SQL.py" target="_blank">4.2 Tabla empresas_financiero</a>
+      <a class="s s-sql" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_BaseDatos_SQL.py" target="_blank">4.3 Tabla eurostat_quiebras</a>
+      <a class="db-wrap" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Base_Datos" target="_blank">
+        <div class="db-top" style="background:#AFA9EC;border-color:#534AB7"></div>
+        <div class="db-body" style="background:#7F77DD;border-color:#534AB7">
+          <span class="db-lbl" style="color:#EEEDFE">TFG_BaseDatos.db</span>
+          <span class="db-sub" style="color:#CECBF6">2 tablas · SQLite</span>
         </div>
-      </a>
-
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_BaseDatos_SQL.py"
-         target="_blank">
-        📋 Tabla empresas_financiero
-        <span class="sub">Dataset principal cargado en SQLite</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_BaseDatos_SQL.py"
-         target="_blank">
-        📋 Tabla eurostat_quiebras
-        <span class="sub">Datos macroeconómicos europeos</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_BaseDatos_SQL.py"
-         target="_blank">
-        ✅ Verificación SQL
-        <span class="sub">SELECT COUNT(*) · integridad confirmada</span>
+        <div class="db-bot" style="background:#AFA9EC;border-color:#534AB7"></div>
       </a>
     </div>
+  </div>
 
-    <!-- → -->
-    <div class="h-arrow">
-      <svg width="52" height="36" viewBox="0 0 52 36">
-        <line x1="4" y1="18" x2="39" y2="18"
-              stroke="rgba(148,163,184,0.9)" stroke-width="2.4"/>
-        <polygon points="39,12 52,18 39,24"
-                 fill="rgba(148,163,184,0.9)"/>
-      </svg>
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#c62828" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#c62828" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+
+  <div class="block b-eda">
+    <div class="bh">Visualización · EDA</div>
+    <div class="bb">
+      <a class="s s-eda" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py" target="_blank">5.1 Limpieza y transf. G.1–3</a>
+      <a class="s s-eda" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py" target="_blank">5.2 Variable objetivo G.4–5</a>
+      <a class="s s-eda" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py" target="_blank">5.3 Análisis univariante G.6–7</a>
+      <a class="s s-eda" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py" target="_blank">5.4 Análisis bivariante G.8–10</a>
+      <a class="s s-eda" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py" target="_blank">5.5 Análisis multivariante G.11–13</a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">Graficos/ · 13 PNG</a>
     </div>
+  </div>
 
-    <!-- 5 · VISUALIZACIÓN EDA ──────────────────── -->
-    <div class="block eda">
-      <div class="block-step">Paso 5</div>
-      <div class="block-title">Visualización EDA</div>
-      <div class="block-script">TFG_Analisis_EDA.py</div>
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#00796b" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#00796b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
 
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py"
-         target="_blank">
-        🧹 Limpieza y Transformación
-        <span class="sub">Sección 1 · Gráficos 1–3</span>
+  <div class="block b-ent">
+    <div class="bh">Entregables Finales</div>
+    <div class="bb">
+      <a class="s s-ent" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/dataset_limpio.csv" target="_blank">dataset_limpio.csv
+        <span class="sd">18.666 filas · 25 columnas</span>
       </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py"
-         target="_blank">
-        🎯 Variable Objetivo
-        <span class="sub">Sección 2 · Gráficos 4–5</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Analisis_EDA.py"
-         target="_blank">
-        📈 Univariante · Bivariante · Multivariante
-        <span class="sub">Secciones 3–5 · Gráficos 6–13</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos"
-         target="_blank">
-        🖼️ Graficos/
-        <span class="sub">13 PNG exportados automáticamente</span>
-      </a>
+      <a class="s s-ent" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Base_Datos" target="_blank">TFG_BaseDatos.db</a>
+      <a class="s s-ent" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">13 gráficos EDA · 5 secciones</a>
+      <a class="s s-ent" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Scripts" target="_blank">5 scripts Python</a>
     </div>
+  </div>
 
-    <!-- → -->
-    <div class="h-arrow">
-      <svg width="52" height="36" viewBox="0 0 52 36">
-        <line x1="4" y1="18" x2="39" y2="18"
-              stroke="rgba(148,163,184,0.9)" stroke-width="2.4"/>
-        <polygon points="39,12 52,18 39,24"
-                 fill="rgba(148,163,184,0.9)"/>
-      </svg>
-    </div>
+</div>
 
-    <!-- 6 · ENTREGABLES FINALES ─────────────────── -->
-    <div class="block deliv">
-      <div class="block-step">Entregables</div>
-      <div class="block-title">Entregables Finales</div>
-      <div class="block-script">github.com/nicoverme/TFG_Prediccion_Quiebra</div>
-
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Scripts"
-         target="_blank">
-        🐍 Scripts/
-        <span class="sub">5 scripts Python documentados</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Datos_CSV"
-         target="_blank">
-        📂 Datos_CSV/
-        <span class="sub">4 datasets procesados</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos"
-         target="_blank">
-        📊 Graficos/
-        <span class="sub">13 gráficos EDA · formato PNG</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Base_Datos"
-         target="_blank">
-        🗄️ Base_Datos/
-        <span class="sub">TFG_BaseDatos.db · SQLite</span>
-      </a>
-      <a class="item"
-         href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Documentaci%C3%B3n"
-         target="_blank">
-        📚 Documentación/
-        <span class="sub">10 PDFs · normativa · plantillas TFG</span>
-      </a>
-    </div>
-
-  </div><!-- /row 2 -->
-
-</div><!-- /pipeline -->
-
-<!-- ═══ FOOTER ════════════════════════════════════════ -->
-<footer>
-  <p>
-    Pipeline ETL · TFG Business Analytics · UFV · 2026 &nbsp;·&nbsp;
-    <a href="https://github.com/nicoverme/TFG_Prediccion_Quiebra" target="_blank">
-      GitHub ↗
-    </a>
-  </p>
-</footer>
+<!-- LEYENDA -->
+<div class="leg">
+  <div class="li"><div class="ld" style="background:#185FA5"></div>Extracción</div>
+  <div class="li"><div class="ld" style="background:#3B6D11"></div>Limpieza</div>
+  <div class="li"><div class="ld" style="background:#854F0B"></div>Transformación</div>
+  <div class="li"><div class="ld" style="background:#534AB7"></div>Carga</div>
+  <div class="li"><div class="ld" style="background:#993C1D"></div>EDA</div>
+  <div class="li"><div class="ld" style="background:#0F6E56"></div>Entregables</div>
+</div>
+<div class="note">Cada recuadro enlaza al repositorio · github.com/nicoverme/TFG_Prediccion_Quiebra</div>
 
 </body>
 </html>
