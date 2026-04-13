@@ -1,0 +1,167 @@
+<style>
+*{box-sizing:border-box;margin:0;padding:0;font-family:var(--font-sans)}
+.wrap{padding:8px 0}
+.title{text-align:center;font-size:14px;font-weight:500;color:var(--color-text-primary);margin-bottom:2px}
+.sub{text-align:center;font-size:11px;color:var(--color-text-secondary);margin-bottom:12px}
+.row{display:flex;gap:8px;align-items:stretch;margin-bottom:0}
+.arrow-col{display:flex;align-items:center;justify-content:center;flex-shrink:0;width:26px}
+.arr-down-row{display:flex;gap:8px;margin:3px 0}
+.arr-down-cell{flex:1;display:flex;justify-content:center}
+.arr-spacer{width:26px;flex-shrink:0}
+.block{border-radius:9px;border:1.5px solid;overflow:hidden;flex:1}
+.bh{padding:5px 8px;font-size:10px;font-weight:500;letter-spacing:.05em;text-transform:uppercase;text-align:center}
+.bb{padding:5px;display:flex;flex-direction:column;gap:3px}
+.s{border-radius:5px;padding:5px 7px;text-decoration:none;display:block;cursor:pointer;transition:opacity .15s;font-size:10px;font-weight:500;color:inherit;line-height:1.3}
+.s:hover{opacity:.8}
+.sd{font-size:9px;opacity:.75;display:block;margin-top:1px}
+.file{border-radius:5px;padding:3px 7px;text-decoration:none;display:block;cursor:pointer;border:1px dashed;text-align:center;font-size:9.5px;font-weight:500;margin-top:3px;transition:opacity .15s}
+.file:hover{opacity:.8}
+.leg{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:10px}
+.li{display:flex;align-items:center;gap:4px;font-size:9px;color:var(--color-text-secondary)}
+.ld{width:8px;height:8px;border-radius:2px;flex-shrink:0}
+.note{text-align:center;font-size:9px;color:var(--color-text-tertiary);margin-top:5px}
+
+.b-pre{background:#EAF3DE;border-color:#3B6D11}.b-pre .bh{background:#3B6D11;color:#EAF3DE}
+.s-pre{background:#639922;color:#EAF3DE}
+.b-m1{background:#EBF4FD;border-color:#185FA5}.b-m1 .bh{background:#185FA5;color:#E6F1FB}
+.s-m1{background:#378ADD;color:#E6F1FB}
+.b-m2{background:#EEEDFE;border-color:#534AB7}.b-m2 .bh{background:#534AB7;color:#EEEDFE}
+.s-m2{background:#7F77DD;color:#EEEDFE}
+.b-met{background:#FDF3E3;border-color:#854F0B}.b-met .bh{background:#854F0B;color:#FAEEDA}
+.s-met{background:#BA7517;color:#FAEEDA}
+.b-vis{background:#FAECE7;border-color:#993C1D}.b-vis .bh{background:#993C1D;color:#FAECE7}
+.s-vis{background:#D85A30;color:#FAECE7}
+.b-res{background:#E1F5EE;border-color:#0F6E56}.b-res .bh{background:#0F6E56;color:#E1F5EE}
+.s-res{background:#1D9E75;color:#E1F5EE}
+.file-a{background:#FAEEDA;border-color:#BA7517;color:#633806}
+
+@media(prefers-color-scheme:dark){
+  .b-pre{background:#173404;border-color:#3B6D11}.s-pre{background:#3B6D11;color:#C0DD97}
+  .b-m1{background:#042C53;border-color:#185FA5}.s-m1{background:#185FA5;color:#B5D4F4}
+  .b-m2{background:#26215C;border-color:#534AB7}.s-m2{background:#534AB7;color:#CECBF6}
+  .b-met{background:#412402;border-color:#854F0B}.s-met{background:#854F0B;color:#FAC775}
+  .b-vis{background:#4A1B0C;border-color:#993C1D}.s-vis{background:#993C1D;color:#F5C4B3}
+  .b-res{background:#04342C;border-color:#0F6E56}.s-res{background:#0F6E56;color:#9FE1CB}
+  .file-a{background:#412402;border-color:#BA7517;color:#FAC775}
+}
+</style>
+
+<div class="wrap">
+<div class="title">TFG Nicolás Vermeulen · Análisis del Dato</div>
+<div class="sub">Diagrama de Flujo · Predicción del riesgo de quiebra empresarial</div>
+
+<!-- FILA 1 -->
+<div class="row">
+  <div class="block b-pre">
+    <div class="bh">Preparación</div>
+    <div class="bb">
+      <a class="s s-pre" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Regresion_Logistica.py" target="_blank">1.1 Carga dataset limpio
+        <span class="sd">18.666 filas · 11 ratios</span>
+      </a>
+      <a class="s s-pre" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Regresion_Logistica.py" target="_blank">1.2 Train / Test split
+        <span class="sd">80% / 20% · stratify=y</span>
+      </a>
+      <a class="s s-pre" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Regresion_Logistica.py" target="_blank">1.3 Desbalanceo de clases
+        <span class="sd">class_weight='balanced'</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#3B6D11" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#3B6D11" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+
+  <div class="block b-m1">
+    <div class="bh">Modelo A · Regresión Logística</div>
+    <div class="bb">
+      <a class="s s-m1" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Regresion_Logistica.py" target="_blank">2.1 StandardScaler</a>
+      <a class="s s-m1" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Regresion_Logistica.py" target="_blank">2.2 LogisticRegression
+        <span class="sd">Modelo clásico · interpretable</span>
+      </a>
+      <a class="s s-m1" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Regresion_Logistica.py" target="_blank">2.3 Coeficientes</a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/resultados_regresion_logistica.csv" target="_blank">resultados_reg_logistica.csv</a>
+    </div>
+  </div>
+
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#185FA5" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#185FA5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+
+  <div class="block b-m2">
+    <div class="bh">Modelo B · Random Forest</div>
+    <div class="bb">
+      <a class="s s-m2" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Random_Forest.py" target="_blank">3.1 RandomForestClassifier
+        <span class="sd">200 árboles · balanced</span>
+      </a>
+      <a class="s s-m2" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Random_Forest.py" target="_blank">3.2 Importancia variables</a>
+      <a class="s s-m2" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Random_Forest.py" target="_blank">3.3 Sin escalado previo</a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/resultados_random_forest.csv" target="_blank">resultados_random_forest.csv</a>
+    </div>
+  </div>
+</div>
+
+<!-- Flechas abajo -->
+<div class="arr-down-row">
+  <div class="arr-down-cell"><svg width="14" height="18" viewBox="0 0 14 18" fill="none"><line x1="7" y1="1" x2="7" y2="14" stroke="#854F0B" stroke-width="2" stroke-linecap="round"/><polyline points="2,9 7,15 12,9" stroke="#854F0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+  <div class="arr-spacer"></div>
+  <div class="arr-down-cell"><svg width="14" height="18" viewBox="0 0 14 18" fill="none"><line x1="7" y1="1" x2="7" y2="14" stroke="#993C1D" stroke-width="2" stroke-linecap="round"/><polyline points="2,9 7,15 12,9" stroke="#993C1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+  <div class="arr-spacer"></div>
+  <div class="arr-down-cell"><svg width="14" height="18" viewBox="0 0 14 18" fill="none"><line x1="7" y1="1" x2="7" y2="14" stroke="#0F6E56" stroke-width="2" stroke-linecap="round"/><polyline points="2,9 7,15 12,9" stroke="#0F6E56" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+</div>
+
+<!-- FILA 2 -->
+<div class="row">
+  <div class="block b-met">
+    <div class="bh">Métricas de Evaluación</div>
+    <div class="bb">
+      <a class="s s-met" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Comparacion_Modelos.py" target="_blank">4.1 Accuracy</a>
+      <a class="s s-met" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Comparacion_Modelos.py" target="_blank">4.2 Precision · Recall · F1</a>
+      <a class="s s-met" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Scripts/TFG_Comparacion_Modelos.py" target="_blank">4.3 AUC-ROC
+        <span class="sd">RF: 0.910 · RL: 0.765</span>
+      </a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/comparacion_modelos.csv" target="_blank">comparacion_modelos.csv</a>
+    </div>
+  </div>
+
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#993C1D" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#993C1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+
+  <div class="block b-vis">
+    <div class="bh">Visualización</div>
+    <div class="bb">
+      <a class="s s-vis" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">5.1 Matrices de confusión</a>
+      <a class="s s-vis" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">5.2 Curvas ROC comparadas</a>
+      <a class="s s-vis" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">5.3 Importancia de variables</a>
+      <a class="s s-vis" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">5.4 Comparativa de métricas</a>
+      <a class="file file-a" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">Graficos/ · 9 PNG</a>
+    </div>
+  </div>
+
+  <div class="arrow-col">
+    <svg width="22" height="14" viewBox="0 0 22 14" fill="none"><line x1="1" y1="7" x2="18" y2="7" stroke="#0F6E56" stroke-width="2" stroke-linecap="round"/><polyline points="12,2 19,7 12,12" stroke="#0F6E56" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+
+  <div class="block b-res">
+    <div class="bh">Resultados</div>
+    <div class="bb">
+      <a class="s s-res" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/blob/main/Datos_CSV/comparacion_modelos.csv" target="_blank">Random Forest gana
+        <span class="sd">AUC 0.910 vs 0.765</span>
+      </a>
+      <a class="s s-res" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Scripts" target="_blank">3 scripts Python</a>
+      <a class="s s-res" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Graficos" target="_blank">9 gráficos generados</a>
+      <a class="s s-res" href="https://github.com/nicoverme/TFG_Prediccion_Quiebra/tree/main/Datos_CSV" target="_blank">3 CSVs de resultados</a>
+    </div>
+  </div>
+</div>
+
+<div class="leg">
+  <div class="li"><div class="ld" style="background:#3B6D11"></div>Preparación</div>
+  <div class="li"><div class="ld" style="background:#185FA5"></div>Reg. Logística</div>
+  <div class="li"><div class="ld" style="background:#534AB7"></div>Random Forest</div>
+  <div class="li"><div class="ld" style="background:#854F0B"></div>Métricas</div>
+  <div class="li"><div class="ld" style="background:#993C1D"></div>Visualización</div>
+  <div class="li"><div class="ld" style="background:#0F6E56"></div>Resultados</div>
+</div>
+<div class="note">Cada recuadro enlaza al repositorio · github.com/nicoverme/TFG_Prediccion_Quiebra</div>
+</div>
