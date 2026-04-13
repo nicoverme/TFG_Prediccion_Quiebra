@@ -1,0 +1,3 @@
+Modelo,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Regresión Logística,0.704,0.0232,1.0,0.0453,0.7654
+Random Forest,0.9833,0.1667,0.3462,0.225,0.9102

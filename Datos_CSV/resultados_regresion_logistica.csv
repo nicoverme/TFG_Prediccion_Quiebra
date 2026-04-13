@@ -1,0 +1,2 @@
+Modelo,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Regresión Logística,0.704,0.0232,1.0,0.0453,0.7654
